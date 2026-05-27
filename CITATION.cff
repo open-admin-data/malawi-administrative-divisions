@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite as below"
+type: dataset
+authors:
+  - name: "jakkrapongt"
+title: "Malawi Administrative Divisions Dataset"
+version: "2026.05"
+date-released: "2026-05-27"
+url: "https://github.com/open-admin-data/malawi-administrative-divisions"
+repository-code: "https://github.com/open-admin-data/malawi-administrative-divisions"
+license: CC-BY-4.0
+keywords:
+  - malawi
+  - administrative-divisions
+  - geography
+  - open-data
+  - dataset
+  - multilingual
+abstract: >
+  Open dataset of Malawi's administrative hierarchy:
+  3 regions, 32 districts, 433 traditional authoritys.
+  Bilingual with coordinates and postal codes where available.

@@ -1,0 +1,1514 @@
+[
+  {
+    "id": "MW20120",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Kasungu Boma",
+      "en": "Kasungu Boma",
+      "slug": "kasungu-boma-mw20120"
+    },
+    "code": {
+      "id": "MW20120",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW201",
+      "level": 2,
+      "name": {
+        "local": "Kasungu",
+        "en": "Kasungu",
+        "slug": "kasungu-mw201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW201",
+        "level": 2,
+        "name": {
+          "local": "Kasungu",
+          "en": "Kasungu",
+          "slug": "kasungu-mw201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.037",
+      "lon": "33.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20128",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Kasungu National Park",
+      "en": "Kasungu National Park",
+      "slug": "kasungu-national-park-mw20128"
+    },
+    "code": {
+      "id": "MW20128",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW201",
+      "level": 2,
+      "name": {
+        "local": "Kasungu",
+        "en": "Kasungu",
+        "slug": "kasungu-mw201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW201",
+        "level": 2,
+        "name": {
+          "local": "Kasungu",
+          "en": "Kasungu",
+          "slug": "kasungu-mw201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.945",
+      "lon": "33.184"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20115",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "STA Chaima",
+      "en": "STA Chaima",
+      "slug": "sta-chaima-mw20115"
+    },
+    "code": {
+      "id": "MW20115",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW201",
+      "level": 2,
+      "name": {
+        "local": "Kasungu",
+        "en": "Kasungu",
+        "slug": "kasungu-mw201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW201",
+        "level": 2,
+        "name": {
+          "local": "Kasungu",
+          "en": "Kasungu",
+          "slug": "kasungu-mw201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.411",
+      "lon": "33.22"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20111",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "STA Chambwe",
+      "en": "STA Chambwe",
+      "slug": "sta-chambwe-mw20111"
+    },
+    "code": {
+      "id": "MW20111",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW201",
+      "level": 2,
+      "name": {
+        "local": "Kasungu",
+        "en": "Kasungu",
+        "slug": "kasungu-mw201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW201",
+        "level": 2,
+        "name": {
+          "local": "Kasungu",
+          "en": "Kasungu",
+          "slug": "kasungu-mw201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.185",
+      "lon": "33.644"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20105",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "STA Chisikwa",
+      "en": "STA Chisikwa",
+      "slug": "sta-chisikwa-mw20105"
+    },
+    "code": {
+      "id": "MW20105",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW201",
+      "level": 2,
+      "name": {
+        "local": "Kasungu",
+        "en": "Kasungu",
+        "slug": "kasungu-mw201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW201",
+        "level": 2,
+        "name": {
+          "local": "Kasungu",
+          "en": "Kasungu",
+          "slug": "kasungu-mw201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.411",
+      "lon": "33.539"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20113",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "STA Chisinga",
+      "en": "STA Chisinga",
+      "slug": "sta-chisinga-mw20113"
+    },
+    "code": {
+      "id": "MW20113",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW201",
+      "level": 2,
+      "name": {
+        "local": "Kasungu",
+        "en": "Kasungu",
+        "slug": "kasungu-mw201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW201",
+        "level": 2,
+        "name": {
+          "local": "Kasungu",
+          "en": "Kasungu",
+          "slug": "kasungu-mw201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.604",
+      "lon": "33.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20125",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "STA Kapichira",
+      "en": "STA Kapichira",
+      "slug": "sta-kapichira-mw20125"
+    },
+    "code": {
+      "id": "MW20125",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW201",
+      "level": 2,
+      "name": {
+        "local": "Kasungu",
+        "en": "Kasungu",
+        "slug": "kasungu-mw201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW201",
+        "level": 2,
+        "name": {
+          "local": "Kasungu",
+          "en": "Kasungu",
+          "slug": "kasungu-mw201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.928",
+      "lon": "33.968"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20104",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "STA M'nyanja",
+      "en": "STA M'nyanja",
+      "slug": "sta-mnyanja-mw20104"
+    },
+    "code": {
+      "id": "MW20104",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW201",
+      "level": 2,
+      "name": {
+        "local": "Kasungu",
+        "en": "Kasungu",
+        "slug": "kasungu-mw201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW201",
+        "level": 2,
+        "name": {
+          "local": "Kasungu",
+          "en": "Kasungu",
+          "slug": "kasungu-mw201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.742",
+      "lon": "33.473"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20117",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "STA Mangwazu",
+      "en": "STA Mangwazu",
+      "slug": "sta-mangwazu-mw20117"
+    },
+    "code": {
+      "id": "MW20117",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW201",
+      "level": 2,
+      "name": {
+        "local": "Kasungu",
+        "en": "Kasungu",
+        "slug": "kasungu-mw201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW201",
+        "level": 2,
+        "name": {
+          "local": "Kasungu",
+          "en": "Kasungu",
+          "slug": "kasungu-mw201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.026",
+      "lon": "33.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20118",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "STA Mawawa",
+      "en": "STA Mawawa",
+      "slug": "sta-mawawa-mw20118"
+    },
+    "code": {
+      "id": "MW20118",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW201",
+      "level": 2,
+      "name": {
+        "local": "Kasungu",
+        "en": "Kasungu",
+        "slug": "kasungu-mw201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW201",
+        "level": 2,
+        "name": {
+          "local": "Kasungu",
+          "en": "Kasungu",
+          "slug": "kasungu-mw201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.057",
+      "lon": "33.349"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20126",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "STA Mdunga",
+      "en": "STA Mdunga",
+      "slug": "sta-mdunga-mw20126"
+    },
+    "code": {
+      "id": "MW20126",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW201",
+      "level": 2,
+      "name": {
+        "local": "Kasungu",
+        "en": "Kasungu",
+        "slug": "kasungu-mw201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW201",
+        "level": 2,
+        "name": {
+          "local": "Kasungu",
+          "en": "Kasungu",
+          "slug": "kasungu-mw201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.998",
+      "lon": "33.875"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20114",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "STA Mphomwa",
+      "en": "STA Mphomwa",
+      "slug": "sta-mphomwa-mw20114"
+    },
+    "code": {
+      "id": "MW20114",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW201",
+      "level": 2,
+      "name": {
+        "local": "Kasungu",
+        "en": "Kasungu",
+        "slug": "kasungu-mw201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW201",
+        "level": 2,
+        "name": {
+          "local": "Kasungu",
+          "en": "Kasungu",
+          "slug": "kasungu-mw201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.833",
+      "lon": "33.431"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20108",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "STA Nthunduwala",
+      "en": "STA Nthunduwala",
+      "slug": "sta-nthunduwala-mw20108"
+    },
+    "code": {
+      "id": "MW20108",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW201",
+      "level": 2,
+      "name": {
+        "local": "Kasungu",
+        "en": "Kasungu",
+        "slug": "kasungu-mw201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW201",
+        "level": 2,
+        "name": {
+          "local": "Kasungu",
+          "en": "Kasungu",
+          "slug": "kasungu-mw201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.321",
+      "lon": "33.07"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20122",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Chidzuma",
+      "en": "TA Chidzuma",
+      "slug": "ta-chidzuma-mw20122"
+    },
+    "code": {
+      "id": "MW20122",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW201",
+      "level": 2,
+      "name": {
+        "local": "Kasungu",
+        "en": "Kasungu",
+        "slug": "kasungu-mw201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW201",
+        "level": 2,
+        "name": {
+          "local": "Kasungu",
+          "en": "Kasungu",
+          "slug": "kasungu-mw201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.372",
+      "lon": "33.334"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20110",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Chilowamatambe",
+      "en": "TA Chilowamatambe",
+      "slug": "ta-chilowamatambe-mw20110"
+    },
+    "code": {
+      "id": "MW20110",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW201",
+      "level": 2,
+      "name": {
+        "local": "Kasungu",
+        "en": "Kasungu",
+        "slug": "kasungu-mw201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW201",
+        "level": 2,
+        "name": {
+          "local": "Kasungu",
+          "en": "Kasungu",
+          "slug": "kasungu-mw201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.101",
+      "lon": "33.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20102",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Chisemphere",
+      "en": "TA Chisemphere",
+      "slug": "ta-chisemphere-mw20102"
+    },
+    "code": {
+      "id": "MW20102",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW201",
+      "level": 2,
+      "name": {
+        "local": "Kasungu",
+        "en": "Kasungu",
+        "slug": "kasungu-mw201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW201",
+        "level": 2,
+        "name": {
+          "local": "Kasungu",
+          "en": "Kasungu",
+          "slug": "kasungu-mw201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.644",
+      "lon": "33.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20112",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Chulu",
+      "en": "TA Chulu",
+      "slug": "ta-chulu-mw20112"
+    },
+    "code": {
+      "id": "MW20112",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW201",
+      "level": 2,
+      "name": {
+        "local": "Kasungu",
+        "en": "Kasungu",
+        "slug": "kasungu-mw201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW201",
+        "level": 2,
+        "name": {
+          "local": "Kasungu",
+          "en": "Kasungu",
+          "slug": "kasungu-mw201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.785",
+      "lon": "33.338"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20101",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Kaluluma",
+      "en": "TA Kaluluma",
+      "slug": "ta-kaluluma-mw20101"
+    },
+    "code": {
+      "id": "MW20101",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW201",
+      "level": 2,
+      "name": {
+        "local": "Kasungu",
+        "en": "Kasungu",
+        "slug": "kasungu-mw201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW201",
+        "level": 2,
+        "name": {
+          "local": "Kasungu",
+          "en": "Kasungu",
+          "slug": "kasungu-mw201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.516",
+      "lon": "33.485"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20106",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Kaomba",
+      "en": "TA Kaomba",
+      "slug": "ta-kaomba-mw20106"
+    },
+    "code": {
+      "id": "MW20106",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW201",
+      "level": 2,
+      "name": {
+        "local": "Kasungu",
+        "en": "Kasungu",
+        "slug": "kasungu-mw201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW201",
+        "level": 2,
+        "name": {
+          "local": "Kasungu",
+          "en": "Kasungu",
+          "slug": "kasungu-mw201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.026",
+      "lon": "33.525"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20124",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Kapelula",
+      "en": "TA Kapelula",
+      "slug": "ta-kapelula-mw20124"
+    },
+    "code": {
+      "id": "MW20124",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW201",
+      "level": 2,
+      "name": {
+        "local": "Kasungu",
+        "en": "Kasungu",
+        "slug": "kasungu-mw201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW201",
+        "level": 2,
+        "name": {
+          "local": "Kasungu",
+          "en": "Kasungu",
+          "slug": "kasungu-mw201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.904",
+      "lon": "33.871"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20116",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Kaphaizi",
+      "en": "TA Kaphaizi",
+      "slug": "ta-kaphaizi-mw20116"
+    },
+    "code": {
+      "id": "MW20116",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW201",
+      "level": 2,
+      "name": {
+        "local": "Kasungu",
+        "en": "Kasungu",
+        "slug": "kasungu-mw201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW201",
+        "level": 2,
+        "name": {
+          "local": "Kasungu",
+          "en": "Kasungu",
+          "slug": "kasungu-mw201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.96",
+      "lon": "33.356"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20107",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Kawamba",
+      "en": "TA Kawamba",
+      "slug": "ta-kawamba-mw20107"
+    },
+    "code": {
+      "id": "MW20107",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW201",
+      "level": 2,
+      "name": {
+        "local": "Kasungu",
+        "en": "Kasungu",
+        "slug": "kasungu-mw201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW201",
+        "level": 2,
+        "name": {
+          "local": "Kasungu",
+          "en": "Kasungu",
+          "slug": "kasungu-mw201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.247",
+      "lon": "33.265"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20119",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Lukwa",
+      "en": "TA Lukwa",
+      "slug": "ta-lukwa-mw20119"
+    },
+    "code": {
+      "id": "MW20119",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW201",
+      "level": 2,
+      "name": {
+        "local": "Kasungu",
+        "en": "Kasungu",
+        "slug": "kasungu-mw201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW201",
+        "level": 2,
+        "name": {
+          "local": "Kasungu",
+          "en": "Kasungu",
+          "slug": "kasungu-mw201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.119",
+      "lon": "33.354"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20127",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Mwase",
+      "en": "TA Mwase",
+      "slug": "ta-mwase-mw20127"
+    },
+    "code": {
+      "id": "MW20127",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW201",
+      "level": 2,
+      "name": {
+        "local": "Kasungu",
+        "en": "Kasungu",
+        "slug": "kasungu-mw201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW201",
+        "level": 2,
+        "name": {
+          "local": "Kasungu",
+          "en": "Kasungu",
+          "slug": "kasungu-mw201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.983",
+      "lon": "33.421"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20109",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Njombwa",
+      "en": "TA Njombwa",
+      "slug": "ta-njombwa-mw20109"
+    },
+    "code": {
+      "id": "MW20109",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW201",
+      "level": 2,
+      "name": {
+        "local": "Kasungu",
+        "en": "Kasungu",
+        "slug": "kasungu-mw201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW201",
+        "level": 2,
+        "name": {
+          "local": "Kasungu",
+          "en": "Kasungu",
+          "slug": "kasungu-mw201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.233",
+      "lon": "33.513"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20121",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Santhe",
+      "en": "TA Santhe",
+      "slug": "ta-santhe-mw20121"
+    },
+    "code": {
+      "id": "MW20121",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW201",
+      "level": 2,
+      "name": {
+        "local": "Kasungu",
+        "en": "Kasungu",
+        "slug": "kasungu-mw201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW201",
+        "level": 2,
+        "name": {
+          "local": "Kasungu",
+          "en": "Kasungu",
+          "slug": "kasungu-mw201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.485",
+      "lon": "33.303"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20103",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Simlemba",
+      "en": "TA Simlemba",
+      "slug": "ta-simlemba-mw20103"
+    },
+    "code": {
+      "id": "MW20103",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW201",
+      "level": 2,
+      "name": {
+        "local": "Kasungu",
+        "en": "Kasungu",
+        "slug": "kasungu-mw201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW201",
+        "level": 2,
+        "name": {
+          "local": "Kasungu",
+          "en": "Kasungu",
+          "slug": "kasungu-mw201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.765",
+      "lon": "33.629"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20123",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Wimbe",
+      "en": "TA Wimbe",
+      "slug": "ta-wimbe-mw20123"
+    },
+    "code": {
+      "id": "MW20123",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW201",
+      "level": 2,
+      "name": {
+        "local": "Kasungu",
+        "en": "Kasungu",
+        "slug": "kasungu-mw201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW201",
+        "level": 2,
+        "name": {
+          "local": "Kasungu",
+          "en": "Kasungu",
+          "slug": "kasungu-mw201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.903",
+      "lon": "33.688"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

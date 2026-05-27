@@ -1,0 +1,920 @@
+[
+  {
+    "id": "MW30112",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Lake Malawi National Park",
+      "en": "Lake Malawi National Park",
+      "slug": "lake-malawi-national-park-mw30112"
+    },
+    "code": {
+      "id": "MW30112",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW301",
+      "level": 2,
+      "name": {
+        "local": "Mangochi",
+        "en": "Mangochi",
+        "slug": "mangochi-mw301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW301",
+        "level": 2,
+        "name": {
+          "local": "Mangochi",
+          "en": "Mangochi",
+          "slug": "mangochi-mw301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.059",
+      "lon": "34.887"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30199",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Lake Malombe",
+      "en": "Lake Malombe",
+      "slug": "lake-malombe-mw30199"
+    },
+    "code": {
+      "id": "MW30199",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW301",
+      "level": 2,
+      "name": {
+        "local": "Mangochi",
+        "en": "Mangochi",
+        "slug": "mangochi-mw301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW301",
+        "level": 2,
+        "name": {
+          "local": "Mangochi",
+          "en": "Mangochi",
+          "slug": "mangochi-mw301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.537",
+      "lon": "35.27"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30120",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Mangochi Town",
+      "en": "Mangochi Town",
+      "slug": "mangochi-town-mw30120"
+    },
+    "code": {
+      "id": "MW30120",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW301",
+      "level": 2,
+      "name": {
+        "local": "Mangochi",
+        "en": "Mangochi",
+        "slug": "mangochi-mw301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW301",
+        "level": 2,
+        "name": {
+          "local": "Mangochi",
+          "en": "Mangochi",
+          "slug": "mangochi-mw301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.481",
+      "lon": "35.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30121",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Monkey Bay Urban",
+      "en": "Monkey Bay Urban",
+      "slug": "monkey-bay-urban-mw30121"
+    },
+    "code": {
+      "id": "MW30121",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW301",
+      "level": 2,
+      "name": {
+        "local": "Mangochi",
+        "en": "Mangochi",
+        "slug": "mangochi-mw301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW301",
+        "level": 2,
+        "name": {
+          "local": "Mangochi",
+          "en": "Mangochi",
+          "slug": "mangochi-mw301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.088",
+      "lon": "34.914"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30114",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "STA Chiunda",
+      "en": "STA Chiunda",
+      "slug": "sta-chiunda-mw30114"
+    },
+    "code": {
+      "id": "MW30114",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW301",
+      "level": 2,
+      "name": {
+        "local": "Mangochi",
+        "en": "Mangochi",
+        "slug": "mangochi-mw301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW301",
+        "level": 2,
+        "name": {
+          "local": "Mangochi",
+          "en": "Mangochi",
+          "slug": "mangochi-mw301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.724",
+      "lon": "35.426"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30110",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "STA Lulanga",
+      "en": "STA Lulanga",
+      "slug": "sta-lulanga-mw30110"
+    },
+    "code": {
+      "id": "MW30110",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW301",
+      "level": 2,
+      "name": {
+        "local": "Mangochi",
+        "en": "Mangochi",
+        "slug": "mangochi-mw301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW301",
+        "level": 2,
+        "name": {
+          "local": "Mangochi",
+          "en": "Mangochi",
+          "slug": "mangochi-mw301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.609",
+      "lon": "34.912"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30113",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "STA Ntonda",
+      "en": "STA Ntonda",
+      "slug": "sta-ntonda-mw30113"
+    },
+    "code": {
+      "id": "MW30113",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW301",
+      "level": 2,
+      "name": {
+        "local": "Mangochi",
+        "en": "Mangochi",
+        "slug": "mangochi-mw301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW301",
+        "level": 2,
+        "name": {
+          "local": "Mangochi",
+          "en": "Mangochi",
+          "slug": "mangochi-mw301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.589",
+      "lon": "34.893"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30103",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Chilipa",
+      "en": "TA Chilipa",
+      "slug": "ta-chilipa-mw30103"
+    },
+    "code": {
+      "id": "MW30103",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW301",
+      "level": 2,
+      "name": {
+        "local": "Mangochi",
+        "en": "Mangochi",
+        "slug": "mangochi-mw301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW301",
+        "level": 2,
+        "name": {
+          "local": "Mangochi",
+          "en": "Mangochi",
+          "slug": "mangochi-mw301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.675",
+      "lon": "34.958"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30102",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Chimwala",
+      "en": "TA Chimwala",
+      "slug": "ta-chimwala-mw30102"
+    },
+    "code": {
+      "id": "MW30102",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW301",
+      "level": 2,
+      "name": {
+        "local": "Mangochi",
+        "en": "Mangochi",
+        "slug": "mangochi-mw301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW301",
+        "level": 2,
+        "name": {
+          "local": "Mangochi",
+          "en": "Mangochi",
+          "slug": "mangochi-mw301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.643",
+      "lon": "35.101"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30107",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Chowe",
+      "en": "TA Chowe",
+      "slug": "ta-chowe-mw30107"
+    },
+    "code": {
+      "id": "MW30107",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW301",
+      "level": 2,
+      "name": {
+        "local": "Mangochi",
+        "en": "Mangochi",
+        "slug": "mangochi-mw301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW301",
+        "level": 2,
+        "name": {
+          "local": "Mangochi",
+          "en": "Mangochi",
+          "slug": "mangochi-mw301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.579",
+      "lon": "35.352"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30105",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Jalasi",
+      "en": "TA Jalasi",
+      "slug": "ta-jalasi-mw30105"
+    },
+    "code": {
+      "id": "MW30105",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW301",
+      "level": 2,
+      "name": {
+        "local": "Mangochi",
+        "en": "Mangochi",
+        "slug": "mangochi-mw301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW301",
+        "level": 2,
+        "name": {
+          "local": "Mangochi",
+          "en": "Mangochi",
+          "slug": "mangochi-mw301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.386",
+      "lon": "35.521"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30108",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Katuli",
+      "en": "TA Katuli",
+      "slug": "ta-katuli-mw30108"
+    },
+    "code": {
+      "id": "MW30108",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW301",
+      "level": 2,
+      "name": {
+        "local": "Mangochi",
+        "en": "Mangochi",
+        "slug": "mangochi-mw301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW301",
+        "level": 2,
+        "name": {
+          "local": "Mangochi",
+          "en": "Mangochi",
+          "slug": "mangochi-mw301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.148",
+      "lon": "35.429"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30109",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Makanjila",
+      "en": "TA Makanjila",
+      "slug": "ta-makanjila-mw30109"
+    },
+    "code": {
+      "id": "MW30109",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW301",
+      "level": 2,
+      "name": {
+        "local": "Mangochi",
+        "en": "Mangochi",
+        "slug": "mangochi-mw301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW301",
+        "level": 2,
+        "name": {
+          "local": "Mangochi",
+          "en": "Mangochi",
+          "slug": "mangochi-mw301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.795",
+      "lon": "35.12"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30106",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Mbwana Nyambi",
+      "en": "TA Mbwana Nyambi",
+      "slug": "ta-mbwana-nyambi-mw30106"
+    },
+    "code": {
+      "id": "MW30106",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW301",
+      "level": 2,
+      "name": {
+        "local": "Mangochi",
+        "en": "Mangochi",
+        "slug": "mangochi-mw301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW301",
+        "level": 2,
+        "name": {
+          "local": "Mangochi",
+          "en": "Mangochi",
+          "slug": "mangochi-mw301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.56",
+      "lon": "35.576"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30101",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Mponda",
+      "en": "TA Mponda",
+      "slug": "ta-mponda-mw30101"
+    },
+    "code": {
+      "id": "MW30101",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW301",
+      "level": 2,
+      "name": {
+        "local": "Mangochi",
+        "en": "Mangochi",
+        "slug": "mangochi-mw301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW301",
+        "level": 2,
+        "name": {
+          "local": "Mangochi",
+          "en": "Mangochi",
+          "slug": "mangochi-mw301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.445",
+      "lon": "35.088"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30111",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Namabvi",
+      "en": "TA Namabvi",
+      "slug": "ta-namabvi-mw30111"
+    },
+    "code": {
+      "id": "MW30111",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW301",
+      "level": 2,
+      "name": {
+        "local": "Mangochi",
+        "en": "Mangochi",
+        "slug": "mangochi-mw301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW301",
+        "level": 2,
+        "name": {
+          "local": "Mangochi",
+          "en": "Mangochi",
+          "slug": "mangochi-mw301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.132",
+      "lon": "35.224"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30104",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Nankumba",
+      "en": "TA Nankumba",
+      "slug": "ta-nankumba-mw30104"
+    },
+    "code": {
+      "id": "MW30104",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW301",
+      "level": 2,
+      "name": {
+        "local": "Mangochi",
+        "en": "Mangochi",
+        "slug": "mangochi-mw301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW301",
+        "level": 2,
+        "name": {
+          "local": "Mangochi",
+          "en": "Mangochi",
+          "slug": "mangochi-mw301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.328",
+      "lon": "34.901"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

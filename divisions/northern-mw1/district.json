@@ -1,0 +1,331 @@
+[
+  {
+    "id": "MW101",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Chitipa",
+      "en": "Chitipa",
+      "slug": "chitipa-mw101"
+    },
+    "code": {
+      "id": "MW101",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW1",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-mw1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      }
+    ],
+    "children_count": {
+      "ta": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.974",
+      "lon": "33.412"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW102",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Karonga",
+      "en": "Karonga",
+      "slug": "karonga-mw102"
+    },
+    "code": {
+      "id": "MW102",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW1",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-mw1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      }
+    ],
+    "children_count": {
+      "ta": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.085",
+      "lon": "33.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW106",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Likoma",
+      "en": "Likoma",
+      "slug": "likoma-mw106"
+    },
+    "code": {
+      "id": "MW106",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW1",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-mw1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      }
+    ],
+    "children_count": {
+      "ta": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.066",
+      "lon": "34.732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW105",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mzimba",
+      "en": "Mzimba",
+      "slug": "mzimba-mw105"
+    },
+    "code": {
+      "id": "MW105",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW1",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-mw1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      }
+    ],
+    "children_count": {
+      "ta": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.851",
+      "lon": "33.58"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW107",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mzuzu City",
+      "en": "Mzuzu City",
+      "slug": "mzuzu-city-mw107"
+    },
+    "code": {
+      "id": "MW107",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW1",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-mw1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      }
+    ],
+    "children_count": {
+      "ta": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.434",
+      "lon": "34.005"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW103",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Nkhatabay",
+      "en": "Nkhatabay",
+      "slug": "nkhatabay-mw103"
+    },
+    "code": {
+      "id": "MW103",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW1",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-mw1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      }
+    ],
+    "children_count": {
+      "ta": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.62",
+      "lon": "34.04"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW104",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Rumphi",
+      "en": "Rumphi",
+      "slug": "rumphi-mw104"
+    },
+    "code": {
+      "id": "MW104",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW1",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-mw1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      }
+    ],
+    "children_count": {
+      "ta": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.805",
+      "lon": "33.838"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

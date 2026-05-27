@@ -1,0 +1,47 @@
+{
+  "id": "MW207",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mchinji",
+    "en": "Mchinji",
+    "slug": "mchinji-mw207"
+  },
+  "code": {
+    "id": "MW207",
+    "iso": null
+  },
+  "parent": {
+    "id": "MW2",
+    "level": 1,
+    "name": {
+      "local": "Central",
+      "en": "Central",
+      "slug": "central-mw2"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MW2",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-mw2"
+      }
+    }
+  ],
+  "children_count": {
+    "ta": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-13.782",
+    "lon": "33.025"
+  },
+  "metadata": {},
+  "source": {}
+}

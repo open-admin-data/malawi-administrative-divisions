@@ -1,0 +1,542 @@
+[
+  {
+    "id": "MW31439",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Chambo Ward",
+      "en": "Chambo Ward",
+      "slug": "chambo-ward-mw31439"
+    },
+    "code": {
+      "id": "MW31439",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW314",
+      "level": 2,
+      "name": {
+        "local": "Zomba City",
+        "en": "Zomba City",
+        "slug": "zomba-city-mw314"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW314",
+        "level": 2,
+        "name": {
+          "local": "Zomba City",
+          "en": "Zomba City",
+          "slug": "zomba-city-mw314"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.397",
+      "lon": "35.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW31433",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Chinamwali Ward",
+      "en": "Chinamwali Ward",
+      "slug": "chinamwali-ward-mw31433"
+    },
+    "code": {
+      "id": "MW31433",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW314",
+      "level": 2,
+      "name": {
+        "local": "Zomba City",
+        "en": "Zomba City",
+        "slug": "zomba-city-mw314"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW314",
+        "level": 2,
+        "name": {
+          "local": "Zomba City",
+          "en": "Zomba City",
+          "slug": "zomba-city-mw314"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.376",
+      "lon": "35.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW31434",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Chirunga Ward",
+      "en": "Chirunga Ward",
+      "slug": "chirunga-ward-mw31434"
+    },
+    "code": {
+      "id": "MW31434",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW314",
+      "level": 2,
+      "name": {
+        "local": "Zomba City",
+        "en": "Zomba City",
+        "slug": "zomba-city-mw314"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW314",
+        "level": 2,
+        "name": {
+          "local": "Zomba City",
+          "en": "Zomba City",
+          "slug": "zomba-city-mw314"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.393",
+      "lon": "35.349"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW31438",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Likangala Ward",
+      "en": "Likangala Ward",
+      "slug": "likangala-ward-mw31438"
+    },
+    "code": {
+      "id": "MW31438",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW314",
+      "level": 2,
+      "name": {
+        "local": "Zomba City",
+        "en": "Zomba City",
+        "slug": "zomba-city-mw314"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW314",
+        "level": 2,
+        "name": {
+          "local": "Zomba City",
+          "en": "Zomba City",
+          "slug": "zomba-city-mw314"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.395",
+      "lon": "35.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW31436",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Masongola Ward",
+      "en": "Masongola Ward",
+      "slug": "masongola-ward-mw31436"
+    },
+    "code": {
+      "id": "MW31436",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW314",
+      "level": 2,
+      "name": {
+        "local": "Zomba City",
+        "en": "Zomba City",
+        "slug": "zomba-city-mw314"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW314",
+        "level": 2,
+        "name": {
+          "local": "Zomba City",
+          "en": "Zomba City",
+          "slug": "zomba-city-mw314"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.372",
+      "lon": "35.338"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW31432",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Mbedza Ward",
+      "en": "Mbedza Ward",
+      "slug": "mbedza-ward-mw31432"
+    },
+    "code": {
+      "id": "MW31432",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW314",
+      "level": 2,
+      "name": {
+        "local": "Zomba City",
+        "en": "Zomba City",
+        "slug": "zomba-city-mw314"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW314",
+        "level": 2,
+        "name": {
+          "local": "Zomba City",
+          "en": "Zomba City",
+          "slug": "zomba-city-mw314"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.404",
+      "lon": "35.306"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW31431",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Mpira Ward",
+      "en": "Mpira Ward",
+      "slug": "mpira-ward-mw31431"
+    },
+    "code": {
+      "id": "MW31431",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW314",
+      "level": 2,
+      "name": {
+        "local": "Zomba City",
+        "en": "Zomba City",
+        "slug": "zomba-city-mw314"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW314",
+        "level": 2,
+        "name": {
+          "local": "Zomba City",
+          "en": "Zomba City",
+          "slug": "zomba-city-mw314"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.413",
+      "lon": "35.336"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW31435",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Mtiya Ward",
+      "en": "Mtiya Ward",
+      "slug": "mtiya-ward-mw31435"
+    },
+    "code": {
+      "id": "MW31435",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW314",
+      "level": 2,
+      "name": {
+        "local": "Zomba City",
+        "en": "Zomba City",
+        "slug": "zomba-city-mw314"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW314",
+        "level": 2,
+        "name": {
+          "local": "Zomba City",
+          "en": "Zomba City",
+          "slug": "zomba-city-mw314"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.385",
+      "lon": "35.307"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW31440",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Sadzi Ward",
+      "en": "Sadzi Ward",
+      "slug": "sadzi-ward-mw31440"
+    },
+    "code": {
+      "id": "MW31440",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW314",
+      "level": 2,
+      "name": {
+        "local": "Zomba City",
+        "en": "Zomba City",
+        "slug": "zomba-city-mw314"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW314",
+        "level": 2,
+        "name": {
+          "local": "Zomba City",
+          "en": "Zomba City",
+          "slug": "zomba-city-mw314"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.411",
+      "lon": "35.314"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW31437",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Zomba Central Ward",
+      "en": "Zomba Central Ward",
+      "slug": "zomba-central-ward-mw31437"
+    },
+    "code": {
+      "id": "MW31437",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW314",
+      "level": 2,
+      "name": {
+        "local": "Zomba City",
+        "en": "Zomba City",
+        "slug": "zomba-city-mw314"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW314",
+        "level": 2,
+        "name": {
+          "local": "Zomba City",
+          "en": "Zomba City",
+          "slug": "zomba-city-mw314"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.392",
+      "lon": "35.326"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

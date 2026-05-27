@@ -1,0 +1,47 @@
+{
+  "id": "MW314",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Zomba City",
+    "en": "Zomba City",
+    "slug": "zomba-city-mw314"
+  },
+  "code": {
+    "id": "MW314",
+    "iso": null
+  },
+  "parent": {
+    "id": "MW3",
+    "level": 1,
+    "name": {
+      "local": "Southern",
+      "en": "Southern",
+      "slug": "southern-mw3"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MW3",
+      "level": 1,
+      "name": {
+        "local": "Southern",
+        "en": "Southern",
+        "slug": "southern-mw3"
+      }
+    }
+  ],
+  "children_count": {
+    "ta": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-15.395",
+    "lon": "35.321"
+  },
+  "metadata": {},
+  "source": {}
+}

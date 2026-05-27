@@ -1,0 +1,47 @@
+{
+  "id": "MW310",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Chikwawa",
+    "en": "Chikwawa",
+    "slug": "chikwawa-mw310"
+  },
+  "code": {
+    "id": "MW310",
+    "iso": null
+  },
+  "parent": {
+    "id": "MW3",
+    "level": 1,
+    "name": {
+      "local": "Southern",
+      "en": "Southern",
+      "slug": "southern-mw3"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MW3",
+      "level": 1,
+      "name": {
+        "local": "Southern",
+        "en": "Southern",
+        "slug": "southern-mw3"
+      }
+    }
+  ],
+  "children_count": {
+    "ta": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-16.217",
+    "lon": "34.674"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,812 @@
+[
+  {
+    "id": "MW31020",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Chikwawa Boma",
+      "en": "Chikwawa Boma",
+      "slug": "chikwawa-boma-mw31020"
+    },
+    "code": {
+      "id": "MW31020",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW310",
+      "level": 2,
+      "name": {
+        "local": "Chikwawa",
+        "en": "Chikwawa",
+        "slug": "chikwawa-mw310"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW310",
+        "level": 2,
+        "name": {
+          "local": "Chikwawa",
+          "en": "Chikwawa",
+          "slug": "chikwawa-mw310"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.023",
+      "lon": "34.789"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW31012",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Lengwe National Park",
+      "en": "Lengwe National Park",
+      "slug": "lengwe-national-park-mw31012"
+    },
+    "code": {
+      "id": "MW31012",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW310",
+      "level": 2,
+      "name": {
+        "local": "Chikwawa",
+        "en": "Chikwawa",
+        "slug": "chikwawa-mw310"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW310",
+        "level": 2,
+        "name": {
+          "local": "Chikwawa",
+          "en": "Chikwawa",
+          "slug": "chikwawa-mw310"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.216",
+      "lon": "34.539"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW31013",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Majete Game Reserve - Chikwawa",
+      "en": "Majete Game Reserve - Chikwawa",
+      "slug": "majete-game-reserve-chikwawa-mw31013"
+    },
+    "code": {
+      "id": "MW31013",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW310",
+      "level": 2,
+      "name": {
+        "local": "Chikwawa",
+        "en": "Chikwawa",
+        "slug": "chikwawa-mw310"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW310",
+        "level": 2,
+        "name": {
+          "local": "Chikwawa",
+          "en": "Chikwawa",
+          "slug": "chikwawa-mw310"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.956",
+      "lon": "34.585"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW31021",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Ngabu Urban",
+      "en": "Ngabu Urban",
+      "slug": "ngabu-urban-mw31021"
+    },
+    "code": {
+      "id": "MW31021",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW310",
+      "level": 2,
+      "name": {
+        "local": "Chikwawa",
+        "en": "Chikwawa",
+        "slug": "chikwawa-mw310"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW310",
+        "level": 2,
+        "name": {
+          "local": "Chikwawa",
+          "en": "Chikwawa",
+          "slug": "chikwawa-mw310"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.463",
+      "lon": "34.857"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW31010",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "STA Masache",
+      "en": "STA Masache",
+      "slug": "sta-masache-mw31010"
+    },
+    "code": {
+      "id": "MW31010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW310",
+      "level": 2,
+      "name": {
+        "local": "Chikwawa",
+        "en": "Chikwawa",
+        "slug": "chikwawa-mw310"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW310",
+        "level": 2,
+        "name": {
+          "local": "Chikwawa",
+          "en": "Chikwawa",
+          "slug": "chikwawa-mw310"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.604",
+      "lon": "34.922"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW31008",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "STA Ndakwela",
+      "en": "STA Ndakwela",
+      "slug": "sta-ndakwela-mw31008"
+    },
+    "code": {
+      "id": "MW31008",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW310",
+      "level": 2,
+      "name": {
+        "local": "Chikwawa",
+        "en": "Chikwawa",
+        "slug": "chikwawa-mw310"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW310",
+        "level": 2,
+        "name": {
+          "local": "Chikwawa",
+          "en": "Chikwawa",
+          "slug": "chikwawa-mw310"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.187",
+      "lon": "34.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW31003",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Chapananga",
+      "en": "TA Chapananga",
+      "slug": "ta-chapananga-mw31003"
+    },
+    "code": {
+      "id": "MW31003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW310",
+      "level": 2,
+      "name": {
+        "local": "Chikwawa",
+        "en": "Chikwawa",
+        "slug": "chikwawa-mw310"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW310",
+        "level": 2,
+        "name": {
+          "local": "Chikwawa",
+          "en": "Chikwawa",
+          "slug": "chikwawa-mw310"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.946",
+      "lon": "34.392"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW31006",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Kasisi",
+      "en": "TA Kasisi",
+      "slug": "ta-kasisi-mw31006"
+    },
+    "code": {
+      "id": "MW31006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW310",
+      "level": 2,
+      "name": {
+        "local": "Chikwawa",
+        "en": "Chikwawa",
+        "slug": "chikwawa-mw310"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW310",
+        "level": 2,
+        "name": {
+          "local": "Chikwawa",
+          "en": "Chikwawa",
+          "slug": "chikwawa-mw310"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.912",
+      "lon": "34.811"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW31005",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Katunga",
+      "en": "TA Katunga",
+      "slug": "ta-katunga-mw31005"
+    },
+    "code": {
+      "id": "MW31005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW310",
+      "level": 2,
+      "name": {
+        "local": "Chikwawa",
+        "en": "Chikwawa",
+        "slug": "chikwawa-mw310"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW310",
+        "level": 2,
+        "name": {
+          "local": "Chikwawa",
+          "en": "Chikwawa",
+          "slug": "chikwawa-mw310"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.1",
+      "lon": "34.731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW31002",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Lundu",
+      "en": "TA Lundu",
+      "slug": "ta-lundu-mw31002"
+    },
+    "code": {
+      "id": "MW31002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW310",
+      "level": 2,
+      "name": {
+        "local": "Chikwawa",
+        "en": "Chikwawa",
+        "slug": "chikwawa-mw310"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW310",
+        "level": 2,
+        "name": {
+          "local": "Chikwawa",
+          "en": "Chikwawa",
+          "slug": "chikwawa-mw310"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.224",
+      "lon": "34.873"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW31007",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Makhwira",
+      "en": "TA Makhwira",
+      "slug": "ta-makhwira-mw31007"
+    },
+    "code": {
+      "id": "MW31007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW310",
+      "level": 2,
+      "name": {
+        "local": "Chikwawa",
+        "en": "Chikwawa",
+        "slug": "chikwawa-mw310"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW310",
+        "level": 2,
+        "name": {
+          "local": "Chikwawa",
+          "en": "Chikwawa",
+          "slug": "chikwawa-mw310"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.28",
+      "lon": "35.008"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW31004",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Maseya",
+      "en": "TA Maseya",
+      "slug": "ta-maseya-mw31004"
+    },
+    "code": {
+      "id": "MW31004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW310",
+      "level": 2,
+      "name": {
+        "local": "Chikwawa",
+        "en": "Chikwawa",
+        "slug": "chikwawa-mw310"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW310",
+        "level": 2,
+        "name": {
+          "local": "Chikwawa",
+          "en": "Chikwawa",
+          "slug": "chikwawa-mw310"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.131",
+      "lon": "34.834"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW31009",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Mlilima",
+      "en": "TA Mlilima",
+      "slug": "ta-mlilima-mw31009"
+    },
+    "code": {
+      "id": "MW31009",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW310",
+      "level": 2,
+      "name": {
+        "local": "Chikwawa",
+        "en": "Chikwawa",
+        "slug": "chikwawa-mw310"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW310",
+        "level": 2,
+        "name": {
+          "local": "Chikwawa",
+          "en": "Chikwawa",
+          "slug": "chikwawa-mw310"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.986",
+      "lon": "34.858"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW31001",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Ngabu",
+      "en": "TA Ngabu",
+      "slug": "ta-ngabu-mw31001"
+    },
+    "code": {
+      "id": "MW31001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW310",
+      "level": 2,
+      "name": {
+        "local": "Chikwawa",
+        "en": "Chikwawa",
+        "slug": "chikwawa-mw310"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW310",
+        "level": 2,
+        "name": {
+          "local": "Chikwawa",
+          "en": "Chikwawa",
+          "slug": "chikwawa-mw310"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.443",
+      "lon": "34.863"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW31011",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Ngowe",
+      "en": "TA Ngowe",
+      "slug": "ta-ngowe-mw31011"
+    },
+    "code": {
+      "id": "MW31011",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW310",
+      "level": 2,
+      "name": {
+        "local": "Chikwawa",
+        "en": "Chikwawa",
+        "slug": "chikwawa-mw310"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW310",
+        "level": 2,
+        "name": {
+          "local": "Chikwawa",
+          "en": "Chikwawa",
+          "slug": "chikwawa-mw310"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.495",
+      "lon": "35.002"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "MW1",
+    "level": 1,
+    "level_name": {
+      "local": "Region",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Northern",
+      "en": "Northern",
+      "slug": "northern-mw1"
+    },
+    "code": {
+      "id": "MW1",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 7,
+      "ta": 76
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.054",
+      "lon": "33.774"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW2",
+    "level": 1,
+    "level_name": {
+      "local": "Region",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Central",
+      "en": "Central",
+      "slug": "central-mw2"
+    },
+    "code": {
+      "id": "MW2",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 10,
+      "ta": 178
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.744",
+      "lon": "33.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW3",
+    "level": 1,
+    "level_name": {
+      "local": "Region",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Southern",
+      "en": "Southern",
+      "slug": "southern-mw3"
+    },
+    "code": {
+      "id": "MW3",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 15,
+      "ta": 179
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.306",
+      "lon": "35.179"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

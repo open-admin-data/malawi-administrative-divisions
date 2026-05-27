@@ -1,0 +1,596 @@
+[
+  {
+    "id": "MW10120",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Chitipa Boma",
+      "en": "Chitipa Boma",
+      "slug": "chitipa-boma-mw10120"
+    },
+    "code": {
+      "id": "MW10120",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW101",
+      "level": 2,
+      "name": {
+        "local": "Chitipa",
+        "en": "Chitipa",
+        "slug": "chitipa-mw101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      },
+      {
+        "id": "MW101",
+        "level": 2,
+        "name": {
+          "local": "Chitipa",
+          "en": "Chitipa",
+          "slug": "chitipa-mw101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.7",
+      "lon": "33.268"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW10110",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Nyika Ntational Park-Chitipa",
+      "en": "Nyika Ntational Park-Chitipa",
+      "slug": "nyika-ntational-park-chitipa-mw10110"
+    },
+    "code": {
+      "id": "MW10110",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW101",
+      "level": 2,
+      "name": {
+        "local": "Chitipa",
+        "en": "Chitipa",
+        "slug": "chitipa-mw101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      },
+      {
+        "id": "MW101",
+        "level": 2,
+        "name": {
+          "local": "Chitipa",
+          "en": "Chitipa",
+          "slug": "chitipa-mw101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.371",
+      "lon": "33.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW10102",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "STA Bulambya Songwe",
+      "en": "STA Bulambya Songwe",
+      "slug": "sta-bulambya-songwe-mw10102"
+    },
+    "code": {
+      "id": "MW10102",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW101",
+      "level": 2,
+      "name": {
+        "local": "Chitipa",
+        "en": "Chitipa",
+        "slug": "chitipa-mw101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      },
+      {
+        "id": "MW101",
+        "level": 2,
+        "name": {
+          "local": "Chitipa",
+          "en": "Chitipa",
+          "slug": "chitipa-mw101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.567",
+      "lon": "33.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW10104",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "STA Lwangwa",
+      "en": "STA Lwangwa",
+      "slug": "sta-lwangwa-mw10104"
+    },
+    "code": {
+      "id": "MW10104",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW101",
+      "level": 2,
+      "name": {
+        "local": "Chitipa",
+        "en": "Chitipa",
+        "slug": "chitipa-mw101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      },
+      {
+        "id": "MW101",
+        "level": 2,
+        "name": {
+          "local": "Chitipa",
+          "en": "Chitipa",
+          "slug": "chitipa-mw101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.676",
+      "lon": "33.619"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW10107",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "STA Nthengatenga",
+      "en": "STA Nthengatenga",
+      "slug": "sta-nthengatenga-mw10107"
+    },
+    "code": {
+      "id": "MW10107",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW101",
+      "level": 2,
+      "name": {
+        "local": "Chitipa",
+        "en": "Chitipa",
+        "slug": "chitipa-mw101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      },
+      {
+        "id": "MW101",
+        "level": 2,
+        "name": {
+          "local": "Chitipa",
+          "en": "Chitipa",
+          "slug": "chitipa-mw101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.179",
+      "lon": "33.679"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW10108",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "STA Wavikaza",
+      "en": "STA Wavikaza",
+      "slug": "sta-wavikaza-mw10108"
+    },
+    "code": {
+      "id": "MW10108",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW101",
+      "level": 2,
+      "name": {
+        "local": "Chitipa",
+        "en": "Chitipa",
+        "slug": "chitipa-mw101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      },
+      {
+        "id": "MW101",
+        "level": 2,
+        "name": {
+          "local": "Chitipa",
+          "en": "Chitipa",
+          "slug": "chitipa-mw101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.45",
+      "lon": "33.648"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW10109",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Kameme",
+      "en": "TA Kameme",
+      "slug": "ta-kameme-mw10109"
+    },
+    "code": {
+      "id": "MW10109",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW101",
+      "level": 2,
+      "name": {
+        "local": "Chitipa",
+        "en": "Chitipa",
+        "slug": "chitipa-mw101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      },
+      {
+        "id": "MW101",
+        "level": 2,
+        "name": {
+          "local": "Chitipa",
+          "en": "Chitipa",
+          "slug": "chitipa-mw101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.527",
+      "lon": "33.101"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW10101",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Mwabulambya",
+      "en": "TA Mwabulambya",
+      "slug": "ta-mwabulambya-mw10101"
+    },
+    "code": {
+      "id": "MW10101",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW101",
+      "level": 2,
+      "name": {
+        "local": "Chitipa",
+        "en": "Chitipa",
+        "slug": "chitipa-mw101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      },
+      {
+        "id": "MW101",
+        "level": 2,
+        "name": {
+          "local": "Chitipa",
+          "en": "Chitipa",
+          "slug": "chitipa-mw101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.758",
+      "lon": "33.341"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW10103",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Mwenemisuku",
+      "en": "TA Mwenemisuku",
+      "slug": "ta-mwenemisuku-mw10103"
+    },
+    "code": {
+      "id": "MW10103",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW101",
+      "level": 2,
+      "name": {
+        "local": "Chitipa",
+        "en": "Chitipa",
+        "slug": "chitipa-mw101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      },
+      {
+        "id": "MW101",
+        "level": 2,
+        "name": {
+          "local": "Chitipa",
+          "en": "Chitipa",
+          "slug": "chitipa-mw101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.758",
+      "lon": "33.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW10105",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Mwenewenya",
+      "en": "TA Mwenewenya",
+      "slug": "ta-mwenewenya-mw10105"
+    },
+    "code": {
+      "id": "MW10105",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW101",
+      "level": 2,
+      "name": {
+        "local": "Chitipa",
+        "en": "Chitipa",
+        "slug": "chitipa-mw101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      },
+      {
+        "id": "MW101",
+        "level": 2,
+        "name": {
+          "local": "Chitipa",
+          "en": "Chitipa",
+          "slug": "chitipa-mw101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.048",
+      "lon": "33.466"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW10106",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Nthalire",
+      "en": "TA Nthalire",
+      "slug": "ta-nthalire-mw10106"
+    },
+    "code": {
+      "id": "MW10106",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW101",
+      "level": 2,
+      "name": {
+        "local": "Chitipa",
+        "en": "Chitipa",
+        "slug": "chitipa-mw101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      },
+      {
+        "id": "MW101",
+        "level": 2,
+        "name": {
+          "local": "Chitipa",
+          "en": "Chitipa",
+          "slug": "chitipa-mw101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.312",
+      "lon": "33.644"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

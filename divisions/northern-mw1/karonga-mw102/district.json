@@ -1,0 +1,47 @@
+{
+  "id": "MW102",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Karonga",
+    "en": "Karonga",
+    "slug": "karonga-mw102"
+  },
+  "code": {
+    "id": "MW102",
+    "iso": null
+  },
+  "parent": {
+    "id": "MW1",
+    "level": 1,
+    "name": {
+      "local": "Northern",
+      "en": "Northern",
+      "slug": "northern-mw1"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MW1",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-mw1"
+      }
+    }
+  ],
+  "children_count": {
+    "ta": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.085",
+    "lon": "33.866"
+  },
+  "metadata": {},
+  "source": {}
+}

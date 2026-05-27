@@ -1,0 +1,47 @@
+{
+  "id": "MW204",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Dowa",
+    "en": "Dowa",
+    "slug": "dowa-mw204"
+  },
+  "code": {
+    "id": "MW204",
+    "iso": null
+  },
+  "parent": {
+    "id": "MW2",
+    "level": 1,
+    "name": {
+      "local": "Central",
+      "en": "Central",
+      "slug": "central-mw2"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MW2",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-mw2"
+      }
+    }
+  ],
+  "children_count": {
+    "ta": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-13.523",
+    "lon": "33.741"
+  },
+  "metadata": {},
+  "source": {}
+}

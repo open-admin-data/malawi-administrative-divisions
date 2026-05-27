@@ -1,0 +1,596 @@
+[
+  {
+    "id": "MW31110",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Mwabvi Game Reserve",
+      "en": "Mwabvi Game Reserve",
+      "slug": "mwabvi-game-reserve-mw31110"
+    },
+    "code": {
+      "id": "MW31110",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW311",
+      "level": 2,
+      "name": {
+        "local": "Nsanje",
+        "en": "Nsanje",
+        "slug": "nsanje-mw311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW311",
+        "level": 2,
+        "name": {
+          "local": "Nsanje",
+          "en": "Nsanje",
+          "slug": "nsanje-mw311"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.715",
+      "lon": "35.015"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW31120",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Nsanje Boma",
+      "en": "Nsanje Boma",
+      "slug": "nsanje-boma-mw31120"
+    },
+    "code": {
+      "id": "MW31120",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW311",
+      "level": 2,
+      "name": {
+        "local": "Nsanje",
+        "en": "Nsanje",
+        "slug": "nsanje-mw311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW311",
+        "level": 2,
+        "name": {
+          "local": "Nsanje",
+          "en": "Nsanje",
+          "slug": "nsanje-mw311"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.923",
+      "lon": "35.257"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW31102",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Chimombo",
+      "en": "TA Chimombo",
+      "slug": "ta-chimombo-mw31102"
+    },
+    "code": {
+      "id": "MW31102",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW311",
+      "level": 2,
+      "name": {
+        "local": "Nsanje",
+        "en": "Nsanje",
+        "slug": "nsanje-mw311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW311",
+        "level": 2,
+        "name": {
+          "local": "Nsanje",
+          "en": "Nsanje",
+          "slug": "nsanje-mw311"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.027",
+      "lon": "35.213"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW31109",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Makoko",
+      "en": "TA Makoko",
+      "slug": "ta-makoko-mw31109"
+    },
+    "code": {
+      "id": "MW31109",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW311",
+      "level": 2,
+      "name": {
+        "local": "Nsanje",
+        "en": "Nsanje",
+        "slug": "nsanje-mw311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW311",
+        "level": 2,
+        "name": {
+          "local": "Nsanje",
+          "en": "Nsanje",
+          "slug": "nsanje-mw311"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.006",
+      "lon": "35.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW31106",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Malemia",
+      "en": "TA Malemia",
+      "slug": "ta-malemia-mw31106"
+    },
+    "code": {
+      "id": "MW31106",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW311",
+      "level": 2,
+      "name": {
+        "local": "Nsanje",
+        "en": "Nsanje",
+        "slug": "nsanje-mw311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW311",
+        "level": 2,
+        "name": {
+          "local": "Nsanje",
+          "en": "Nsanje",
+          "slug": "nsanje-mw311"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.909",
+      "lon": "35.201"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW31107",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Mbenje",
+      "en": "TA Mbenje",
+      "slug": "ta-mbenje-mw31107"
+    },
+    "code": {
+      "id": "MW31107",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW311",
+      "level": 2,
+      "name": {
+        "local": "Nsanje",
+        "en": "Nsanje",
+        "slug": "nsanje-mw311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW311",
+        "level": 2,
+        "name": {
+          "local": "Nsanje",
+          "en": "Nsanje",
+          "slug": "nsanje-mw311"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.601",
+      "lon": "35.074"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW31104",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Mlolo",
+      "en": "TA Mlolo",
+      "slug": "ta-mlolo-mw31104"
+    },
+    "code": {
+      "id": "MW31104",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW311",
+      "level": 2,
+      "name": {
+        "local": "Nsanje",
+        "en": "Nsanje",
+        "slug": "nsanje-mw311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW311",
+        "level": 2,
+        "name": {
+          "local": "Nsanje",
+          "en": "Nsanje",
+          "slug": "nsanje-mw311"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.433",
+      "lon": "35.174"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW31101",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Ndamera",
+      "en": "TA Ndamera",
+      "slug": "ta-ndamera-mw31101"
+    },
+    "code": {
+      "id": "MW31101",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW311",
+      "level": 2,
+      "name": {
+        "local": "Nsanje",
+        "en": "Nsanje",
+        "slug": "nsanje-mw311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW311",
+        "level": 2,
+        "name": {
+          "local": "Nsanje",
+          "en": "Nsanje",
+          "slug": "nsanje-mw311"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.074",
+      "lon": "35.176"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW31108",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Ngabu",
+      "en": "TA Ngabu",
+      "slug": "ta-ngabu-mw31108"
+    },
+    "code": {
+      "id": "MW31108",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW311",
+      "level": 2,
+      "name": {
+        "local": "Nsanje",
+        "en": "Nsanje",
+        "slug": "nsanje-mw311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW311",
+        "level": 2,
+        "name": {
+          "local": "Nsanje",
+          "en": "Nsanje",
+          "slug": "nsanje-mw311"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.979",
+      "lon": "35.216"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW31103",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Nyachikadza",
+      "en": "TA Nyachikadza",
+      "slug": "ta-nyachikadza-mw31103"
+    },
+    "code": {
+      "id": "MW31103",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW311",
+      "level": 2,
+      "name": {
+        "local": "Nsanje",
+        "en": "Nsanje",
+        "slug": "nsanje-mw311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW311",
+        "level": 2,
+        "name": {
+          "local": "Nsanje",
+          "en": "Nsanje",
+          "slug": "nsanje-mw311"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.055",
+      "lon": "35.272"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW31105",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Tengani",
+      "en": "TA Tengani",
+      "slug": "ta-tengani-mw31105"
+    },
+    "code": {
+      "id": "MW31105",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW311",
+      "level": 2,
+      "name": {
+        "local": "Nsanje",
+        "en": "Nsanje",
+        "slug": "nsanje-mw311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW311",
+        "level": 2,
+        "name": {
+          "local": "Nsanje",
+          "en": "Nsanje",
+          "slug": "nsanje-mw311"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.754",
+      "lon": "35.196"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

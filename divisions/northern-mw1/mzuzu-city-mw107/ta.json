@@ -1,0 +1,812 @@
+[
+  {
+    "id": "MW10703",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Chibanja Ward",
+      "en": "Chibanja Ward",
+      "slug": "chibanja-ward-mw10703"
+    },
+    "code": {
+      "id": "MW10703",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW107",
+      "level": 2,
+      "name": {
+        "local": "Mzuzu City",
+        "en": "Mzuzu City",
+        "slug": "mzuzu-city-mw107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      },
+      {
+        "id": "MW107",
+        "level": 2,
+        "name": {
+          "local": "Mzuzu City",
+          "en": "Mzuzu City",
+          "slug": "mzuzu-city-mw107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.445",
+      "lon": "34.011"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW10701",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Chibavi East Ward",
+      "en": "Chibavi East Ward",
+      "slug": "chibavi-east-ward-mw10701"
+    },
+    "code": {
+      "id": "MW10701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW107",
+      "level": 2,
+      "name": {
+        "local": "Mzuzu City",
+        "en": "Mzuzu City",
+        "slug": "mzuzu-city-mw107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      },
+      {
+        "id": "MW107",
+        "level": 2,
+        "name": {
+          "local": "Mzuzu City",
+          "en": "Mzuzu City",
+          "slug": "mzuzu-city-mw107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.444",
+      "lon": "34.004"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW10702",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Chibavi West Ward",
+      "en": "Chibavi West Ward",
+      "slug": "chibavi-west-ward-mw10702"
+    },
+    "code": {
+      "id": "MW10702",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW107",
+      "level": 2,
+      "name": {
+        "local": "Mzuzu City",
+        "en": "Mzuzu City",
+        "slug": "mzuzu-city-mw107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      },
+      {
+        "id": "MW107",
+        "level": 2,
+        "name": {
+          "local": "Mzuzu City",
+          "en": "Mzuzu City",
+          "slug": "mzuzu-city-mw107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.446",
+      "lon": "34"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW10704",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Chiputula Ward",
+      "en": "Chiputula Ward",
+      "slug": "chiputula-ward-mw10704"
+    },
+    "code": {
+      "id": "MW10704",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW107",
+      "level": 2,
+      "name": {
+        "local": "Mzuzu City",
+        "en": "Mzuzu City",
+        "slug": "mzuzu-city-mw107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      },
+      {
+        "id": "MW107",
+        "level": 2,
+        "name": {
+          "local": "Mzuzu City",
+          "en": "Mzuzu City",
+          "slug": "mzuzu-city-mw107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.44",
+      "lon": "34.021"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW10705",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Jombo - Kaning'ina Ward",
+      "en": "Jombo - Kaning'ina Ward",
+      "slug": "jombo-kaningina-ward-mw10705"
+    },
+    "code": {
+      "id": "MW10705",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW107",
+      "level": 2,
+      "name": {
+        "local": "Mzuzu City",
+        "en": "Mzuzu City",
+        "slug": "mzuzu-city-mw107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      },
+      {
+        "id": "MW107",
+        "level": 2,
+        "name": {
+          "local": "Mzuzu City",
+          "en": "Mzuzu City",
+          "slug": "mzuzu-city-mw107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.459",
+      "lon": "34.026"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW10706",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Katawa Ward",
+      "en": "Katawa Ward",
+      "slug": "katawa-ward-mw10706"
+    },
+    "code": {
+      "id": "MW10706",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW107",
+      "level": 2,
+      "name": {
+        "local": "Mzuzu City",
+        "en": "Mzuzu City",
+        "slug": "mzuzu-city-mw107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      },
+      {
+        "id": "MW107",
+        "level": 2,
+        "name": {
+          "local": "Mzuzu City",
+          "en": "Mzuzu City",
+          "slug": "mzuzu-city-mw107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.447",
+      "lon": "34.037"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW10707",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Luwinga Ward",
+      "en": "Luwinga Ward",
+      "slug": "luwinga-ward-mw10707"
+    },
+    "code": {
+      "id": "MW10707",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW107",
+      "level": 2,
+      "name": {
+        "local": "Mzuzu City",
+        "en": "Mzuzu City",
+        "slug": "mzuzu-city-mw107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      },
+      {
+        "id": "MW107",
+        "level": 2,
+        "name": {
+          "local": "Mzuzu City",
+          "en": "Mzuzu City",
+          "slug": "mzuzu-city-mw107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.413",
+      "lon": "34.001"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW10708",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Masasa Ward",
+      "en": "Masasa Ward",
+      "slug": "masasa-ward-mw10708"
+    },
+    "code": {
+      "id": "MW10708",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW107",
+      "level": 2,
+      "name": {
+        "local": "Mzuzu City",
+        "en": "Mzuzu City",
+        "slug": "mzuzu-city-mw107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      },
+      {
+        "id": "MW107",
+        "level": 2,
+        "name": {
+          "local": "Mzuzu City",
+          "en": "Mzuzu City",
+          "slug": "mzuzu-city-mw107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.484",
+      "lon": "33.998"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW10709",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Mchengautuwa East Ward",
+      "en": "Mchengautuwa East Ward",
+      "slug": "mchengautuwa-east-ward-mw10709"
+    },
+    "code": {
+      "id": "MW10709",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW107",
+      "level": 2,
+      "name": {
+        "local": "Mzuzu City",
+        "en": "Mzuzu City",
+        "slug": "mzuzu-city-mw107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      },
+      {
+        "id": "MW107",
+        "level": 2,
+        "name": {
+          "local": "Mzuzu City",
+          "en": "Mzuzu City",
+          "slug": "mzuzu-city-mw107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.452",
+      "lon": "33.995"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW10710",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Mchengautuwa West Ward",
+      "en": "Mchengautuwa West Ward",
+      "slug": "mchengautuwa-west-ward-mw10710"
+    },
+    "code": {
+      "id": "MW10710",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW107",
+      "level": 2,
+      "name": {
+        "local": "Mzuzu City",
+        "en": "Mzuzu City",
+        "slug": "mzuzu-city-mw107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      },
+      {
+        "id": "MW107",
+        "level": 2,
+        "name": {
+          "local": "Mzuzu City",
+          "en": "Mzuzu City",
+          "slug": "mzuzu-city-mw107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.46",
+      "lon": "33.968"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW10711",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Msongwe Ward",
+      "en": "Msongwe Ward",
+      "slug": "msongwe-ward-mw10711"
+    },
+    "code": {
+      "id": "MW10711",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW107",
+      "level": 2,
+      "name": {
+        "local": "Mzuzu City",
+        "en": "Mzuzu City",
+        "slug": "mzuzu-city-mw107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      },
+      {
+        "id": "MW107",
+        "level": 2,
+        "name": {
+          "local": "Mzuzu City",
+          "en": "Mzuzu City",
+          "slug": "mzuzu-city-mw107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.483",
+      "lon": "34.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW10712",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Mzilawaingwe Ward",
+      "en": "Mzilawaingwe Ward",
+      "slug": "mzilawaingwe-ward-mw10712"
+    },
+    "code": {
+      "id": "MW10712",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW107",
+      "level": 2,
+      "name": {
+        "local": "Mzuzu City",
+        "en": "Mzuzu City",
+        "slug": "mzuzu-city-mw107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      },
+      {
+        "id": "MW107",
+        "level": 2,
+        "name": {
+          "local": "Mzuzu City",
+          "en": "Mzuzu City",
+          "slug": "mzuzu-city-mw107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.449",
+      "lon": "34.019"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW10713",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Nkhorongo - Lupaso Ward",
+      "en": "Nkhorongo - Lupaso Ward",
+      "slug": "nkhorongo-lupaso-ward-mw10713"
+    },
+    "code": {
+      "id": "MW10713",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW107",
+      "level": 2,
+      "name": {
+        "local": "Mzuzu City",
+        "en": "Mzuzu City",
+        "slug": "mzuzu-city-mw107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      },
+      {
+        "id": "MW107",
+        "level": 2,
+        "name": {
+          "local": "Mzuzu City",
+          "en": "Mzuzu City",
+          "slug": "mzuzu-city-mw107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.395",
+      "lon": "34.026"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW10714",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Zolozolo East Ward",
+      "en": "Zolozolo East Ward",
+      "slug": "zolozolo-east-ward-mw10714"
+    },
+    "code": {
+      "id": "MW10714",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW107",
+      "level": 2,
+      "name": {
+        "local": "Mzuzu City",
+        "en": "Mzuzu City",
+        "slug": "mzuzu-city-mw107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      },
+      {
+        "id": "MW107",
+        "level": 2,
+        "name": {
+          "local": "Mzuzu City",
+          "en": "Mzuzu City",
+          "slug": "mzuzu-city-mw107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.418",
+      "lon": "34.033"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW10715",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Zolozolo West Ward",
+      "en": "Zolozolo West Ward",
+      "slug": "zolozolo-west-ward-mw10715"
+    },
+    "code": {
+      "id": "MW10715",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW107",
+      "level": 2,
+      "name": {
+        "local": "Mzuzu City",
+        "en": "Mzuzu City",
+        "slug": "mzuzu-city-mw107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      },
+      {
+        "id": "MW107",
+        "level": 2,
+        "name": {
+          "local": "Mzuzu City",
+          "en": "Mzuzu City",
+          "slug": "mzuzu-city-mw107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.431",
+      "lon": "34.016"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

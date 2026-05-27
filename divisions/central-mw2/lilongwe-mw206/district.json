@@ -1,0 +1,47 @@
+{
+  "id": "MW206",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Lilongwe",
+    "en": "Lilongwe",
+    "slug": "lilongwe-mw206"
+  },
+  "code": {
+    "id": "MW206",
+    "iso": null
+  },
+  "parent": {
+    "id": "MW2",
+    "level": 1,
+    "name": {
+      "local": "Central",
+      "en": "Central",
+      "slug": "central-mw2"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MW2",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-mw2"
+      }
+    }
+  ],
+  "children_count": {
+    "ta": 18
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-14.045",
+    "lon": "33.499"
+  },
+  "metadata": {},
+  "source": {}
+}

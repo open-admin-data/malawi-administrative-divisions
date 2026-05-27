@@ -1,0 +1,380 @@
+[
+  {
+    "id": "MW30920",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Phalombe Boma",
+      "en": "Phalombe Boma",
+      "slug": "phalombe-boma-mw30920"
+    },
+    "code": {
+      "id": "MW30920",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW309",
+      "level": 2,
+      "name": {
+        "local": "Phalombe",
+        "en": "Phalombe",
+        "slug": "phalombe-mw309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW309",
+        "level": 2,
+        "name": {
+          "local": "Phalombe",
+          "en": "Phalombe",
+          "slug": "phalombe-mw309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.8",
+      "lon": "35.651"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30903",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Chiwalo",
+      "en": "TA Chiwalo",
+      "slug": "ta-chiwalo-mw30903"
+    },
+    "code": {
+      "id": "MW30903",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW309",
+      "level": 2,
+      "name": {
+        "local": "Phalombe",
+        "en": "Phalombe",
+        "slug": "phalombe-mw309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW309",
+        "level": 2,
+        "name": {
+          "local": "Phalombe",
+          "en": "Phalombe",
+          "slug": "phalombe-mw309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.578",
+      "lon": "35.774"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30905",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Jenala",
+      "en": "TA Jenala",
+      "slug": "ta-jenala-mw30905"
+    },
+    "code": {
+      "id": "MW30905",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW309",
+      "level": 2,
+      "name": {
+        "local": "Phalombe",
+        "en": "Phalombe",
+        "slug": "phalombe-mw309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW309",
+        "level": 2,
+        "name": {
+          "local": "Phalombe",
+          "en": "Phalombe",
+          "slug": "phalombe-mw309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.584",
+      "lon": "35.621"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30906",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Kaduya",
+      "en": "TA Kaduya",
+      "slug": "ta-kaduya-mw30906"
+    },
+    "code": {
+      "id": "MW30906",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW309",
+      "level": 2,
+      "name": {
+        "local": "Phalombe",
+        "en": "Phalombe",
+        "slug": "phalombe-mw309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW309",
+        "level": 2,
+        "name": {
+          "local": "Phalombe",
+          "en": "Phalombe",
+          "slug": "phalombe-mw309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.705",
+      "lon": "35.709"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30901",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Mkhumba",
+      "en": "TA Mkhumba",
+      "slug": "ta-mkhumba-mw30901"
+    },
+    "code": {
+      "id": "MW30901",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW309",
+      "level": 2,
+      "name": {
+        "local": "Phalombe",
+        "en": "Phalombe",
+        "slug": "phalombe-mw309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW309",
+        "level": 2,
+        "name": {
+          "local": "Phalombe",
+          "en": "Phalombe",
+          "slug": "phalombe-mw309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.76",
+      "lon": "35.571"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30902",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Nazombe",
+      "en": "TA Nazombe",
+      "slug": "ta-nazombe-mw30902"
+    },
+    "code": {
+      "id": "MW30902",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW309",
+      "level": 2,
+      "name": {
+        "local": "Phalombe",
+        "en": "Phalombe",
+        "slug": "phalombe-mw309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW309",
+        "level": 2,
+        "name": {
+          "local": "Phalombe",
+          "en": "Phalombe",
+          "slug": "phalombe-mw309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.736",
+      "lon": "35.787"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30904",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Nkhulambe",
+      "en": "TA Nkhulambe",
+      "slug": "ta-nkhulambe-mw30904"
+    },
+    "code": {
+      "id": "MW30904",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW309",
+      "level": 2,
+      "name": {
+        "local": "Phalombe",
+        "en": "Phalombe",
+        "slug": "phalombe-mw309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW309",
+        "level": 2,
+        "name": {
+          "local": "Phalombe",
+          "en": "Phalombe",
+          "slug": "phalombe-mw309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.868",
+      "lon": "35.773"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

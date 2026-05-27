@@ -1,0 +1,488 @@
+[
+  {
+    "id": "MW20820",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Dedza Boma",
+      "en": "Dedza Boma",
+      "slug": "dedza-boma-mw20820"
+    },
+    "code": {
+      "id": "MW20820",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW208",
+      "level": 2,
+      "name": {
+        "local": "Dedza",
+        "en": "Dedza",
+        "slug": "dedza-mw208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW208",
+        "level": 2,
+        "name": {
+          "local": "Dedza",
+          "en": "Dedza",
+          "slug": "dedza-mw208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.382",
+      "lon": "34.322"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20805",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Chauma",
+      "en": "TA Chauma",
+      "slug": "ta-chauma-mw20805"
+    },
+    "code": {
+      "id": "MW20805",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW208",
+      "level": 2,
+      "name": {
+        "local": "Dedza",
+        "en": "Dedza",
+        "slug": "dedza-mw208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW208",
+        "level": 2,
+        "name": {
+          "local": "Dedza",
+          "en": "Dedza",
+          "slug": "dedza-mw208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.088",
+      "lon": "34.162"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20802",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Chilikumwendo",
+      "en": "TA Chilikumwendo",
+      "slug": "ta-chilikumwendo-mw20802"
+    },
+    "code": {
+      "id": "MW20802",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW208",
+      "level": 2,
+      "name": {
+        "local": "Dedza",
+        "en": "Dedza",
+        "slug": "dedza-mw208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW208",
+        "level": 2,
+        "name": {
+          "local": "Dedza",
+          "en": "Dedza",
+          "slug": "dedza-mw208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.304",
+      "lon": "33.965"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20801",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Kachere",
+      "en": "TA Kachere",
+      "slug": "ta-kachere-mw20801"
+    },
+    "code": {
+      "id": "MW20801",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW208",
+      "level": 2,
+      "name": {
+        "local": "Dedza",
+        "en": "Dedza",
+        "slug": "dedza-mw208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW208",
+        "level": 2,
+        "name": {
+          "local": "Dedza",
+          "en": "Dedza",
+          "slug": "dedza-mw208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.442",
+      "lon": "33.928"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20807",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Kachindamoto",
+      "en": "TA Kachindamoto",
+      "slug": "ta-kachindamoto-mw20807"
+    },
+    "code": {
+      "id": "MW20807",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW208",
+      "level": 2,
+      "name": {
+        "local": "Dedza",
+        "en": "Dedza",
+        "slug": "dedza-mw208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW208",
+        "level": 2,
+        "name": {
+          "local": "Dedza",
+          "en": "Dedza",
+          "slug": "dedza-mw208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.276",
+      "lon": "34.582"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20808",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Kamenya Gwaza",
+      "en": "TA Kamenya Gwaza",
+      "slug": "ta-kamenya-gwaza-mw20808"
+    },
+    "code": {
+      "id": "MW20808",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW208",
+      "level": 2,
+      "name": {
+        "local": "Dedza",
+        "en": "Dedza",
+        "slug": "dedza-mw208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW208",
+        "level": 2,
+        "name": {
+          "local": "Dedza",
+          "en": "Dedza",
+          "slug": "dedza-mw208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.317",
+      "lon": "34.438"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20803",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Kaphuka",
+      "en": "TA Kaphuka",
+      "slug": "ta-kaphuka-mw20803"
+    },
+    "code": {
+      "id": "MW20803",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW208",
+      "level": 2,
+      "name": {
+        "local": "Dedza",
+        "en": "Dedza",
+        "slug": "dedza-mw208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW208",
+        "level": 2,
+        "name": {
+          "local": "Dedza",
+          "en": "Dedza",
+          "slug": "dedza-mw208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.233",
+      "lon": "34.128"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20806",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Kasumbu",
+      "en": "TA Kasumbu",
+      "slug": "ta-kasumbu-mw20806"
+    },
+    "code": {
+      "id": "MW20806",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW208",
+      "level": 2,
+      "name": {
+        "local": "Dedza",
+        "en": "Dedza",
+        "slug": "dedza-mw208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW208",
+        "level": 2,
+        "name": {
+          "local": "Dedza",
+          "en": "Dedza",
+          "slug": "dedza-mw208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.179",
+      "lon": "34.357"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20804",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Tambala",
+      "en": "TA Tambala",
+      "slug": "ta-tambala-mw20804"
+    },
+    "code": {
+      "id": "MW20804",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW208",
+      "level": 2,
+      "name": {
+        "local": "Dedza",
+        "en": "Dedza",
+        "slug": "dedza-mw208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW208",
+        "level": 2,
+        "name": {
+          "local": "Dedza",
+          "en": "Dedza",
+          "slug": "dedza-mw208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.045",
+      "lon": "34.257"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

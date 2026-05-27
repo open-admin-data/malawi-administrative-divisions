@@ -1,0 +1,272 @@
+[
+  {
+    "id": "MW31320",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Neno Boma",
+      "en": "Neno Boma",
+      "slug": "neno-boma-mw31320"
+    },
+    "code": {
+      "id": "MW31320",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW313",
+      "level": 2,
+      "name": {
+        "local": "Neno",
+        "en": "Neno",
+        "slug": "neno-mw313"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW313",
+        "level": 2,
+        "name": {
+          "local": "Neno",
+          "en": "Neno",
+          "slug": "neno-mw313"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.394",
+      "lon": "34.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW31304",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Chekucheku",
+      "en": "TA Chekucheku",
+      "slug": "ta-chekucheku-mw31304"
+    },
+    "code": {
+      "id": "MW31304",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW313",
+      "level": 2,
+      "name": {
+        "local": "Neno",
+        "en": "Neno",
+        "slug": "neno-mw313"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW313",
+        "level": 2,
+        "name": {
+          "local": "Neno",
+          "en": "Neno",
+          "slug": "neno-mw313"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.345",
+      "lon": "34.701"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW31301",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Dambe",
+      "en": "TA Dambe",
+      "slug": "ta-dambe-mw31301"
+    },
+    "code": {
+      "id": "MW31301",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW313",
+      "level": 2,
+      "name": {
+        "local": "Neno",
+        "en": "Neno",
+        "slug": "neno-mw313"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW313",
+        "level": 2,
+        "name": {
+          "local": "Neno",
+          "en": "Neno",
+          "slug": "neno-mw313"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.334",
+      "lon": "34.599"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW31302",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Mlauli",
+      "en": "TA Mlauli",
+      "slug": "ta-mlauli-mw31302"
+    },
+    "code": {
+      "id": "MW31302",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW313",
+      "level": 2,
+      "name": {
+        "local": "Neno",
+        "en": "Neno",
+        "slug": "neno-mw313"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW313",
+        "level": 2,
+        "name": {
+          "local": "Neno",
+          "en": "Neno",
+          "slug": "neno-mw313"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.608",
+      "lon": "34.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW31303",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Symon Likongwe",
+      "en": "TA Symon Likongwe",
+      "slug": "ta-symon-likongwe-mw31303"
+    },
+    "code": {
+      "id": "MW31303",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW313",
+      "level": 2,
+      "name": {
+        "local": "Neno",
+        "en": "Neno",
+        "slug": "neno-mw313"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW313",
+        "level": 2,
+        "name": {
+          "local": "Neno",
+          "en": "Neno",
+          "slug": "neno-mw313"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.455",
+      "lon": "34.792"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,434 @@
+[
+  {
+    "id": "MW30503",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Chigaru",
+      "en": "TA Chigaru",
+      "slug": "ta-chigaru-mw30503"
+    },
+    "code": {
+      "id": "MW30503",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW305",
+      "level": 2,
+      "name": {
+        "local": "Blantyre",
+        "en": "Blantyre",
+        "slug": "blantyre-mw305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW305",
+        "level": 2,
+        "name": {
+          "local": "Blantyre",
+          "en": "Blantyre",
+          "slug": "blantyre-mw305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.443",
+      "lon": "34.943"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30501",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Kapeni",
+      "en": "TA Kapeni",
+      "slug": "ta-kapeni-mw30501"
+    },
+    "code": {
+      "id": "MW30501",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW305",
+      "level": 2,
+      "name": {
+        "local": "Blantyre",
+        "en": "Blantyre",
+        "slug": "blantyre-mw305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW305",
+        "level": 2,
+        "name": {
+          "local": "Blantyre",
+          "en": "Blantyre",
+          "slug": "blantyre-mw305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.607",
+      "lon": "35.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30506",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Kuntaja",
+      "en": "TA Kuntaja",
+      "slug": "ta-kuntaja-mw30506"
+    },
+    "code": {
+      "id": "MW30506",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW305",
+      "level": 2,
+      "name": {
+        "local": "Blantyre",
+        "en": "Blantyre",
+        "slug": "blantyre-mw305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW305",
+        "level": 2,
+        "name": {
+          "local": "Blantyre",
+          "en": "Blantyre",
+          "slug": "blantyre-mw305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.658",
+      "lon": "34.943"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30504",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Kunthembwe",
+      "en": "TA Kunthembwe",
+      "slug": "ta-kunthembwe-mw30504"
+    },
+    "code": {
+      "id": "MW30504",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW305",
+      "level": 2,
+      "name": {
+        "local": "Blantyre",
+        "en": "Blantyre",
+        "slug": "blantyre-mw305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW305",
+        "level": 2,
+        "name": {
+          "local": "Blantyre",
+          "en": "Blantyre",
+          "slug": "blantyre-mw305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.675",
+      "lon": "34.839"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30502",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Lundu",
+      "en": "TA Lundu",
+      "slug": "ta-lundu-mw30502"
+    },
+    "code": {
+      "id": "MW30502",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW305",
+      "level": 2,
+      "name": {
+        "local": "Blantyre",
+        "en": "Blantyre",
+        "slug": "blantyre-mw305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW305",
+        "level": 2,
+        "name": {
+          "local": "Blantyre",
+          "en": "Blantyre",
+          "slug": "blantyre-mw305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.466",
+      "lon": "35.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30507",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Machinjiri",
+      "en": "TA Machinjiri",
+      "slug": "ta-machinjiri-mw30507"
+    },
+    "code": {
+      "id": "MW30507",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW305",
+      "level": 2,
+      "name": {
+        "local": "Blantyre",
+        "en": "Blantyre",
+        "slug": "blantyre-mw305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW305",
+        "level": 2,
+        "name": {
+          "local": "Blantyre",
+          "en": "Blantyre",
+          "slug": "blantyre-mw305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.681",
+      "lon": "35.079"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30505",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Makata",
+      "en": "TA Makata",
+      "slug": "ta-makata-mw30505"
+    },
+    "code": {
+      "id": "MW30505",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW305",
+      "level": 2,
+      "name": {
+        "local": "Blantyre",
+        "en": "Blantyre",
+        "slug": "blantyre-mw305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW305",
+        "level": 2,
+        "name": {
+          "local": "Blantyre",
+          "en": "Blantyre",
+          "slug": "blantyre-mw305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.594",
+      "lon": "35.085"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30508",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Somba",
+      "en": "TA Somba",
+      "slug": "ta-somba-mw30508"
+    },
+    "code": {
+      "id": "MW30508",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW305",
+      "level": 2,
+      "name": {
+        "local": "Blantyre",
+        "en": "Blantyre",
+        "slug": "blantyre-mw305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW305",
+        "level": 2,
+        "name": {
+          "local": "Blantyre",
+          "en": "Blantyre",
+          "slug": "blantyre-mw305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.914",
+      "lon": "34.935"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

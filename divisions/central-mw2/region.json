@@ -1,0 +1,30 @@
+{
+  "id": "MW2",
+  "level": 1,
+  "level_name": {
+    "local": "Region",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Central",
+    "en": "Central",
+    "slug": "central-mw2"
+  },
+  "code": {
+    "id": "MW2",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 10,
+    "ta": 178
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-13.744",
+    "lon": "33.705"
+  },
+  "metadata": {},
+  "source": {}
+}

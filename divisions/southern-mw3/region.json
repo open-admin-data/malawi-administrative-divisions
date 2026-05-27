@@ -1,0 +1,30 @@
+{
+  "id": "MW3",
+  "level": 1,
+  "level_name": {
+    "local": "Region",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Southern",
+    "en": "Southern",
+    "slug": "southern-mw3"
+  },
+  "code": {
+    "id": "MW3",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 15,
+    "ta": 179
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-15.306",
+    "lon": "35.179"
+  },
+  "metadata": {},
+  "source": {}
+}

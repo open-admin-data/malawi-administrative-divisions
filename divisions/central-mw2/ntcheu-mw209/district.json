@@ -1,0 +1,47 @@
+{
+  "id": "MW209",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ntcheu",
+    "en": "Ntcheu",
+    "slug": "ntcheu-mw209"
+  },
+  "code": {
+    "id": "MW209",
+    "iso": null
+  },
+  "parent": {
+    "id": "MW2",
+    "level": 1,
+    "name": {
+      "local": "Central",
+      "en": "Central",
+      "slug": "central-mw2"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MW2",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-mw2"
+      }
+    }
+  ],
+  "children_count": {
+    "ta": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-14.822",
+    "lon": "34.768"
+  },
+  "metadata": {},
+  "source": {}
+}

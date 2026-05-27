@@ -1,0 +1,866 @@
+[
+  {
+    "id": "MW30721",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Luchenza Town",
+      "en": "Luchenza Town",
+      "slug": "luchenza-town-mw30721"
+    },
+    "code": {
+      "id": "MW30721",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW307",
+      "level": 2,
+      "name": {
+        "local": "Thyolo",
+        "en": "Thyolo",
+        "slug": "thyolo-mw307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW307",
+        "level": 2,
+        "name": {
+          "local": "Thyolo",
+          "en": "Thyolo",
+          "slug": "thyolo-mw307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.007",
+      "lon": "35.301"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30714",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "STA Boyidi",
+      "en": "STA Boyidi",
+      "slug": "sta-boyidi-mw30714"
+    },
+    "code": {
+      "id": "MW30714",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW307",
+      "level": 2,
+      "name": {
+        "local": "Thyolo",
+        "en": "Thyolo",
+        "slug": "thyolo-mw307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW307",
+        "level": 2,
+        "name": {
+          "local": "Thyolo",
+          "en": "Thyolo",
+          "slug": "thyolo-mw307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.973",
+      "lon": "35.108"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30703",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "STA Mbawela",
+      "en": "STA Mbawela",
+      "slug": "sta-mbawela-mw30703"
+    },
+    "code": {
+      "id": "MW30703",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW307",
+      "level": 2,
+      "name": {
+        "local": "Thyolo",
+        "en": "Thyolo",
+        "slug": "thyolo-mw307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW307",
+        "level": 2,
+        "name": {
+          "local": "Thyolo",
+          "en": "Thyolo",
+          "slug": "thyolo-mw307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.245",
+      "lon": "35.229"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30702",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "STA Thukuta",
+      "en": "STA Thukuta",
+      "slug": "sta-thukuta-mw30702"
+    },
+    "code": {
+      "id": "MW30702",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW307",
+      "level": 2,
+      "name": {
+        "local": "Thyolo",
+        "en": "Thyolo",
+        "slug": "thyolo-mw307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW307",
+        "level": 2,
+        "name": {
+          "local": "Thyolo",
+          "en": "Thyolo",
+          "slug": "thyolo-mw307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.364",
+      "lon": "35.253"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30710",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Bvumbwe",
+      "en": "TA Bvumbwe",
+      "slug": "ta-bvumbwe-mw30710"
+    },
+    "code": {
+      "id": "MW30710",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW307",
+      "level": 2,
+      "name": {
+        "local": "Thyolo",
+        "en": "Thyolo",
+        "slug": "thyolo-mw307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW307",
+        "level": 2,
+        "name": {
+          "local": "Thyolo",
+          "en": "Thyolo",
+          "slug": "thyolo-mw307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.961",
+      "lon": "35.048"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30704",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Changata",
+      "en": "TA Changata",
+      "slug": "ta-changata-mw30704"
+    },
+    "code": {
+      "id": "MW30704",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW307",
+      "level": 2,
+      "name": {
+        "local": "Thyolo",
+        "en": "Thyolo",
+        "slug": "thyolo-mw307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW307",
+        "level": 2,
+        "name": {
+          "local": "Thyolo",
+          "en": "Thyolo",
+          "slug": "thyolo-mw307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.233",
+      "lon": "35.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30709",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Chimaliro",
+      "en": "TA Chimaliro",
+      "slug": "ta-chimaliro-mw30709"
+    },
+    "code": {
+      "id": "MW30709",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW307",
+      "level": 2,
+      "name": {
+        "local": "Thyolo",
+        "en": "Thyolo",
+        "slug": "thyolo-mw307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW307",
+        "level": 2,
+        "name": {
+          "local": "Thyolo",
+          "en": "Thyolo",
+          "slug": "thyolo-mw307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.936",
+      "lon": "35.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30707",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Kapichi",
+      "en": "TA Kapichi",
+      "slug": "ta-kapichi-mw30707"
+    },
+    "code": {
+      "id": "MW30707",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW307",
+      "level": 2,
+      "name": {
+        "local": "Thyolo",
+        "en": "Thyolo",
+        "slug": "thyolo-mw307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW307",
+        "level": 2,
+        "name": {
+          "local": "Thyolo",
+          "en": "Thyolo",
+          "slug": "thyolo-mw307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.119",
+      "lon": "35.279"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30706",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Kwethemule",
+      "en": "TA Kwethemule",
+      "slug": "ta-kwethemule-mw30706"
+    },
+    "code": {
+      "id": "MW30706",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW307",
+      "level": 2,
+      "name": {
+        "local": "Thyolo",
+        "en": "Thyolo",
+        "slug": "thyolo-mw307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW307",
+        "level": 2,
+        "name": {
+          "local": "Thyolo",
+          "en": "Thyolo",
+          "slug": "thyolo-mw307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.178",
+      "lon": "35.089"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30705",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Mphuka",
+      "en": "TA Mphuka",
+      "slug": "ta-mphuka-mw30705"
+    },
+    "code": {
+      "id": "MW30705",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW307",
+      "level": 2,
+      "name": {
+        "local": "Thyolo",
+        "en": "Thyolo",
+        "slug": "thyolo-mw307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW307",
+        "level": 2,
+        "name": {
+          "local": "Thyolo",
+          "en": "Thyolo",
+          "slug": "thyolo-mw307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.107",
+      "lon": "35.01"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30712",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Nanseta",
+      "en": "TA Nanseta",
+      "slug": "ta-nanseta-mw30712"
+    },
+    "code": {
+      "id": "MW30712",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW307",
+      "level": 2,
+      "name": {
+        "local": "Thyolo",
+        "en": "Thyolo",
+        "slug": "thyolo-mw307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW307",
+        "level": 2,
+        "name": {
+          "local": "Thyolo",
+          "en": "Thyolo",
+          "slug": "thyolo-mw307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.019",
+      "lon": "35.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30708",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Nchilamwela",
+      "en": "TA Nchilamwela",
+      "slug": "ta-nchilamwela-mw30708"
+    },
+    "code": {
+      "id": "MW30708",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW307",
+      "level": 2,
+      "name": {
+        "local": "Thyolo",
+        "en": "Thyolo",
+        "slug": "thyolo-mw307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW307",
+        "level": 2,
+        "name": {
+          "local": "Thyolo",
+          "en": "Thyolo",
+          "slug": "thyolo-mw307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.09",
+      "lon": "35.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30713",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Ngolongoliwa",
+      "en": "TA Ngolongoliwa",
+      "slug": "ta-ngolongoliwa-mw30713"
+    },
+    "code": {
+      "id": "MW30713",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW307",
+      "level": 2,
+      "name": {
+        "local": "Thyolo",
+        "en": "Thyolo",
+        "slug": "thyolo-mw307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW307",
+        "level": 2,
+        "name": {
+          "local": "Thyolo",
+          "en": "Thyolo",
+          "slug": "thyolo-mw307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.992",
+      "lon": "35.188"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30701",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Nsabwe",
+      "en": "TA Nsabwe",
+      "slug": "ta-nsabwe-mw30701"
+    },
+    "code": {
+      "id": "MW30701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW307",
+      "level": 2,
+      "name": {
+        "local": "Thyolo",
+        "en": "Thyolo",
+        "slug": "thyolo-mw307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW307",
+        "level": 2,
+        "name": {
+          "local": "Thyolo",
+          "en": "Thyolo",
+          "slug": "thyolo-mw307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.312",
+      "lon": "35.222"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30711",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Thomas",
+      "en": "TA Thomas",
+      "slug": "ta-thomas-mw30711"
+    },
+    "code": {
+      "id": "MW30711",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW307",
+      "level": 2,
+      "name": {
+        "local": "Thyolo",
+        "en": "Thyolo",
+        "slug": "thyolo-mw307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW307",
+        "level": 2,
+        "name": {
+          "local": "Thyolo",
+          "en": "Thyolo",
+          "slug": "thyolo-mw307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.02",
+      "lon": "34.965"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30720",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Thyolo Boma",
+      "en": "Thyolo Boma",
+      "slug": "thyolo-boma-mw30720"
+    },
+    "code": {
+      "id": "MW30720",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW307",
+      "level": 2,
+      "name": {
+        "local": "Thyolo",
+        "en": "Thyolo",
+        "slug": "thyolo-mw307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW307",
+        "level": 2,
+        "name": {
+          "local": "Thyolo",
+          "en": "Thyolo",
+          "slug": "thyolo-mw307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.071",
+      "lon": "35.144"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

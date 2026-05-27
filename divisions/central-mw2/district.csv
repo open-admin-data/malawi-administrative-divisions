@@ -1,0 +1,11 @@
+id,name.local,name.en,name.slug,code.id,children_count.ta,geo.lat,geo.lon
+MW208,Dedza,Dedza,dedza-mw208,MW208,9,-14.239,34.318
+MW204,Dowa,Dowa,dowa-mw204,MW204,9,-13.523,33.741
+MW201,Kasungu,Kasungu,kasungu-mw201,MW201,28,-12.998,33.471
+MW206,Lilongwe,Lilongwe,lilongwe-mw206,MW206,18,-14.045,33.499
+MW210,Lilongwe City,Lilongwe City,lilongwe-city-mw210,MW210,58,-13.909,33.785
+MW207,Mchinji,Mchinji,mchinji-mw207,MW207,14,-13.782,33.025
+MW202,Nkhotakota,Nkhotakota,nkhotakota-mw202,MW202,9,-12.832,34.052
+MW209,Ntcheu,Ntcheu,ntcheu-mw209,MW209,12,-14.822,34.768
+MW203,Ntchisi,Ntchisi,ntchisi-mw203,MW203,8,-13.277,33.899
+MW205,Salima,Salima,salima-mw205,MW205,13,-13.767,34.454

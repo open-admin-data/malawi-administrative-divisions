@@ -1,0 +1,348 @@
+# Northern — Malawi Administrative Divisions
+
+> 7 districts, 76 traditional authoritys
+> Code: MW1
+> Coordinates: -11.054, 33.774
+> Last updated: 2026-05-27. License: CC-BY-4.0.
+
+## Districts
+
+### Chitipa
+
+Code: MW101, Coordinates: -9.974, 33.412
+Traditional Authoritys: 11
+
+#### Chitipa Boma
+
+Code: MW10120, Coordinates: -9.7, 33.268
+
+#### Nyika Ntational Park-Chitipa
+
+Code: MW10110, Coordinates: -10.371, 33.809
+
+#### STA Bulambya Songwe
+
+Code: MW10102, Coordinates: -9.567, 33.3
+
+#### STA Lwangwa
+
+Code: MW10104, Coordinates: -9.676, 33.619
+
+#### STA Nthengatenga
+
+Code: MW10107, Coordinates: -10.179, 33.679
+
+#### STA Wavikaza
+
+Code: MW10108, Coordinates: -10.45, 33.648
+
+#### TA Kameme
+
+Code: MW10109, Coordinates: -9.527, 33.101
+
+#### TA Mwabulambya
+
+Code: MW10101, Coordinates: -9.758, 33.341
+
+#### TA Mwenemisuku
+
+Code: MW10103, Coordinates: -9.758, 33.55
+
+#### TA Mwenewenya
+
+Code: MW10105, Coordinates: -10.048, 33.466
+
+#### TA Nthalire
+
+Code: MW10106, Coordinates: -10.312, 33.644
+
+### Karonga
+
+Code: MW102, Coordinates: -10.085, 33.866
+Traditional Authoritys: 7
+
+#### Karonga Town
+
+Code: MW10220, Coordinates: -9.949, 33.908
+
+#### Nyika National Park-Karonga
+
+Code: MW10206, Coordinates: -10.365, 33.988
+
+#### TA Kilupula
+
+Code: MW10201, Coordinates: -9.77, 33.795
+
+#### TA Kyungu
+
+Code: MW10203, Coordinates: -10.027, 33.781
+
+#### TA Mwakaboko
+
+Code: MW10202, Coordinates: -9.651, 33.75
+
+#### TA Mwirang&#39;ombe
+
+Code: MW10205, Coordinates: -10.321, 34.077
+
+#### TA Wasambo
+
+Code: MW10204, Coordinates: -10.448, 34.165
+
+### Likoma
+
+Code: MW106, Coordinates: -12.066, 34.732
+Traditional Authoritys: 2
+
+#### Likoma Boma
+
+Code: MW10620, Coordinates: -12.063, 34.737
+
+#### TA Mkumpha
+
+Code: MW10601, Coordinates: -12.066, 34.725
+
+### Mzimba
+
+Code: MW105, Coordinates: -11.851, 33.58
+Traditional Authoritys: 13
+
+#### Mzimba Boma
+
+Code: MW10520, Coordinates: -11.899, 33.593
+
+#### STA Levi Jere
+
+Code: MW10511, Coordinates: -12.395, 33.648
+
+#### TA Chindi
+
+Code: MW10505, Coordinates: -11.566, 33.411
+
+#### TA Jaravikuba Munthali
+
+Code: MW10504, Coordinates: -11.031, 33.972
+
+#### TA Kampingo Sibande
+
+Code: MW10503, Coordinates: -11.677, 33.69
+
+#### TA Khosolo Gwaza Jere
+
+Code: MW10508, Coordinates: -12.507, 33.852
+
+#### TA M&#39;Mbelwa
+
+Code: MW10501, Coordinates: -12.06, 33.38
+
+#### TA Mabulabo
+
+Code: MW10507, Coordinates: -12.561, 33.651
+
+#### TA Mpherembe
+
+Code: MW10509, Coordinates: -11.229, 33.52
+
+#### TA Mtwalo
+
+Code: MW10502, Coordinates: -11.336, 33.854
+
+#### TA Mzikubola
+
+Code: MW10506, Coordinates: -12.122, 33.639
+
+#### TA Mzukuzuku
+
+Code: MW10510, Coordinates: -12.16, 33.428
+
+#### Vwaza Marsh Reserve
+
+Code: MW10512, Coordinates: -11.106, 33.573
+
+### Mzuzu City
+
+Code: MW107, Coordinates: -11.434, 34.005
+Traditional Authoritys: 15
+
+#### Chibanja Ward
+
+Code: MW10703, Coordinates: -11.445, 34.011
+
+#### Chibavi East Ward
+
+Code: MW10701, Coordinates: -11.444, 34.004
+
+#### Chibavi West Ward
+
+Code: MW10702, Coordinates: -11.446, 34
+
+#### Chiputula Ward
+
+Code: MW10704, Coordinates: -11.44, 34.021
+
+#### Jombo - Kaning&#39;ina Ward
+
+Code: MW10705, Coordinates: -11.459, 34.026
+
+#### Katawa Ward
+
+Code: MW10706, Coordinates: -11.447, 34.037
+
+#### Luwinga Ward
+
+Code: MW10707, Coordinates: -11.413, 34.001
+
+#### Masasa Ward
+
+Code: MW10708, Coordinates: -11.484, 33.998
+
+#### Mchengautuwa East Ward
+
+Code: MW10709, Coordinates: -11.452, 33.995
+
+#### Mchengautuwa West Ward
+
+Code: MW10710, Coordinates: -11.46, 33.968
+
+#### Msongwe Ward
+
+Code: MW10711, Coordinates: -11.483, 34.046
+
+#### Mzilawaingwe Ward
+
+Code: MW10712, Coordinates: -11.449, 34.019
+
+#### Nkhorongo - Lupaso Ward
+
+Code: MW10713, Coordinates: -11.395, 34.026
+
+#### Zolozolo East Ward
+
+Code: MW10714, Coordinates: -11.418, 34.033
+
+#### Zolozolo West Ward
+
+Code: MW10715, Coordinates: -11.431, 34.016
+
+### Nkhatabay
+
+Code: MW103, Coordinates: -11.62, 34.04
+Traditional Authoritys: 14
+
+#### Nkhatabay Boma
+
+Code: MW10320, Coordinates: -11.606, 34.284
+
+#### STA Kondowe
+
+Code: MW10311, Coordinates: -11.055, 34.192
+
+#### STA Nyaluwanga
+
+Code: MW10310, Coordinates: -11.354, 34.109
+
+#### TA Boghoyo
+
+Code: MW10314, Coordinates: -11.117, 34.176
+
+#### TA Fukamalaza
+
+Code: MW10307, Coordinates: -11.738, 34.228
+
+#### TA Fukamapiri
+
+Code: MW10302, Coordinates: -11.962, 34.048
+
+#### TA Kabunduli
+
+Code: MW10301, Coordinates: -11.757, 33.946
+
+#### TA M&#39;bwana
+
+Code: MW10309, Coordinates: -11.255, 34.114
+
+#### TA Malanda
+
+Code: MW10304, Coordinates: -11.811, 34.135
+
+#### TA Malenga Mzoma
+
+Code: MW10303, Coordinates: -11.912, 34.14
+
+#### TA Mankhambira
+
+Code: MW10306, Coordinates: -11.682, 34.271
+
+#### TA Mkumbira
+
+Code: MW10308, Coordinates: -11.593, 34.261
+
+#### TA Timbiri
+
+Code: MW10312, Coordinates: -11.557, 34.175
+
+#### TA Zilakoma
+
+Code: MW10305, Coordinates: -12.13, 33.919
+
+### Rumphi
+
+Code: MW104, Coordinates: -10.805, 33.838
+Traditional Authoritys: 14
+
+#### Nyika National Park
+
+Code: MW10412, Coordinates: -10.708, 33.786
+
+#### Rumphi Boma
+
+Code: MW10420, Coordinates: -11.02, 33.857
+
+#### STA Chapinduka
+
+Code: MW10406, Coordinates: -10.966, 34.183
+
+#### STA Chisovya
+
+Code: MW10410, Coordinates: -10.968, 33.91
+
+#### STA Kachulu
+
+Code: MW10405, Coordinates: -10.657, 34.066
+
+#### STA Njikula
+
+Code: MW10411, Coordinates: -10.763, 34.159
+
+#### STA Zolokere
+
+Code: MW10409, Coordinates: -10.85, 33.489
+
+#### TA Chikulamayembe
+
+Code: MW10401, Coordinates: -10.968, 33.707
+
+#### TA Katumbi
+
+Code: MW10408, Coordinates: -10.799, 33.527
+
+#### TA Mwahenga
+
+Code: MW10403, Coordinates: -10.844, 34.021
+
+#### TA Mwalweni
+
+Code: MW10404, Coordinates: -10.701, 34.16
+
+#### TA Mwamlowe
+
+Code: MW10402, Coordinates: -10.827, 34.17
+
+#### TA Mwankhunikira
+
+Code: MW10407, Coordinates: -10.931, 34.056
+
+#### Vwaza Marsh Reserve
+
+Code: MW10413, Coordinates: -10.98, 33.422
+

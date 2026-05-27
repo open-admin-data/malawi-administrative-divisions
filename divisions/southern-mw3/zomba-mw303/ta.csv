@@ -1,0 +1,12 @@
+id,name.local,name.en,name.slug,code.id,geo.lat,geo.lon
+MW30310,STA Ngwelero,STA Ngwelero,sta-ngwelero-mw30310,MW30310,-15.614,35.44
+MW30308,STA Nkagula,STA Nkagula,sta-nkagula-mw30308,MW30308,-15.356,35.464
+MW30311,STA Nkapita,STA Nkapita,sta-nkapita-mw30311,MW30311,-15.284,35.187
+MW30309,STA Ntholowa,STA Ntholowa,sta-ntholowa-mw30309,MW30309,-15.571,35.265
+MW30304,TA Chikowi,TA Chikowi,ta-chikowi-mw30304,MW30304,-15.492,35.328
+MW30301,TA Kuntumanji,TA Kuntumanji,ta-kuntumanji-mw30301,MW30301,-15.276,35.479
+MW30306,TA Malemia,TA Malemia,ta-malemia-mw30306,MW30306,-15.287,35.341
+MW30305,TA Mbiza,TA Mbiza,ta-mbiza-mw30305,MW30305,-15.6,35.359
+MW30303,TA Mkumbira,TA Mkumbira,ta-mkumbira-mw30303,MW30303,-15.335,35.614
+MW30307,TA Mlumbe,TA Mlumbe,ta-mlumbe-mw30307,MW30307,-15.425,35.178
+MW30302,TA Mwambo,TA Mwambo,ta-mwambo-mw30302,MW30302,-15.468,35.527

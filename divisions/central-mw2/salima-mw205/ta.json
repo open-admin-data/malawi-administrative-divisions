@@ -1,0 +1,704 @@
+[
+  {
+    "id": "MW20521",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Chipoka Urban",
+      "en": "Chipoka Urban",
+      "slug": "chipoka-urban-mw20521"
+    },
+    "code": {
+      "id": "MW20521",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW205",
+      "level": 2,
+      "name": {
+        "local": "Salima",
+        "en": "Salima",
+        "slug": "salima-mw205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW205",
+        "level": 2,
+        "name": {
+          "local": "Salima",
+          "en": "Salima",
+          "slug": "salima-mw205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.998",
+      "lon": "34.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20511",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Lake Malawi National Park",
+      "en": "Lake Malawi National Park",
+      "slug": "lake-malawi-national-park-mw20511"
+    },
+    "code": {
+      "id": "MW20511",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW205",
+      "level": 2,
+      "name": {
+        "local": "Salima",
+        "en": "Salima",
+        "slug": "salima-mw205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW205",
+        "level": 2,
+        "name": {
+          "local": "Salima",
+          "en": "Salima",
+          "slug": "salima-mw205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.9",
+      "lon": "34.626"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20520",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Salima Town",
+      "en": "Salima Town",
+      "slug": "salima-town-mw20520"
+    },
+    "code": {
+      "id": "MW20520",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW205",
+      "level": 2,
+      "name": {
+        "local": "Salima",
+        "en": "Salima",
+        "slug": "salima-mw205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW205",
+        "level": 2,
+        "name": {
+          "local": "Salima",
+          "en": "Salima",
+          "slug": "salima-mw205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.772",
+      "lon": "34.446"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20506",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Kambalame",
+      "en": "TA Kambalame",
+      "slug": "ta-kambalame-mw20506"
+    },
+    "code": {
+      "id": "MW20506",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW205",
+      "level": 2,
+      "name": {
+        "local": "Salima",
+        "en": "Salima",
+        "slug": "salima-mw205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW205",
+        "level": 2,
+        "name": {
+          "local": "Salima",
+          "en": "Salima",
+          "slug": "salima-mw205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.077",
+      "lon": "34.501"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20504",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Kambwiri",
+      "en": "TA Kambwiri",
+      "slug": "ta-kambwiri-mw20504"
+    },
+    "code": {
+      "id": "MW20504",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW205",
+      "level": 2,
+      "name": {
+        "local": "Salima",
+        "en": "Salima",
+        "slug": "salima-mw205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW205",
+        "level": 2,
+        "name": {
+          "local": "Salima",
+          "en": "Salima",
+          "slug": "salima-mw205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.881",
+      "lon": "34.389"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20502",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Karonga",
+      "en": "TA Karonga",
+      "slug": "ta-karonga-mw20502"
+    },
+    "code": {
+      "id": "MW20502",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW205",
+      "level": 2,
+      "name": {
+        "local": "Salima",
+        "en": "Salima",
+        "slug": "salima-mw205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW205",
+        "level": 2,
+        "name": {
+          "local": "Salima",
+          "en": "Salima",
+          "slug": "salima-mw205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.764",
+      "lon": "34.36"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20507",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Khombedza",
+      "en": "TA Khombedza",
+      "slug": "ta-khombedza-mw20507"
+    },
+    "code": {
+      "id": "MW20507",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW205",
+      "level": 2,
+      "name": {
+        "local": "Salima",
+        "en": "Salima",
+        "slug": "salima-mw205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW205",
+        "level": 2,
+        "name": {
+          "local": "Salima",
+          "en": "Salima",
+          "slug": "salima-mw205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.566",
+      "lon": "34.326"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20509",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Kuluunda",
+      "en": "TA Kuluunda",
+      "slug": "ta-kuluunda-mw20509"
+    },
+    "code": {
+      "id": "MW20509",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW205",
+      "level": 2,
+      "name": {
+        "local": "Salima",
+        "en": "Salima",
+        "slug": "salima-mw205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW205",
+        "level": 2,
+        "name": {
+          "local": "Salima",
+          "en": "Salima",
+          "slug": "salima-mw205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.664",
+      "lon": "34.534"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20501",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Maganga",
+      "en": "TA Maganga",
+      "slug": "ta-maganga-mw20501"
+    },
+    "code": {
+      "id": "MW20501",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW205",
+      "level": 2,
+      "name": {
+        "local": "Salima",
+        "en": "Salima",
+        "slug": "salima-mw205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW205",
+        "level": 2,
+        "name": {
+          "local": "Salima",
+          "en": "Salima",
+          "slug": "salima-mw205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.79",
+      "lon": "34.542"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20510",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Msosa",
+      "en": "TA Msosa",
+      "slug": "ta-msosa-mw20510"
+    },
+    "code": {
+      "id": "MW20510",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW205",
+      "level": 2,
+      "name": {
+        "local": "Salima",
+        "en": "Salima",
+        "slug": "salima-mw205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW205",
+        "level": 2,
+        "name": {
+          "local": "Salima",
+          "en": "Salima",
+          "slug": "salima-mw205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.509",
+      "lon": "34.373"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20508",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Mwanza",
+      "en": "TA Mwanza",
+      "slug": "ta-mwanza-mw20508"
+    },
+    "code": {
+      "id": "MW20508",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW205",
+      "level": 2,
+      "name": {
+        "local": "Salima",
+        "en": "Salima",
+        "slug": "salima-mw205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW205",
+        "level": 2,
+        "name": {
+          "local": "Salima",
+          "en": "Salima",
+          "slug": "salima-mw205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.617",
+      "lon": "34.173"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20505",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Ndindi",
+      "en": "TA Ndindi",
+      "slug": "ta-ndindi-mw20505"
+    },
+    "code": {
+      "id": "MW20505",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW205",
+      "level": 2,
+      "name": {
+        "local": "Salima",
+        "en": "Salima",
+        "slug": "salima-mw205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW205",
+        "level": 2,
+        "name": {
+          "local": "Salima",
+          "en": "Salima",
+          "slug": "salima-mw205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.987",
+      "lon": "34.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20503",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Pemba",
+      "en": "TA Pemba",
+      "slug": "ta-pemba-mw20503"
+    },
+    "code": {
+      "id": "MW20503",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW205",
+      "level": 2,
+      "name": {
+        "local": "Salima",
+        "en": "Salima",
+        "slug": "salima-mw205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW205",
+        "level": 2,
+        "name": {
+          "local": "Salima",
+          "en": "Salima",
+          "slug": "salima-mw205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.869",
+      "lon": "34.519"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

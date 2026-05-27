@@ -1,0 +1,8 @@
+id,name.local,name.en,name.slug,code.id,children_count.ta,geo.lat,geo.lon
+MW101,Chitipa,Chitipa,chitipa-mw101,MW101,11,-9.974,33.412
+MW102,Karonga,Karonga,karonga-mw102,MW102,7,-10.085,33.866
+MW106,Likoma,Likoma,likoma-mw106,MW106,2,-12.066,34.732
+MW105,Mzimba,Mzimba,mzimba-mw105,MW105,13,-11.851,33.58
+MW107,Mzuzu City,Mzuzu City,mzuzu-city-mw107,MW107,15,-11.434,34.005
+MW103,Nkhatabay,Nkhatabay,nkhatabay-mw103,MW103,14,-11.62,34.04
+MW104,Rumphi,Rumphi,rumphi-mw104,MW104,14,-10.805,33.838

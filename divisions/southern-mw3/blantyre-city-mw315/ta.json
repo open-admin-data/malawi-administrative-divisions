@@ -1,0 +1,1244 @@
+[
+  {
+    "id": "MW31546",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Bangwe Mthandizi Ward",
+      "en": "Bangwe Mthandizi Ward",
+      "slug": "bangwe-mthandizi-ward-mw31546"
+    },
+    "code": {
+      "id": "MW31546",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW315",
+      "level": 2,
+      "name": {
+        "local": "Blantyre City",
+        "en": "Blantyre City",
+        "slug": "blantyre-city-mw315"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW315",
+        "level": 2,
+        "name": {
+          "local": "Blantyre City",
+          "en": "Blantyre City",
+          "slug": "blantyre-city-mw315"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.821",
+      "lon": "35.069"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW31545",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Bangwe Ward",
+      "en": "Bangwe Ward",
+      "slug": "bangwe-ward-mw31545"
+    },
+    "code": {
+      "id": "MW31545",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW315",
+      "level": 2,
+      "name": {
+        "local": "Blantyre City",
+        "en": "Blantyre City",
+        "slug": "blantyre-city-mw315"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW315",
+        "level": 2,
+        "name": {
+          "local": "Blantyre City",
+          "en": "Blantyre City",
+          "slug": "blantyre-city-mw315"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.827",
+      "lon": "35.089"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW31541",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Blantyre City Centre Ward",
+      "en": "Blantyre City Centre Ward",
+      "slug": "blantyre-city-centre-ward-mw31541"
+    },
+    "code": {
+      "id": "MW31541",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW315",
+      "level": 2,
+      "name": {
+        "local": "Blantyre City",
+        "en": "Blantyre City",
+        "slug": "blantyre-city-mw315"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW315",
+        "level": 2,
+        "name": {
+          "local": "Blantyre City",
+          "en": "Blantyre City",
+          "slug": "blantyre-city-mw315"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.799",
+      "lon": "35.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW31548",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Blantyre South Ward",
+      "en": "Blantyre South Ward",
+      "slug": "blantyre-south-ward-mw31548"
+    },
+    "code": {
+      "id": "MW31548",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW315",
+      "level": 2,
+      "name": {
+        "local": "Blantyre City",
+        "en": "Blantyre City",
+        "slug": "blantyre-city-mw315"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW315",
+        "level": 2,
+        "name": {
+          "local": "Blantyre City",
+          "en": "Blantyre City",
+          "slug": "blantyre-city-mw315"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.806",
+      "lon": "34.997"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW31552",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Chigumula Ward",
+      "en": "Chigumula Ward",
+      "slug": "chigumula-ward-mw31552"
+    },
+    "code": {
+      "id": "MW31552",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW315",
+      "level": 2,
+      "name": {
+        "local": "Blantyre City",
+        "en": "Blantyre City",
+        "slug": "blantyre-city-mw315"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW315",
+        "level": 2,
+        "name": {
+          "local": "Blantyre City",
+          "en": "Blantyre City",
+          "slug": "blantyre-city-mw315"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.869",
+      "lon": "35.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW31540",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Chilomoni Ward",
+      "en": "Chilomoni Ward",
+      "slug": "chilomoni-ward-mw31540"
+    },
+    "code": {
+      "id": "MW31540",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW315",
+      "level": 2,
+      "name": {
+        "local": "Blantyre City",
+        "en": "Blantyre City",
+        "slug": "blantyre-city-mw315"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW315",
+        "level": 2,
+        "name": {
+          "local": "Blantyre City",
+          "en": "Blantyre City",
+          "slug": "blantyre-city-mw315"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.765",
+      "lon": "34.98"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW31549",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Green Corner Ward",
+      "en": "Green Corner Ward",
+      "slug": "green-corner-ward-mw31549"
+    },
+    "code": {
+      "id": "MW31549",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW315",
+      "level": 2,
+      "name": {
+        "local": "Blantyre City",
+        "en": "Blantyre City",
+        "slug": "blantyre-city-mw315"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW315",
+        "level": 2,
+        "name": {
+          "local": "Blantyre City",
+          "en": "Blantyre City",
+          "slug": "blantyre-city-mw315"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.836",
+      "lon": "34.991"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW31543",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Limbe Central Ward",
+      "en": "Limbe Central Ward",
+      "slug": "limbe-central-ward-mw31543"
+    },
+    "code": {
+      "id": "MW31543",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW315",
+      "level": 2,
+      "name": {
+        "local": "Blantyre City",
+        "en": "Blantyre City",
+        "slug": "blantyre-city-mw315"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW315",
+        "level": 2,
+        "name": {
+          "local": "Blantyre City",
+          "en": "Blantyre City",
+          "slug": "blantyre-city-mw315"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.81",
+      "lon": "35.055"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW31533",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Mapanga Ward",
+      "en": "Mapanga Ward",
+      "slug": "mapanga-ward-mw31533"
+    },
+    "code": {
+      "id": "MW31533",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW315",
+      "level": 2,
+      "name": {
+        "local": "Blantyre City",
+        "en": "Blantyre City",
+        "slug": "blantyre-city-mw315"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW315",
+        "level": 2,
+        "name": {
+          "local": "Blantyre City",
+          "en": "Blantyre City",
+          "slug": "blantyre-city-mw315"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.757",
+      "lon": "35.094"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW31539",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Mbayani Ward",
+      "en": "Mbayani Ward",
+      "slug": "mbayani-ward-mw31539"
+    },
+    "code": {
+      "id": "MW31539",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW315",
+      "level": 2,
+      "name": {
+        "local": "Blantyre City",
+        "en": "Blantyre City",
+        "slug": "blantyre-city-mw315"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW315",
+        "level": 2,
+        "name": {
+          "local": "Blantyre City",
+          "en": "Blantyre City",
+          "slug": "blantyre-city-mw315"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.77",
+      "lon": "35.003"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW31531",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Michiru Ward",
+      "en": "Michiru Ward",
+      "slug": "michiru-ward-mw31531"
+    },
+    "code": {
+      "id": "MW31531",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW315",
+      "level": 2,
+      "name": {
+        "local": "Blantyre City",
+        "en": "Blantyre City",
+        "slug": "blantyre-city-mw315"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW315",
+        "level": 2,
+        "name": {
+          "local": "Blantyre City",
+          "en": "Blantyre City",
+          "slug": "blantyre-city-mw315"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.733",
+      "lon": "35.01"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW31553",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Misesa Ward",
+      "en": "Misesa Ward",
+      "slug": "misesa-ward-mw31553"
+    },
+    "code": {
+      "id": "MW31553",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW315",
+      "level": 2,
+      "name": {
+        "local": "Blantyre City",
+        "en": "Blantyre City",
+        "slug": "blantyre-city-mw315"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW315",
+        "level": 2,
+        "name": {
+          "local": "Blantyre City",
+          "en": "Blantyre City",
+          "slug": "blantyre-city-mw315"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.842",
+      "lon": "35.048"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW31544",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Mzedi Ward",
+      "en": "Mzedi Ward",
+      "slug": "mzedi-ward-mw31544"
+    },
+    "code": {
+      "id": "MW31544",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW315",
+      "level": 2,
+      "name": {
+        "local": "Blantyre City",
+        "en": "Blantyre City",
+        "slug": "blantyre-city-mw315"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW315",
+        "level": 2,
+        "name": {
+          "local": "Blantyre City",
+          "en": "Blantyre City",
+          "slug": "blantyre-city-mw315"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.812",
+      "lon": "35.101"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW31542",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Namalimwe Ward",
+      "en": "Namalimwe Ward",
+      "slug": "namalimwe-ward-mw31542"
+    },
+    "code": {
+      "id": "MW31542",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW315",
+      "level": 2,
+      "name": {
+        "local": "Blantyre City",
+        "en": "Blantyre City",
+        "slug": "blantyre-city-mw315"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW315",
+        "level": 2,
+        "name": {
+          "local": "Blantyre City",
+          "en": "Blantyre City",
+          "slug": "blantyre-city-mw315"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.789",
+      "lon": "35.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW31551",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Namiyango Ward",
+      "en": "Namiyango Ward",
+      "slug": "namiyango-ward-mw31551"
+    },
+    "code": {
+      "id": "MW31551",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW315",
+      "level": 2,
+      "name": {
+        "local": "Blantyre City",
+        "en": "Blantyre City",
+        "slug": "blantyre-city-mw315"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW315",
+        "level": 2,
+        "name": {
+          "local": "Blantyre City",
+          "en": "Blantyre City",
+          "slug": "blantyre-city-mw315"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.838",
+      "lon": "35.085"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW31537",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Ndirande Gamulani Ward",
+      "en": "Ndirande Gamulani Ward",
+      "slug": "ndirande-gamulani-ward-mw31537"
+    },
+    "code": {
+      "id": "MW31537",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW315",
+      "level": 2,
+      "name": {
+        "local": "Blantyre City",
+        "en": "Blantyre City",
+        "slug": "blantyre-city-mw315"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW315",
+        "level": 2,
+        "name": {
+          "local": "Blantyre City",
+          "en": "Blantyre City",
+          "slug": "blantyre-city-mw315"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.757",
+      "lon": "35.04"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW31536",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Ndirande Makata Ward",
+      "en": "Ndirande Makata Ward",
+      "slug": "ndirande-makata-ward-mw31536"
+    },
+    "code": {
+      "id": "MW31536",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW315",
+      "level": 2,
+      "name": {
+        "local": "Blantyre City",
+        "en": "Blantyre City",
+        "slug": "blantyre-city-mw315"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW315",
+        "level": 2,
+        "name": {
+          "local": "Blantyre City",
+          "en": "Blantyre City",
+          "slug": "blantyre-city-mw315"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.767",
+      "lon": "35.044"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW31535",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Ndirande Matope Ward",
+      "en": "Ndirande Matope Ward",
+      "slug": "ndirande-matope-ward-mw31535"
+    },
+    "code": {
+      "id": "MW31535",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW315",
+      "level": 2,
+      "name": {
+        "local": "Blantyre City",
+        "en": "Blantyre City",
+        "slug": "blantyre-city-mw315"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW315",
+        "level": 2,
+        "name": {
+          "local": "Blantyre City",
+          "en": "Blantyre City",
+          "slug": "blantyre-city-mw315"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.775",
+      "lon": "35.049"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW31534",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Nkolokoti Ward",
+      "en": "Nkolokoti Ward",
+      "slug": "nkolokoti-ward-mw31534"
+    },
+    "code": {
+      "id": "MW31534",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW315",
+      "level": 2,
+      "name": {
+        "local": "Blantyre City",
+        "en": "Blantyre City",
+        "slug": "blantyre-city-mw315"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW315",
+        "level": 2,
+        "name": {
+          "local": "Blantyre City",
+          "en": "Blantyre City",
+          "slug": "blantyre-city-mw315"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.779",
+      "lon": "35.071"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW31538",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Nyambadwe Ward",
+      "en": "Nyambadwe Ward",
+      "slug": "nyambadwe-ward-mw31538"
+    },
+    "code": {
+      "id": "MW31538",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW315",
+      "level": 2,
+      "name": {
+        "local": "Blantyre City",
+        "en": "Blantyre City",
+        "slug": "blantyre-city-mw315"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW315",
+        "level": 2,
+        "name": {
+          "local": "Blantyre City",
+          "en": "Blantyre City",
+          "slug": "blantyre-city-mw315"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.767",
+      "lon": "35.02"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW31547",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Soche East Ward",
+      "en": "Soche East Ward",
+      "slug": "soche-east-ward-mw31547"
+    },
+    "code": {
+      "id": "MW31547",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW315",
+      "level": 2,
+      "name": {
+        "local": "Blantyre City",
+        "en": "Blantyre City",
+        "slug": "blantyre-city-mw315"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW315",
+        "level": 2,
+        "name": {
+          "local": "Blantyre City",
+          "en": "Blantyre City",
+          "slug": "blantyre-city-mw315"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.81",
+      "lon": "35.022"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW31550",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Soche West Ward",
+      "en": "Soche West Ward",
+      "slug": "soche-west-ward-mw31550"
+    },
+    "code": {
+      "id": "MW31550",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW315",
+      "level": 2,
+      "name": {
+        "local": "Blantyre City",
+        "en": "Blantyre City",
+        "slug": "blantyre-city-mw315"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW315",
+        "level": 2,
+        "name": {
+          "local": "Blantyre City",
+          "en": "Blantyre City",
+          "slug": "blantyre-city-mw315"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.831",
+      "lon": "35.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW31532",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "South Lunzu Ward",
+      "en": "South Lunzu Ward",
+      "slug": "south-lunzu-ward-mw31532"
+    },
+    "code": {
+      "id": "MW31532",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW315",
+      "level": 2,
+      "name": {
+        "local": "Blantyre City",
+        "en": "Blantyre City",
+        "slug": "blantyre-city-mw315"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW315",
+        "level": 2,
+        "name": {
+          "local": "Blantyre City",
+          "en": "Blantyre City",
+          "slug": "blantyre-city-mw315"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.733",
+      "lon": "35.044"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

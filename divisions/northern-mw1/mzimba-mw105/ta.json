@@ -1,0 +1,704 @@
+[
+  {
+    "id": "MW10520",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Mzimba Boma",
+      "en": "Mzimba Boma",
+      "slug": "mzimba-boma-mw10520"
+    },
+    "code": {
+      "id": "MW10520",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW105",
+      "level": 2,
+      "name": {
+        "local": "Mzimba",
+        "en": "Mzimba",
+        "slug": "mzimba-mw105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      },
+      {
+        "id": "MW105",
+        "level": 2,
+        "name": {
+          "local": "Mzimba",
+          "en": "Mzimba",
+          "slug": "mzimba-mw105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.899",
+      "lon": "33.593"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW10511",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "STA Levi Jere",
+      "en": "STA Levi Jere",
+      "slug": "sta-levi-jere-mw10511"
+    },
+    "code": {
+      "id": "MW10511",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW105",
+      "level": 2,
+      "name": {
+        "local": "Mzimba",
+        "en": "Mzimba",
+        "slug": "mzimba-mw105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      },
+      {
+        "id": "MW105",
+        "level": 2,
+        "name": {
+          "local": "Mzimba",
+          "en": "Mzimba",
+          "slug": "mzimba-mw105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.395",
+      "lon": "33.648"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW10505",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Chindi",
+      "en": "TA Chindi",
+      "slug": "ta-chindi-mw10505"
+    },
+    "code": {
+      "id": "MW10505",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW105",
+      "level": 2,
+      "name": {
+        "local": "Mzimba",
+        "en": "Mzimba",
+        "slug": "mzimba-mw105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      },
+      {
+        "id": "MW105",
+        "level": 2,
+        "name": {
+          "local": "Mzimba",
+          "en": "Mzimba",
+          "slug": "mzimba-mw105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.566",
+      "lon": "33.411"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW10504",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Jaravikuba Munthali",
+      "en": "TA Jaravikuba Munthali",
+      "slug": "ta-jaravikuba-munthali-mw10504"
+    },
+    "code": {
+      "id": "MW10504",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW105",
+      "level": 2,
+      "name": {
+        "local": "Mzimba",
+        "en": "Mzimba",
+        "slug": "mzimba-mw105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      },
+      {
+        "id": "MW105",
+        "level": 2,
+        "name": {
+          "local": "Mzimba",
+          "en": "Mzimba",
+          "slug": "mzimba-mw105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.031",
+      "lon": "33.972"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW10503",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Kampingo Sibande",
+      "en": "TA Kampingo Sibande",
+      "slug": "ta-kampingo-sibande-mw10503"
+    },
+    "code": {
+      "id": "MW10503",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW105",
+      "level": 2,
+      "name": {
+        "local": "Mzimba",
+        "en": "Mzimba",
+        "slug": "mzimba-mw105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      },
+      {
+        "id": "MW105",
+        "level": 2,
+        "name": {
+          "local": "Mzimba",
+          "en": "Mzimba",
+          "slug": "mzimba-mw105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.677",
+      "lon": "33.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW10508",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Khosolo Gwaza Jere",
+      "en": "TA Khosolo Gwaza Jere",
+      "slug": "ta-khosolo-gwaza-jere-mw10508"
+    },
+    "code": {
+      "id": "MW10508",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW105",
+      "level": 2,
+      "name": {
+        "local": "Mzimba",
+        "en": "Mzimba",
+        "slug": "mzimba-mw105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      },
+      {
+        "id": "MW105",
+        "level": 2,
+        "name": {
+          "local": "Mzimba",
+          "en": "Mzimba",
+          "slug": "mzimba-mw105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.507",
+      "lon": "33.852"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW10501",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA M'Mbelwa",
+      "en": "TA M'Mbelwa",
+      "slug": "ta-mmbelwa-mw10501"
+    },
+    "code": {
+      "id": "MW10501",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW105",
+      "level": 2,
+      "name": {
+        "local": "Mzimba",
+        "en": "Mzimba",
+        "slug": "mzimba-mw105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      },
+      {
+        "id": "MW105",
+        "level": 2,
+        "name": {
+          "local": "Mzimba",
+          "en": "Mzimba",
+          "slug": "mzimba-mw105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.06",
+      "lon": "33.38"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW10507",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Mabulabo",
+      "en": "TA Mabulabo",
+      "slug": "ta-mabulabo-mw10507"
+    },
+    "code": {
+      "id": "MW10507",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW105",
+      "level": 2,
+      "name": {
+        "local": "Mzimba",
+        "en": "Mzimba",
+        "slug": "mzimba-mw105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      },
+      {
+        "id": "MW105",
+        "level": 2,
+        "name": {
+          "local": "Mzimba",
+          "en": "Mzimba",
+          "slug": "mzimba-mw105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.561",
+      "lon": "33.651"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW10509",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Mpherembe",
+      "en": "TA Mpherembe",
+      "slug": "ta-mpherembe-mw10509"
+    },
+    "code": {
+      "id": "MW10509",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW105",
+      "level": 2,
+      "name": {
+        "local": "Mzimba",
+        "en": "Mzimba",
+        "slug": "mzimba-mw105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      },
+      {
+        "id": "MW105",
+        "level": 2,
+        "name": {
+          "local": "Mzimba",
+          "en": "Mzimba",
+          "slug": "mzimba-mw105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.229",
+      "lon": "33.52"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW10502",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Mtwalo",
+      "en": "TA Mtwalo",
+      "slug": "ta-mtwalo-mw10502"
+    },
+    "code": {
+      "id": "MW10502",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW105",
+      "level": 2,
+      "name": {
+        "local": "Mzimba",
+        "en": "Mzimba",
+        "slug": "mzimba-mw105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      },
+      {
+        "id": "MW105",
+        "level": 2,
+        "name": {
+          "local": "Mzimba",
+          "en": "Mzimba",
+          "slug": "mzimba-mw105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.336",
+      "lon": "33.854"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW10506",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Mzikubola",
+      "en": "TA Mzikubola",
+      "slug": "ta-mzikubola-mw10506"
+    },
+    "code": {
+      "id": "MW10506",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW105",
+      "level": 2,
+      "name": {
+        "local": "Mzimba",
+        "en": "Mzimba",
+        "slug": "mzimba-mw105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      },
+      {
+        "id": "MW105",
+        "level": 2,
+        "name": {
+          "local": "Mzimba",
+          "en": "Mzimba",
+          "slug": "mzimba-mw105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.122",
+      "lon": "33.639"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW10510",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Mzukuzuku",
+      "en": "TA Mzukuzuku",
+      "slug": "ta-mzukuzuku-mw10510"
+    },
+    "code": {
+      "id": "MW10510",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW105",
+      "level": 2,
+      "name": {
+        "local": "Mzimba",
+        "en": "Mzimba",
+        "slug": "mzimba-mw105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      },
+      {
+        "id": "MW105",
+        "level": 2,
+        "name": {
+          "local": "Mzimba",
+          "en": "Mzimba",
+          "slug": "mzimba-mw105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.16",
+      "lon": "33.428"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW10512",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Vwaza Marsh Reserve",
+      "en": "Vwaza Marsh Reserve",
+      "slug": "vwaza-marsh-reserve-mw10512"
+    },
+    "code": {
+      "id": "MW10512",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW105",
+      "level": 2,
+      "name": {
+        "local": "Mzimba",
+        "en": "Mzimba",
+        "slug": "mzimba-mw105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      },
+      {
+        "id": "MW105",
+        "level": 2,
+        "name": {
+          "local": "Mzimba",
+          "en": "Mzimba",
+          "slug": "mzimba-mw105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.106",
+      "lon": "33.573"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

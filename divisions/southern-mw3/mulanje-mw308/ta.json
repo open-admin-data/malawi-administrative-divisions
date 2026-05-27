@@ -1,0 +1,542 @@
+[
+  {
+    "id": "MW30820",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Mulanje Boma",
+      "en": "Mulanje Boma",
+      "slug": "mulanje-boma-mw30820"
+    },
+    "code": {
+      "id": "MW30820",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW308",
+      "level": 2,
+      "name": {
+        "local": "Mulanje",
+        "en": "Mulanje",
+        "slug": "mulanje-mw308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW308",
+        "level": 2,
+        "name": {
+          "local": "Mulanje",
+          "en": "Mulanje",
+          "slug": "mulanje-mw308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.013",
+      "lon": "35.499"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30809",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Mulanje Mountain Reserve",
+      "en": "Mulanje Mountain Reserve",
+      "slug": "mulanje-mountain-reserve-mw30809"
+    },
+    "code": {
+      "id": "MW30809",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW308",
+      "level": 2,
+      "name": {
+        "local": "Mulanje",
+        "en": "Mulanje",
+        "slug": "mulanje-mw308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW308",
+        "level": 2,
+        "name": {
+          "local": "Mulanje",
+          "en": "Mulanje",
+          "slug": "mulanje-mw308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.937",
+      "lon": "35.641"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30807",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "STA Sunganinzeru",
+      "en": "STA Sunganinzeru",
+      "slug": "sta-sunganinzeru-mw30807"
+    },
+    "code": {
+      "id": "MW30807",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW308",
+      "level": 2,
+      "name": {
+        "local": "Mulanje",
+        "en": "Mulanje",
+        "slug": "mulanje-mw308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW308",
+        "level": 2,
+        "name": {
+          "local": "Mulanje",
+          "en": "Mulanje",
+          "slug": "mulanje-mw308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.051",
+      "lon": "35.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30808",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "STA Tombondiya",
+      "en": "STA Tombondiya",
+      "slug": "sta-tombondiya-mw30808"
+    },
+    "code": {
+      "id": "MW30808",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW308",
+      "level": 2,
+      "name": {
+        "local": "Mulanje",
+        "en": "Mulanje",
+        "slug": "mulanje-mw308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW308",
+        "level": 2,
+        "name": {
+          "local": "Mulanje",
+          "en": "Mulanje",
+          "slug": "mulanje-mw308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.161",
+      "lon": "35.332"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30803",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Chikumbu",
+      "en": "TA Chikumbu",
+      "slug": "ta-chikumbu-mw30803"
+    },
+    "code": {
+      "id": "MW30803",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW308",
+      "level": 2,
+      "name": {
+        "local": "Mulanje",
+        "en": "Mulanje",
+        "slug": "mulanje-mw308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW308",
+        "level": 2,
+        "name": {
+          "local": "Mulanje",
+          "en": "Mulanje",
+          "slug": "mulanje-mw308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.04",
+      "lon": "35.44"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30806",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Juma",
+      "en": "TA Juma",
+      "slug": "ta-juma-mw30806"
+    },
+    "code": {
+      "id": "MW30806",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW308",
+      "level": 2,
+      "name": {
+        "local": "Mulanje",
+        "en": "Mulanje",
+        "slug": "mulanje-mw308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW308",
+        "level": 2,
+        "name": {
+          "local": "Mulanje",
+          "en": "Mulanje",
+          "slug": "mulanje-mw308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.763",
+      "lon": "35.358"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30802",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Laston Njema",
+      "en": "TA Laston Njema",
+      "slug": "ta-laston-njema-mw30802"
+    },
+    "code": {
+      "id": "MW30802",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW308",
+      "level": 2,
+      "name": {
+        "local": "Mulanje",
+        "en": "Mulanje",
+        "slug": "mulanje-mw308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW308",
+        "level": 2,
+        "name": {
+          "local": "Mulanje",
+          "en": "Mulanje",
+          "slug": "mulanje-mw308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.016",
+      "lon": "35.689"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30801",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Mabuka",
+      "en": "TA Mabuka",
+      "slug": "ta-mabuka-mw30801"
+    },
+    "code": {
+      "id": "MW30801",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW308",
+      "level": 2,
+      "name": {
+        "local": "Mulanje",
+        "en": "Mulanje",
+        "slug": "mulanje-mw308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW308",
+        "level": 2,
+        "name": {
+          "local": "Mulanje",
+          "en": "Mulanje",
+          "slug": "mulanje-mw308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.054",
+      "lon": "35.523"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30805",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Nkanda",
+      "en": "TA Nkanda",
+      "slug": "ta-nkanda-mw30805"
+    },
+    "code": {
+      "id": "MW30805",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW308",
+      "level": 2,
+      "name": {
+        "local": "Mulanje",
+        "en": "Mulanje",
+        "slug": "mulanje-mw308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW308",
+        "level": 2,
+        "name": {
+          "local": "Mulanje",
+          "en": "Mulanje",
+          "slug": "mulanje-mw308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.845",
+      "lon": "35.481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30804",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Nthiramanja",
+      "en": "TA Nthiramanja",
+      "slug": "ta-nthiramanja-mw30804"
+    },
+    "code": {
+      "id": "MW30804",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW308",
+      "level": 2,
+      "name": {
+        "local": "Mulanje",
+        "en": "Mulanje",
+        "slug": "mulanje-mw308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW308",
+        "level": 2,
+        "name": {
+          "local": "Mulanje",
+          "en": "Mulanje",
+          "slug": "mulanje-mw308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.999",
+      "lon": "35.348"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

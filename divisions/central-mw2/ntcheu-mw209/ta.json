@@ -1,0 +1,650 @@
+[
+  {
+    "id": "MW20920",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Ntcheu Boma",
+      "en": "Ntcheu Boma",
+      "slug": "ntcheu-boma-mw20920"
+    },
+    "code": {
+      "id": "MW20920",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW209",
+      "level": 2,
+      "name": {
+        "local": "Ntcheu",
+        "en": "Ntcheu",
+        "slug": "ntcheu-mw209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW209",
+        "level": 2,
+        "name": {
+          "local": "Ntcheu",
+          "en": "Ntcheu",
+          "slug": "ntcheu-mw209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.814",
+      "lon": "34.635"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20906",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "STA Mkutumula",
+      "en": "STA Mkutumula",
+      "slug": "sta-mkutumula-mw20906"
+    },
+    "code": {
+      "id": "MW20906",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW209",
+      "level": 2,
+      "name": {
+        "local": "Ntcheu",
+        "en": "Ntcheu",
+        "slug": "ntcheu-mw209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW209",
+        "level": 2,
+        "name": {
+          "local": "Ntcheu",
+          "en": "Ntcheu",
+          "slug": "ntcheu-mw209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.821",
+      "lon": "34.916"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20902",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "STA Tsikulamowa",
+      "en": "STA Tsikulamowa",
+      "slug": "sta-tsikulamowa-mw20902"
+    },
+    "code": {
+      "id": "MW20902",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW209",
+      "level": 2,
+      "name": {
+        "local": "Ntcheu",
+        "en": "Ntcheu",
+        "slug": "ntcheu-mw209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW209",
+        "level": 2,
+        "name": {
+          "local": "Ntcheu",
+          "en": "Ntcheu",
+          "slug": "ntcheu-mw209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.153",
+      "lon": "34.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20909",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Chakhumbira",
+      "en": "TA Chakhumbira",
+      "slug": "ta-chakhumbira-mw20909"
+    },
+    "code": {
+      "id": "MW20909",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW209",
+      "level": 2,
+      "name": {
+        "local": "Ntcheu",
+        "en": "Ntcheu",
+        "slug": "ntcheu-mw209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW209",
+        "level": 2,
+        "name": {
+          "local": "Ntcheu",
+          "en": "Ntcheu",
+          "slug": "ntcheu-mw209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.512",
+      "lon": "34.515"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20907",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Champiti",
+      "en": "TA Champiti",
+      "slug": "ta-champiti-mw20907"
+    },
+    "code": {
+      "id": "MW20907",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW209",
+      "level": 2,
+      "name": {
+        "local": "Ntcheu",
+        "en": "Ntcheu",
+        "slug": "ntcheu-mw209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW209",
+        "level": 2,
+        "name": {
+          "local": "Ntcheu",
+          "en": "Ntcheu",
+          "slug": "ntcheu-mw209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.909",
+      "lon": "34.738"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20910",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Goodson Ganya",
+      "en": "TA Goodson Ganya",
+      "slug": "ta-goodson-ganya-mw20910"
+    },
+    "code": {
+      "id": "MW20910",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW209",
+      "level": 2,
+      "name": {
+        "local": "Ntcheu",
+        "en": "Ntcheu",
+        "slug": "ntcheu-mw209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW209",
+        "level": 2,
+        "name": {
+          "local": "Ntcheu",
+          "en": "Ntcheu",
+          "slug": "ntcheu-mw209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.595",
+      "lon": "34.701"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20904",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Kwataine",
+      "en": "TA Kwataine",
+      "slug": "ta-kwataine-mw20904"
+    },
+    "code": {
+      "id": "MW20904",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW209",
+      "level": 2,
+      "name": {
+        "local": "Ntcheu",
+        "en": "Ntcheu",
+        "slug": "ntcheu-mw209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW209",
+        "level": 2,
+        "name": {
+          "local": "Ntcheu",
+          "en": "Ntcheu",
+          "slug": "ntcheu-mw209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.826",
+      "lon": "34.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20905",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Makwangwala",
+      "en": "TA Makwangwala",
+      "slug": "ta-makwangwala-mw20905"
+    },
+    "code": {
+      "id": "MW20905",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW209",
+      "level": 2,
+      "name": {
+        "local": "Ntcheu",
+        "en": "Ntcheu",
+        "slug": "ntcheu-mw209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW209",
+        "level": 2,
+        "name": {
+          "local": "Ntcheu",
+          "en": "Ntcheu",
+          "slug": "ntcheu-mw209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.855",
+      "lon": "34.813"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20911",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Masasa",
+      "en": "TA Masasa",
+      "slug": "ta-masasa-mw20911"
+    },
+    "code": {
+      "id": "MW20911",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW209",
+      "level": 2,
+      "name": {
+        "local": "Ntcheu",
+        "en": "Ntcheu",
+        "slug": "ntcheu-mw209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW209",
+        "level": 2,
+        "name": {
+          "local": "Ntcheu",
+          "en": "Ntcheu",
+          "slug": "ntcheu-mw209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.4",
+      "lon": "34.691"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20903",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Mpando",
+      "en": "TA Mpando",
+      "slug": "ta-mpando-mw20903"
+    },
+    "code": {
+      "id": "MW20903",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW209",
+      "level": 2,
+      "name": {
+        "local": "Ntcheu",
+        "en": "Ntcheu",
+        "slug": "ntcheu-mw209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW209",
+        "level": 2,
+        "name": {
+          "local": "Ntcheu",
+          "en": "Ntcheu",
+          "slug": "ntcheu-mw209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.011",
+      "lon": "34.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20908",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Njolomole",
+      "en": "TA Njolomole",
+      "slug": "ta-njolomole-mw20908"
+    },
+    "code": {
+      "id": "MW20908",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW209",
+      "level": 2,
+      "name": {
+        "local": "Ntcheu",
+        "en": "Ntcheu",
+        "slug": "ntcheu-mw209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW209",
+        "level": 2,
+        "name": {
+          "local": "Ntcheu",
+          "en": "Ntcheu",
+          "slug": "ntcheu-mw209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.669",
+      "lon": "34.582"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20901",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Phambala",
+      "en": "TA Phambala",
+      "slug": "ta-phambala-mw20901"
+    },
+    "code": {
+      "id": "MW20901",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW209",
+      "level": 2,
+      "name": {
+        "local": "Ntcheu",
+        "en": "Ntcheu",
+        "slug": "ntcheu-mw209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW209",
+        "level": 2,
+        "name": {
+          "local": "Ntcheu",
+          "en": "Ntcheu",
+          "slug": "ntcheu-mw209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.09",
+      "lon": "34.731"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,758 @@
+[
+  {
+    "id": "MW20720",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Mchinji Boma",
+      "en": "Mchinji Boma",
+      "slug": "mchinji-boma-mw20720"
+    },
+    "code": {
+      "id": "MW20720",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW207",
+      "level": 2,
+      "name": {
+        "local": "Mchinji",
+        "en": "Mchinji",
+        "slug": "mchinji-mw207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW207",
+        "level": 2,
+        "name": {
+          "local": "Mchinji",
+          "en": "Mchinji",
+          "slug": "mchinji-mw207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.797",
+      "lon": "32.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20708",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "STA Gumba",
+      "en": "STA Gumba",
+      "slug": "sta-gumba-mw20708"
+    },
+    "code": {
+      "id": "MW20708",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW207",
+      "level": 2,
+      "name": {
+        "local": "Mchinji",
+        "en": "Mchinji",
+        "slug": "mchinji-mw207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW207",
+        "level": 2,
+        "name": {
+          "local": "Mchinji",
+          "en": "Mchinji",
+          "slug": "mchinji-mw207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.399",
+      "lon": "33.064"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20710",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "STA Kapunula",
+      "en": "STA Kapunula",
+      "slug": "sta-kapunula-mw20710"
+    },
+    "code": {
+      "id": "MW20710",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW207",
+      "level": 2,
+      "name": {
+        "local": "Mchinji",
+        "en": "Mchinji",
+        "slug": "mchinji-mw207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW207",
+        "level": 2,
+        "name": {
+          "local": "Mchinji",
+          "en": "Mchinji",
+          "slug": "mchinji-mw207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.599",
+      "lon": "32.751"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20706",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "STA Nyoka",
+      "en": "STA Nyoka",
+      "slug": "sta-nyoka-mw20706"
+    },
+    "code": {
+      "id": "MW20706",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW207",
+      "level": 2,
+      "name": {
+        "local": "Mchinji",
+        "en": "Mchinji",
+        "slug": "mchinji-mw207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW207",
+        "level": 2,
+        "name": {
+          "local": "Mchinji",
+          "en": "Mchinji",
+          "slug": "mchinji-mw207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.708",
+      "lon": "32.952"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20709",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "STA Pitala",
+      "en": "STA Pitala",
+      "slug": "sta-pitala-mw20709"
+    },
+    "code": {
+      "id": "MW20709",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW207",
+      "level": 2,
+      "name": {
+        "local": "Mchinji",
+        "en": "Mchinji",
+        "slug": "mchinji-mw207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW207",
+        "level": 2,
+        "name": {
+          "local": "Mchinji",
+          "en": "Mchinji",
+          "slug": "mchinji-mw207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.524",
+      "lon": "33.026"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20712",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Dambe",
+      "en": "TA Dambe",
+      "slug": "ta-dambe-mw20712"
+    },
+    "code": {
+      "id": "MW20712",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW207",
+      "level": 2,
+      "name": {
+        "local": "Mchinji",
+        "en": "Mchinji",
+        "slug": "mchinji-mw207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW207",
+        "level": 2,
+        "name": {
+          "local": "Mchinji",
+          "en": "Mchinji",
+          "slug": "mchinji-mw207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.525",
+      "lon": "33.127"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20713",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Kapondo",
+      "en": "TA Kapondo",
+      "slug": "ta-kapondo-mw20713"
+    },
+    "code": {
+      "id": "MW20713",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW207",
+      "level": 2,
+      "name": {
+        "local": "Mchinji",
+        "en": "Mchinji",
+        "slug": "mchinji-mw207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW207",
+        "level": 2,
+        "name": {
+          "local": "Mchinji",
+          "en": "Mchinji",
+          "slug": "mchinji-mw207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.624",
+      "lon": "33.069"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20711",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Kazyozyo",
+      "en": "TA Kazyozyo",
+      "slug": "ta-kazyozyo-mw20711"
+    },
+    "code": {
+      "id": "MW20711",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW207",
+      "level": 2,
+      "name": {
+        "local": "Mchinji",
+        "en": "Mchinji",
+        "slug": "mchinji-mw207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW207",
+        "level": 2,
+        "name": {
+          "local": "Mchinji",
+          "en": "Mchinji",
+          "slug": "mchinji-mw207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.594",
+      "lon": "32.856"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20702",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Mavwere",
+      "en": "TA Mavwere",
+      "slug": "ta-mavwere-mw20702"
+    },
+    "code": {
+      "id": "MW20702",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW207",
+      "level": 2,
+      "name": {
+        "local": "Mchinji",
+        "en": "Mchinji",
+        "slug": "mchinji-mw207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW207",
+        "level": 2,
+        "name": {
+          "local": "Mchinji",
+          "en": "Mchinji",
+          "slug": "mchinji-mw207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.021",
+      "lon": "33.307"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20705",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Mduwa",
+      "en": "TA Mduwa",
+      "slug": "ta-mduwa-mw20705"
+    },
+    "code": {
+      "id": "MW20705",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW207",
+      "level": 2,
+      "name": {
+        "local": "Mchinji",
+        "en": "Mchinji",
+        "slug": "mchinji-mw207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW207",
+        "level": 2,
+        "name": {
+          "local": "Mchinji",
+          "en": "Mchinji",
+          "slug": "mchinji-mw207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.692",
+      "lon": "33.165"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20707",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Mkanda",
+      "en": "TA Mkanda",
+      "slug": "ta-mkanda-mw20707"
+    },
+    "code": {
+      "id": "MW20707",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW207",
+      "level": 2,
+      "name": {
+        "local": "Mchinji",
+        "en": "Mchinji",
+        "slug": "mchinji-mw207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW207",
+        "level": 2,
+        "name": {
+          "local": "Mchinji",
+          "en": "Mchinji",
+          "slug": "mchinji-mw207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.508",
+      "lon": "32.929"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20701",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Mlonyeni",
+      "en": "TA Mlonyeni",
+      "slug": "ta-mlonyeni-mw20701"
+    },
+    "code": {
+      "id": "MW20701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW207",
+      "level": 2,
+      "name": {
+        "local": "Mchinji",
+        "en": "Mchinji",
+        "slug": "mchinji-mw207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW207",
+        "level": 2,
+        "name": {
+          "local": "Mchinji",
+          "en": "Mchinji",
+          "slug": "mchinji-mw207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.902",
+      "lon": "33.015"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20704",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Simphasi",
+      "en": "TA Simphasi",
+      "slug": "ta-simphasi-mw20704"
+    },
+    "code": {
+      "id": "MW20704",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW207",
+      "level": 2,
+      "name": {
+        "local": "Mchinji",
+        "en": "Mchinji",
+        "slug": "mchinji-mw207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW207",
+        "level": 2,
+        "name": {
+          "local": "Mchinji",
+          "en": "Mchinji",
+          "slug": "mchinji-mw207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.794",
+      "lon": "33.163"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20703",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Zulu",
+      "en": "TA Zulu",
+      "slug": "ta-zulu-mw20703"
+    },
+    "code": {
+      "id": "MW20703",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW207",
+      "level": 2,
+      "name": {
+        "local": "Mchinji",
+        "en": "Mchinji",
+        "slug": "mchinji-mw207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW207",
+        "level": 2,
+        "name": {
+          "local": "Mchinji",
+          "en": "Mchinji",
+          "slug": "mchinji-mw207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.835",
+      "lon": "33.063"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

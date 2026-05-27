@@ -1,0 +1,47 @@
+{
+  "id": "MW104",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Rumphi",
+    "en": "Rumphi",
+    "slug": "rumphi-mw104"
+  },
+  "code": {
+    "id": "MW104",
+    "iso": null
+  },
+  "parent": {
+    "id": "MW1",
+    "level": 1,
+    "name": {
+      "local": "Northern",
+      "en": "Northern",
+      "slug": "northern-mw1"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MW1",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-mw1"
+      }
+    }
+  ],
+  "children_count": {
+    "ta": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.805",
+    "lon": "33.838"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "MW308",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mulanje",
+    "en": "Mulanje",
+    "slug": "mulanje-mw308"
+  },
+  "code": {
+    "id": "MW308",
+    "iso": null
+  },
+  "parent": {
+    "id": "MW3",
+    "level": 1,
+    "name": {
+      "local": "Southern",
+      "en": "Southern",
+      "slug": "southern-mw3"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MW3",
+      "level": 1,
+      "name": {
+        "local": "Southern",
+        "en": "Southern",
+        "slug": "southern-mw3"
+      }
+    }
+  ],
+  "children_count": {
+    "ta": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-15.908",
+    "lon": "35.544"
+  },
+  "metadata": {},
+  "source": {}
+}

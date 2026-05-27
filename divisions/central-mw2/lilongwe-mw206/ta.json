@@ -1,0 +1,974 @@
+[
+  {
+    "id": "MW20607",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "STA Chitekwele",
+      "en": "STA Chitekwele",
+      "slug": "sta-chitekwele-mw20607"
+    },
+    "code": {
+      "id": "MW20607",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW206",
+      "level": 2,
+      "name": {
+        "local": "Lilongwe",
+        "en": "Lilongwe",
+        "slug": "lilongwe-mw206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW206",
+        "level": 2,
+        "name": {
+          "local": "Lilongwe",
+          "en": "Lilongwe",
+          "slug": "lilongwe-mw206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.915",
+      "lon": "34.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20618",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "STA Mbang'ombe",
+      "en": "STA Mbang'ombe",
+      "slug": "sta-mbangombe-mw20618"
+    },
+    "code": {
+      "id": "MW20618",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW206",
+      "level": 2,
+      "name": {
+        "local": "Lilongwe",
+        "en": "Lilongwe",
+        "slug": "lilongwe-mw206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW206",
+        "level": 2,
+        "name": {
+          "local": "Lilongwe",
+          "en": "Lilongwe",
+          "slug": "lilongwe-mw206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.727",
+      "lon": "33.693"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20601",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Chadza",
+      "en": "TA Chadza",
+      "slug": "ta-chadza-mw20601"
+    },
+    "code": {
+      "id": "MW20601",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW206",
+      "level": 2,
+      "name": {
+        "local": "Lilongwe",
+        "en": "Lilongwe",
+        "slug": "lilongwe-mw206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW206",
+        "level": 2,
+        "name": {
+          "local": "Lilongwe",
+          "en": "Lilongwe",
+          "slug": "lilongwe-mw206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.145",
+      "lon": "33.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20609",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Chimutu",
+      "en": "TA Chimutu",
+      "slug": "ta-chimutu-mw20609"
+    },
+    "code": {
+      "id": "MW20609",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW206",
+      "level": 2,
+      "name": {
+        "local": "Lilongwe",
+        "en": "Lilongwe",
+        "slug": "lilongwe-mw206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW206",
+        "level": 2,
+        "name": {
+          "local": "Lilongwe",
+          "en": "Lilongwe",
+          "slug": "lilongwe-mw206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.858",
+      "lon": "33.952"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20605",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Chiseka",
+      "en": "TA Chiseka",
+      "slug": "ta-chiseka-mw20605"
+    },
+    "code": {
+      "id": "MW20605",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW206",
+      "level": 2,
+      "name": {
+        "local": "Lilongwe",
+        "en": "Lilongwe",
+        "slug": "lilongwe-mw206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW206",
+        "level": 2,
+        "name": {
+          "local": "Lilongwe",
+          "en": "Lilongwe",
+          "slug": "lilongwe-mw206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.226",
+      "lon": "33.735"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20610",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Chitukula",
+      "en": "TA Chitukula",
+      "slug": "ta-chitukula-mw20610"
+    },
+    "code": {
+      "id": "MW20610",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW206",
+      "level": 2,
+      "name": {
+        "local": "Lilongwe",
+        "en": "Lilongwe",
+        "slug": "lilongwe-mw206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW206",
+        "level": 2,
+        "name": {
+          "local": "Lilongwe",
+          "en": "Lilongwe",
+          "slug": "lilongwe-mw206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.758",
+      "lon": "33.732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20617",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Kabudula",
+      "en": "TA Kabudula",
+      "slug": "ta-kabudula-mw20617"
+    },
+    "code": {
+      "id": "MW20617",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW206",
+      "level": 2,
+      "name": {
+        "local": "Lilongwe",
+        "en": "Lilongwe",
+        "slug": "lilongwe-mw206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW206",
+        "level": 2,
+        "name": {
+          "local": "Lilongwe",
+          "en": "Lilongwe",
+          "slug": "lilongwe-mw206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.817",
+      "lon": "33.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20602",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Kalolo",
+      "en": "TA Kalolo",
+      "slug": "ta-kalolo-mw20602"
+    },
+    "code": {
+      "id": "MW20602",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW206",
+      "level": 2,
+      "name": {
+        "local": "Lilongwe",
+        "en": "Lilongwe",
+        "slug": "lilongwe-mw206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW206",
+        "level": 2,
+        "name": {
+          "local": "Lilongwe",
+          "en": "Lilongwe",
+          "slug": "lilongwe-mw206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.034",
+      "lon": "33.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20614",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Kalumba",
+      "en": "TA Kalumba",
+      "slug": "ta-kalumba-mw20614"
+    },
+    "code": {
+      "id": "MW20614",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW206",
+      "level": 2,
+      "name": {
+        "local": "Lilongwe",
+        "en": "Lilongwe",
+        "slug": "lilongwe-mw206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW206",
+        "level": 2,
+        "name": {
+          "local": "Lilongwe",
+          "en": "Lilongwe",
+          "slug": "lilongwe-mw206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.077",
+      "lon": "33.808"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20612",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Kalumbu",
+      "en": "TA Kalumbu",
+      "slug": "ta-kalumbu-mw20612"
+    },
+    "code": {
+      "id": "MW20612",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW206",
+      "level": 2,
+      "name": {
+        "local": "Lilongwe",
+        "en": "Lilongwe",
+        "slug": "lilongwe-mw206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW206",
+        "level": 2,
+        "name": {
+          "local": "Lilongwe",
+          "en": "Lilongwe",
+          "slug": "lilongwe-mw206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.158",
+      "lon": "33.987"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20608",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Khongoni",
+      "en": "TA Khongoni",
+      "slug": "ta-khongoni-mw20608"
+    },
+    "code": {
+      "id": "MW20608",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW206",
+      "level": 2,
+      "name": {
+        "local": "Lilongwe",
+        "en": "Lilongwe",
+        "slug": "lilongwe-mw206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW206",
+        "level": 2,
+        "name": {
+          "local": "Lilongwe",
+          "en": "Lilongwe",
+          "slug": "lilongwe-mw206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.699",
+      "lon": "33.363"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20616",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Malili",
+      "en": "TA Malili",
+      "slug": "ta-malili-mw20616"
+    },
+    "code": {
+      "id": "MW20616",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW206",
+      "level": 2,
+      "name": {
+        "local": "Lilongwe",
+        "en": "Lilongwe",
+        "slug": "lilongwe-mw206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW206",
+        "level": 2,
+        "name": {
+          "local": "Lilongwe",
+          "en": "Lilongwe",
+          "slug": "lilongwe-mw206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.025",
+      "lon": "33.585"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20603",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Masula",
+      "en": "TA Masula",
+      "slug": "ta-masula-mw20603"
+    },
+    "code": {
+      "id": "MW20603",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW206",
+      "level": 2,
+      "name": {
+        "local": "Lilongwe",
+        "en": "Lilongwe",
+        "slug": "lilongwe-mw206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW206",
+        "level": 2,
+        "name": {
+          "local": "Lilongwe",
+          "en": "Lilongwe",
+          "slug": "lilongwe-mw206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.381",
+      "lon": "33.613"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20604",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Masumbankhunda",
+      "en": "TA Masumbankhunda",
+      "slug": "ta-masumbankhunda-mw20604"
+    },
+    "code": {
+      "id": "MW20604",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW206",
+      "level": 2,
+      "name": {
+        "local": "Lilongwe",
+        "en": "Lilongwe",
+        "slug": "lilongwe-mw206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW206",
+        "level": 2,
+        "name": {
+          "local": "Lilongwe",
+          "en": "Lilongwe",
+          "slug": "lilongwe-mw206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.199",
+      "lon": "33.504"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20606",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Mazengera",
+      "en": "TA Mazengera",
+      "slug": "ta-mazengera-mw20606"
+    },
+    "code": {
+      "id": "MW20606",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW206",
+      "level": 2,
+      "name": {
+        "local": "Lilongwe",
+        "en": "Lilongwe",
+        "slug": "lilongwe-mw206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW206",
+        "level": 2,
+        "name": {
+          "local": "Lilongwe",
+          "en": "Lilongwe",
+          "slug": "lilongwe-mw206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.037",
+      "lon": "34.026"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20611",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Mtema",
+      "en": "TA Mtema",
+      "slug": "ta-mtema-mw20611"
+    },
+    "code": {
+      "id": "MW20611",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW206",
+      "level": 2,
+      "name": {
+        "local": "Lilongwe",
+        "en": "Lilongwe",
+        "slug": "lilongwe-mw206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW206",
+        "level": 2,
+        "name": {
+          "local": "Lilongwe",
+          "en": "Lilongwe",
+          "slug": "lilongwe-mw206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.81",
+      "lon": "33.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20615",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Njewa",
+      "en": "TA Njewa",
+      "slug": "ta-njewa-mw20615"
+    },
+    "code": {
+      "id": "MW20615",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW206",
+      "level": 2,
+      "name": {
+        "local": "Lilongwe",
+        "en": "Lilongwe",
+        "slug": "lilongwe-mw206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW206",
+        "level": 2,
+        "name": {
+          "local": "Lilongwe",
+          "en": "Lilongwe",
+          "slug": "lilongwe-mw206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.947",
+      "lon": "33.649"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20613",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Tsabango",
+      "en": "TA Tsabango",
+      "slug": "ta-tsabango-mw20613"
+    },
+    "code": {
+      "id": "MW20613",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW206",
+      "level": 2,
+      "name": {
+        "local": "Lilongwe",
+        "en": "Lilongwe",
+        "slug": "lilongwe-mw206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW206",
+        "level": 2,
+        "name": {
+          "local": "Lilongwe",
+          "en": "Lilongwe",
+          "slug": "lilongwe-mw206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.995",
+      "lon": "33.875"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

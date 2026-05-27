@@ -1,0 +1,1596 @@
+[
+  {
+    "id": "MW1",
+    "level": 1,
+    "level_name": {
+      "local": "Region",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Northern",
+      "en": "Northern",
+      "slug": "northern-mw1"
+    },
+    "code": {
+      "id": "MW1",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 7,
+      "ta": 76
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.054",
+      "lon": "33.774"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW101",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Chitipa",
+      "en": "Chitipa",
+      "slug": "chitipa-mw101"
+    },
+    "code": {
+      "id": "MW101",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW1",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-mw1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      }
+    ],
+    "children_count": {
+      "ta": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.974",
+      "lon": "33.412"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW102",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Karonga",
+      "en": "Karonga",
+      "slug": "karonga-mw102"
+    },
+    "code": {
+      "id": "MW102",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW1",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-mw1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      }
+    ],
+    "children_count": {
+      "ta": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.085",
+      "lon": "33.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW103",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Nkhatabay",
+      "en": "Nkhatabay",
+      "slug": "nkhatabay-mw103"
+    },
+    "code": {
+      "id": "MW103",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW1",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-mw1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      }
+    ],
+    "children_count": {
+      "ta": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.62",
+      "lon": "34.04"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW104",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Rumphi",
+      "en": "Rumphi",
+      "slug": "rumphi-mw104"
+    },
+    "code": {
+      "id": "MW104",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW1",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-mw1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      }
+    ],
+    "children_count": {
+      "ta": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.805",
+      "lon": "33.838"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW105",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mzimba",
+      "en": "Mzimba",
+      "slug": "mzimba-mw105"
+    },
+    "code": {
+      "id": "MW105",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW1",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-mw1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      }
+    ],
+    "children_count": {
+      "ta": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.851",
+      "lon": "33.58"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW106",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Likoma",
+      "en": "Likoma",
+      "slug": "likoma-mw106"
+    },
+    "code": {
+      "id": "MW106",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW1",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-mw1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      }
+    ],
+    "children_count": {
+      "ta": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.066",
+      "lon": "34.732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW107",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mzuzu City",
+      "en": "Mzuzu City",
+      "slug": "mzuzu-city-mw107"
+    },
+    "code": {
+      "id": "MW107",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW1",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-mw1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      }
+    ],
+    "children_count": {
+      "ta": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.434",
+      "lon": "34.005"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW2",
+    "level": 1,
+    "level_name": {
+      "local": "Region",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Central",
+      "en": "Central",
+      "slug": "central-mw2"
+    },
+    "code": {
+      "id": "MW2",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 10,
+      "ta": 178
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.744",
+      "lon": "33.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW201",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kasungu",
+      "en": "Kasungu",
+      "slug": "kasungu-mw201"
+    },
+    "code": {
+      "id": "MW201",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW2",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-mw2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      }
+    ],
+    "children_count": {
+      "ta": 28
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.998",
+      "lon": "33.471"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW202",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Nkhotakota",
+      "en": "Nkhotakota",
+      "slug": "nkhotakota-mw202"
+    },
+    "code": {
+      "id": "MW202",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW2",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-mw2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      }
+    ],
+    "children_count": {
+      "ta": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.832",
+      "lon": "34.052"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW203",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ntchisi",
+      "en": "Ntchisi",
+      "slug": "ntchisi-mw203"
+    },
+    "code": {
+      "id": "MW203",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW2",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-mw2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      }
+    ],
+    "children_count": {
+      "ta": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.277",
+      "lon": "33.899"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW204",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Dowa",
+      "en": "Dowa",
+      "slug": "dowa-mw204"
+    },
+    "code": {
+      "id": "MW204",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW2",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-mw2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      }
+    ],
+    "children_count": {
+      "ta": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.523",
+      "lon": "33.741"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW205",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Salima",
+      "en": "Salima",
+      "slug": "salima-mw205"
+    },
+    "code": {
+      "id": "MW205",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW2",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-mw2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      }
+    ],
+    "children_count": {
+      "ta": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.767",
+      "lon": "34.454"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW206",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lilongwe",
+      "en": "Lilongwe",
+      "slug": "lilongwe-mw206"
+    },
+    "code": {
+      "id": "MW206",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW2",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-mw2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      }
+    ],
+    "children_count": {
+      "ta": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.045",
+      "lon": "33.499"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW207",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mchinji",
+      "en": "Mchinji",
+      "slug": "mchinji-mw207"
+    },
+    "code": {
+      "id": "MW207",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW2",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-mw2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      }
+    ],
+    "children_count": {
+      "ta": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.782",
+      "lon": "33.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW208",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Dedza",
+      "en": "Dedza",
+      "slug": "dedza-mw208"
+    },
+    "code": {
+      "id": "MW208",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW2",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-mw2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      }
+    ],
+    "children_count": {
+      "ta": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.239",
+      "lon": "34.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW209",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ntcheu",
+      "en": "Ntcheu",
+      "slug": "ntcheu-mw209"
+    },
+    "code": {
+      "id": "MW209",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW2",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-mw2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      }
+    ],
+    "children_count": {
+      "ta": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.822",
+      "lon": "34.768"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW210",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lilongwe City",
+      "en": "Lilongwe City",
+      "slug": "lilongwe-city-mw210"
+    },
+    "code": {
+      "id": "MW210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW2",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-mw2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      }
+    ],
+    "children_count": {
+      "ta": 58
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.909",
+      "lon": "33.785"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW3",
+    "level": 1,
+    "level_name": {
+      "local": "Region",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Southern",
+      "en": "Southern",
+      "slug": "southern-mw3"
+    },
+    "code": {
+      "id": "MW3",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 15,
+      "ta": 179
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.306",
+      "lon": "35.179"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW301",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mangochi",
+      "en": "Mangochi",
+      "slug": "mangochi-mw301"
+    },
+    "code": {
+      "id": "MW301",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW3",
+      "level": 1,
+      "name": {
+        "local": "Southern",
+        "en": "Southern",
+        "slug": "southern-mw3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      }
+    ],
+    "children_count": {
+      "ta": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.397",
+      "lon": "34.987"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW302",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Machinga",
+      "en": "Machinga",
+      "slug": "machinga-mw302"
+    },
+    "code": {
+      "id": "MW302",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW3",
+      "level": 1,
+      "name": {
+        "local": "Southern",
+        "en": "Southern",
+        "slug": "southern-mw3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      }
+    ],
+    "children_count": {
+      "ta": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.908",
+      "lon": "35.518"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW303",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Zomba",
+      "en": "Zomba",
+      "slug": "zomba-mw303"
+    },
+    "code": {
+      "id": "MW303",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW3",
+      "level": 1,
+      "name": {
+        "local": "Southern",
+        "en": "Southern",
+        "slug": "southern-mw3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      }
+    ],
+    "children_count": {
+      "ta": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.441",
+      "lon": "35.34"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW304",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Chiradzulu",
+      "en": "Chiradzulu",
+      "slug": "chiradzulu-mw304"
+    },
+    "code": {
+      "id": "MW304",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW3",
+      "level": 1,
+      "name": {
+        "local": "Southern",
+        "en": "Southern",
+        "slug": "southern-mw3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      }
+    ],
+    "children_count": {
+      "ta": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.765",
+      "lon": "35.208"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW305",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Blantyre",
+      "en": "Blantyre",
+      "slug": "blantyre-mw305"
+    },
+    "code": {
+      "id": "MW305",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW3",
+      "level": 1,
+      "name": {
+        "local": "Southern",
+        "en": "Southern",
+        "slug": "southern-mw3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      }
+    ],
+    "children_count": {
+      "ta": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.686",
+      "lon": "34.929"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW306",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mwanza",
+      "en": "Mwanza",
+      "slug": "mwanza-mw306"
+    },
+    "code": {
+      "id": "MW306",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW3",
+      "level": 1,
+      "name": {
+        "local": "Southern",
+        "en": "Southern",
+        "slug": "southern-mw3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      }
+    ],
+    "children_count": {
+      "ta": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.615",
+      "lon": "34.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW307",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Thyolo",
+      "en": "Thyolo",
+      "slug": "thyolo-mw307"
+    },
+    "code": {
+      "id": "MW307",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW3",
+      "level": 1,
+      "name": {
+        "local": "Southern",
+        "en": "Southern",
+        "slug": "southern-mw3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      }
+    ],
+    "children_count": {
+      "ta": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.132",
+      "lon": "35.145"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW308",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mulanje",
+      "en": "Mulanje",
+      "slug": "mulanje-mw308"
+    },
+    "code": {
+      "id": "MW308",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW3",
+      "level": 1,
+      "name": {
+        "local": "Southern",
+        "en": "Southern",
+        "slug": "southern-mw3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      }
+    ],
+    "children_count": {
+      "ta": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.908",
+      "lon": "35.544"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW309",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Phalombe",
+      "en": "Phalombe",
+      "slug": "phalombe-mw309"
+    },
+    "code": {
+      "id": "MW309",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW3",
+      "level": 1,
+      "name": {
+        "local": "Southern",
+        "en": "Southern",
+        "slug": "southern-mw3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      }
+    ],
+    "children_count": {
+      "ta": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.7",
+      "lon": "35.672"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW310",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Chikwawa",
+      "en": "Chikwawa",
+      "slug": "chikwawa-mw310"
+    },
+    "code": {
+      "id": "MW310",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW3",
+      "level": 1,
+      "name": {
+        "local": "Southern",
+        "en": "Southern",
+        "slug": "southern-mw3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      }
+    ],
+    "children_count": {
+      "ta": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.217",
+      "lon": "34.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW311",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Nsanje",
+      "en": "Nsanje",
+      "slug": "nsanje-mw311"
+    },
+    "code": {
+      "id": "MW311",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW3",
+      "level": 1,
+      "name": {
+        "local": "Southern",
+        "en": "Southern",
+        "slug": "southern-mw3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      }
+    ],
+    "children_count": {
+      "ta": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.786",
+      "lon": "35.139"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW312",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Balaka",
+      "en": "Balaka",
+      "slug": "balaka-mw312"
+    },
+    "code": {
+      "id": "MW312",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW3",
+      "level": 1,
+      "name": {
+        "local": "Southern",
+        "en": "Southern",
+        "slug": "southern-mw3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      }
+    ],
+    "children_count": {
+      "ta": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.034",
+      "lon": "35.061"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW313",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Neno",
+      "en": "Neno",
+      "slug": "neno-mw313"
+    },
+    "code": {
+      "id": "MW313",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW3",
+      "level": 1,
+      "name": {
+        "local": "Southern",
+        "en": "Southern",
+        "slug": "southern-mw3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      }
+    ],
+    "children_count": {
+      "ta": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.497",
+      "lon": "34.682"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW314",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Zomba City",
+      "en": "Zomba City",
+      "slug": "zomba-city-mw314"
+    },
+    "code": {
+      "id": "MW314",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW3",
+      "level": 1,
+      "name": {
+        "local": "Southern",
+        "en": "Southern",
+        "slug": "southern-mw3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      }
+    ],
+    "children_count": {
+      "ta": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.395",
+      "lon": "35.321"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW315",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Blantyre City",
+      "en": "Blantyre City",
+      "slug": "blantyre-city-mw315"
+    },
+    "code": {
+      "id": "MW315",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW3",
+      "level": 1,
+      "name": {
+        "local": "Southern",
+        "en": "Southern",
+        "slug": "southern-mw3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      }
+    ],
+    "children_count": {
+      "ta": 23
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.796",
+      "lon": "35.051"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

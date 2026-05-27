@@ -1,0 +1,1028 @@
+[
+  {
+    "id": "MW30217",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Liwonde National Park",
+      "en": "Liwonde National Park",
+      "slug": "liwonde-national-park-mw30217"
+    },
+    "code": {
+      "id": "MW30217",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW302",
+      "level": 2,
+      "name": {
+        "local": "Machinga",
+        "en": "Machinga",
+        "slug": "machinga-mw302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW302",
+        "level": 2,
+        "name": {
+          "local": "Machinga",
+          "en": "Machinga",
+          "slug": "machinga-mw302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.878",
+      "lon": "35.346"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30221",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Liwonde Town",
+      "en": "Liwonde Town",
+      "slug": "liwonde-town-mw30221"
+    },
+    "code": {
+      "id": "MW30221",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW302",
+      "level": 2,
+      "name": {
+        "local": "Machinga",
+        "en": "Machinga",
+        "slug": "machinga-mw302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW302",
+        "level": 2,
+        "name": {
+          "local": "Machinga",
+          "en": "Machinga",
+          "slug": "machinga-mw302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.059",
+      "lon": "35.243"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30220",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Machinga Boma",
+      "en": "Machinga Boma",
+      "slug": "machinga-boma-mw30220"
+    },
+    "code": {
+      "id": "MW30220",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW302",
+      "level": 2,
+      "name": {
+        "local": "Machinga",
+        "en": "Machinga",
+        "slug": "machinga-mw302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW302",
+        "level": 2,
+        "name": {
+          "local": "Machinga",
+          "en": "Machinga",
+          "slug": "machinga-mw302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.176",
+      "lon": "35.298"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30216",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "STA Chesale",
+      "en": "STA Chesale",
+      "slug": "sta-chesale-mw30216"
+    },
+    "code": {
+      "id": "MW30216",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW302",
+      "level": 2,
+      "name": {
+        "local": "Machinga",
+        "en": "Machinga",
+        "slug": "machinga-mw302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW302",
+        "level": 2,
+        "name": {
+          "local": "Machinga",
+          "en": "Machinga",
+          "slug": "machinga-mw302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.634",
+      "lon": "35.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30205",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "STA Nchinguza",
+      "en": "STA Nchinguza",
+      "slug": "sta-nchinguza-mw30205"
+    },
+    "code": {
+      "id": "MW30205",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW302",
+      "level": 2,
+      "name": {
+        "local": "Machinga",
+        "en": "Machinga",
+        "slug": "machinga-mw302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW302",
+        "level": 2,
+        "name": {
+          "local": "Machinga",
+          "en": "Machinga",
+          "slug": "machinga-mw302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.954",
+      "lon": "35.762"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30202",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "STA Nsanama",
+      "en": "STA Nsanama",
+      "slug": "sta-nsanama-mw30202"
+    },
+    "code": {
+      "id": "MW30202",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW302",
+      "level": 2,
+      "name": {
+        "local": "Machinga",
+        "en": "Machinga",
+        "slug": "machinga-mw302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW302",
+        "level": 2,
+        "name": {
+          "local": "Machinga",
+          "en": "Machinga",
+          "slug": "machinga-mw302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.036",
+      "lon": "35.413"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30208",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Chamba",
+      "en": "TA Chamba",
+      "slug": "ta-chamba-mw30208"
+    },
+    "code": {
+      "id": "MW30208",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW302",
+      "level": 2,
+      "name": {
+        "local": "Machinga",
+        "en": "Machinga",
+        "slug": "machinga-mw302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW302",
+        "level": 2,
+        "name": {
+          "local": "Machinga",
+          "en": "Machinga",
+          "slug": "machinga-mw302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.164",
+      "lon": "35.414"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30211",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Chikweo",
+      "en": "TA Chikweo",
+      "slug": "ta-chikweo-mw30211"
+    },
+    "code": {
+      "id": "MW30211",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW302",
+      "level": 2,
+      "name": {
+        "local": "Machinga",
+        "en": "Machinga",
+        "slug": "machinga-mw302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW302",
+        "level": 2,
+        "name": {
+          "local": "Machinga",
+          "en": "Machinga",
+          "slug": "machinga-mw302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.818",
+      "lon": "35.735"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30213",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Chiwalo",
+      "en": "TA Chiwalo",
+      "slug": "ta-chiwalo-mw30213"
+    },
+    "code": {
+      "id": "MW30213",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW302",
+      "level": 2,
+      "name": {
+        "local": "Machinga",
+        "en": "Machinga",
+        "slug": "machinga-mw302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW302",
+        "level": 2,
+        "name": {
+          "local": "Machinga",
+          "en": "Machinga",
+          "slug": "machinga-mw302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.762",
+      "lon": "35.529"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30214",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Kapoloma",
+      "en": "TA Kapoloma",
+      "slug": "ta-kapoloma-mw30214"
+    },
+    "code": {
+      "id": "MW30214",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW302",
+      "level": 2,
+      "name": {
+        "local": "Machinga",
+        "en": "Machinga",
+        "slug": "machinga-mw302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW302",
+        "level": 2,
+        "name": {
+          "local": "Machinga",
+          "en": "Machinga",
+          "slug": "machinga-mw302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.743",
+      "lon": "35.575"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30206",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Kawinga",
+      "en": "TA Kawinga",
+      "slug": "ta-kawinga-mw30206"
+    },
+    "code": {
+      "id": "MW30206",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW302",
+      "level": 2,
+      "name": {
+        "local": "Machinga",
+        "en": "Machinga",
+        "slug": "machinga-mw302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW302",
+        "level": 2,
+        "name": {
+          "local": "Machinga",
+          "en": "Machinga",
+          "slug": "machinga-mw302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.896",
+      "lon": "35.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30201",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Liwonde",
+      "en": "TA Liwonde",
+      "slug": "ta-liwonde-mw30201"
+    },
+    "code": {
+      "id": "MW30201",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW302",
+      "level": 2,
+      "name": {
+        "local": "Machinga",
+        "en": "Machinga",
+        "slug": "machinga-mw302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW302",
+        "level": 2,
+        "name": {
+          "local": "Machinga",
+          "en": "Machinga",
+          "slug": "machinga-mw302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.851",
+      "lon": "35.471"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30210",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Mlomba",
+      "en": "TA Mlomba",
+      "slug": "ta-mlomba-mw30210"
+    },
+    "code": {
+      "id": "MW30210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW302",
+      "level": 2,
+      "name": {
+        "local": "Machinga",
+        "en": "Machinga",
+        "slug": "machinga-mw302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW302",
+        "level": 2,
+        "name": {
+          "local": "Machinga",
+          "en": "Machinga",
+          "slug": "machinga-mw302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.039",
+      "lon": "35.491"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30209",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Mposa",
+      "en": "TA Mposa",
+      "slug": "ta-mposa-mw30209"
+    },
+    "code": {
+      "id": "MW30209",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW302",
+      "level": 2,
+      "name": {
+        "local": "Machinga",
+        "en": "Machinga",
+        "slug": "machinga-mw302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW302",
+        "level": 2,
+        "name": {
+          "local": "Machinga",
+          "en": "Machinga",
+          "slug": "machinga-mw302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.165",
+      "lon": "35.496"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30212",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Ngokwe",
+      "en": "TA Ngokwe",
+      "slug": "ta-ngokwe-mw30212"
+    },
+    "code": {
+      "id": "MW30212",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW302",
+      "level": 2,
+      "name": {
+        "local": "Machinga",
+        "en": "Machinga",
+        "slug": "machinga-mw302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW302",
+        "level": 2,
+        "name": {
+          "local": "Machinga",
+          "en": "Machinga",
+          "slug": "machinga-mw302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.705",
+      "lon": "35.797"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30207",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Nkoola",
+      "en": "TA Nkoola",
+      "slug": "ta-nkoola-mw30207"
+    },
+    "code": {
+      "id": "MW30207",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW302",
+      "level": 2,
+      "name": {
+        "local": "Machinga",
+        "en": "Machinga",
+        "slug": "machinga-mw302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW302",
+        "level": 2,
+        "name": {
+          "local": "Machinga",
+          "en": "Machinga",
+          "slug": "machinga-mw302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.826",
+      "lon": "35.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30204",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Nkula",
+      "en": "TA Nkula",
+      "slug": "ta-nkula-mw30204"
+    },
+    "code": {
+      "id": "MW30204",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW302",
+      "level": 2,
+      "name": {
+        "local": "Machinga",
+        "en": "Machinga",
+        "slug": "machinga-mw302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW302",
+        "level": 2,
+        "name": {
+          "local": "Machinga",
+          "en": "Machinga",
+          "slug": "machinga-mw302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.204",
+      "lon": "35.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30215",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Nyambi",
+      "en": "TA Nyambi",
+      "slug": "ta-nyambi-mw30215"
+    },
+    "code": {
+      "id": "MW30215",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW302",
+      "level": 2,
+      "name": {
+        "local": "Machinga",
+        "en": "Machinga",
+        "slug": "machinga-mw302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW302",
+        "level": 2,
+        "name": {
+          "local": "Machinga",
+          "en": "Machinga",
+          "slug": "machinga-mw302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.663",
+      "lon": "35.639"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30203",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Sitola",
+      "en": "TA Sitola",
+      "slug": "ta-sitola-mw30203"
+    },
+    "code": {
+      "id": "MW30203",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW302",
+      "level": 2,
+      "name": {
+        "local": "Machinga",
+        "en": "Machinga",
+        "slug": "machinga-mw302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW302",
+        "level": 2,
+        "name": {
+          "local": "Machinga",
+          "en": "Machinga",
+          "slug": "machinga-mw302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.141",
+      "lon": "35.277"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

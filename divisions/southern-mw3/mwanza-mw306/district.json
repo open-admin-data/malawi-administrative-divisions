@@ -1,0 +1,47 @@
+{
+  "id": "MW306",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mwanza",
+    "en": "Mwanza",
+    "slug": "mwanza-mw306"
+  },
+  "code": {
+    "id": "MW306",
+    "iso": null
+  },
+  "parent": {
+    "id": "MW3",
+    "level": 1,
+    "name": {
+      "local": "Southern",
+      "en": "Southern",
+      "slug": "southern-mw3"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MW3",
+      "level": 1,
+      "name": {
+        "local": "Southern",
+        "en": "Southern",
+        "slug": "southern-mw3"
+      }
+    }
+  ],
+  "children_count": {
+    "ta": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-15.615",
+    "lon": "34.51"
+  },
+  "metadata": {},
+  "source": {}
+}

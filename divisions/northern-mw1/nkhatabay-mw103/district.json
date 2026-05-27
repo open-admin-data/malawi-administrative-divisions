@@ -1,0 +1,47 @@
+{
+  "id": "MW103",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Nkhatabay",
+    "en": "Nkhatabay",
+    "slug": "nkhatabay-mw103"
+  },
+  "code": {
+    "id": "MW103",
+    "iso": null
+  },
+  "parent": {
+    "id": "MW1",
+    "level": 1,
+    "name": {
+      "local": "Northern",
+      "en": "Northern",
+      "slug": "northern-mw1"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MW1",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-mw1"
+      }
+    }
+  ],
+  "children_count": {
+    "ta": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-11.62",
+    "lon": "34.04"
+  },
+  "metadata": {},
+  "source": {}
+}

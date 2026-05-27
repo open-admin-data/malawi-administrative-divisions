@@ -1,0 +1,47 @@
+{
+  "id": "MW305",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Blantyre",
+    "en": "Blantyre",
+    "slug": "blantyre-mw305"
+  },
+  "code": {
+    "id": "MW305",
+    "iso": null
+  },
+  "parent": {
+    "id": "MW3",
+    "level": 1,
+    "name": {
+      "local": "Southern",
+      "en": "Southern",
+      "slug": "southern-mw3"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MW3",
+      "level": 1,
+      "name": {
+        "local": "Southern",
+        "en": "Southern",
+        "slug": "southern-mw3"
+      }
+    }
+  ],
+  "children_count": {
+    "ta": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-15.686",
+    "lon": "34.929"
+  },
+  "metadata": {},
+  "source": {}
+}

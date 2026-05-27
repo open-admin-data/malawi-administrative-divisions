@@ -1,0 +1,650 @@
+[
+  {
+    "id": "MW31220",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Balaka Town",
+      "en": "Balaka Town",
+      "slug": "balaka-town-mw31220"
+    },
+    "code": {
+      "id": "MW31220",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW312",
+      "level": 2,
+      "name": {
+        "local": "Balaka",
+        "en": "Balaka",
+        "slug": "balaka-mw312"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW312",
+        "level": 2,
+        "name": {
+          "local": "Balaka",
+          "en": "Balaka",
+          "slug": "balaka-mw312"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.988",
+      "lon": "34.958"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW31221",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Liwonde Town",
+      "en": "Liwonde Town",
+      "slug": "liwonde-town-mw31221"
+    },
+    "code": {
+      "id": "MW31221",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW312",
+      "level": 2,
+      "name": {
+        "local": "Balaka",
+        "en": "Balaka",
+        "slug": "balaka-mw312"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW312",
+        "level": 2,
+        "name": {
+          "local": "Balaka",
+          "en": "Balaka",
+          "slug": "balaka-mw312"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.059",
+      "lon": "35.209"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW31203",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "STA Kachenga",
+      "en": "STA Kachenga",
+      "slug": "sta-kachenga-mw31203"
+    },
+    "code": {
+      "id": "MW31203",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW312",
+      "level": 2,
+      "name": {
+        "local": "Balaka",
+        "en": "Balaka",
+        "slug": "balaka-mw312"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW312",
+        "level": 2,
+        "name": {
+          "local": "Balaka",
+          "en": "Balaka",
+          "slug": "balaka-mw312"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.863",
+      "lon": "35.044"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW31209",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "STA Matola",
+      "en": "STA Matola",
+      "slug": "sta-matola-mw31209"
+    },
+    "code": {
+      "id": "MW31209",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW312",
+      "level": 2,
+      "name": {
+        "local": "Balaka",
+        "en": "Balaka",
+        "slug": "balaka-mw312"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW312",
+        "level": 2,
+        "name": {
+          "local": "Balaka",
+          "en": "Balaka",
+          "slug": "balaka-mw312"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.916",
+      "lon": "34.945"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW31206",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "STA Phalula",
+      "en": "STA Phalula",
+      "slug": "sta-phalula-mw31206"
+    },
+    "code": {
+      "id": "MW31206",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW312",
+      "level": 2,
+      "name": {
+        "local": "Balaka",
+        "en": "Balaka",
+        "slug": "balaka-mw312"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW312",
+        "level": 2,
+        "name": {
+          "local": "Balaka",
+          "en": "Balaka",
+          "slug": "balaka-mw312"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.231",
+      "lon": "34.877"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW31210",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "STA Toleza",
+      "en": "STA Toleza",
+      "slug": "sta-toleza-mw31210"
+    },
+    "code": {
+      "id": "MW31210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW312",
+      "level": 2,
+      "name": {
+        "local": "Balaka",
+        "en": "Balaka",
+        "slug": "balaka-mw312"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW312",
+        "level": 2,
+        "name": {
+          "local": "Balaka",
+          "en": "Balaka",
+          "slug": "balaka-mw312"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.895",
+      "lon": "34.996"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW31204",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Amidu",
+      "en": "TA Amidu",
+      "slug": "ta-amidu-mw31204"
+    },
+    "code": {
+      "id": "MW31204",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW312",
+      "level": 2,
+      "name": {
+        "local": "Balaka",
+        "en": "Balaka",
+        "slug": "balaka-mw312"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW312",
+        "level": 2,
+        "name": {
+          "local": "Balaka",
+          "en": "Balaka",
+          "slug": "balaka-mw312"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.969",
+      "lon": "35.189"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW31207",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Chanthunya",
+      "en": "TA Chanthunya",
+      "slug": "ta-chanthunya-mw31207"
+    },
+    "code": {
+      "id": "MW31207",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW312",
+      "level": 2,
+      "name": {
+        "local": "Balaka",
+        "en": "Balaka",
+        "slug": "balaka-mw312"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW312",
+        "level": 2,
+        "name": {
+          "local": "Balaka",
+          "en": "Balaka",
+          "slug": "balaka-mw312"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.131",
+      "lon": "34.927"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW31202",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Kalembo",
+      "en": "TA Kalembo",
+      "slug": "ta-kalembo-mw31202"
+    },
+    "code": {
+      "id": "MW31202",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW312",
+      "level": 2,
+      "name": {
+        "local": "Balaka",
+        "en": "Balaka",
+        "slug": "balaka-mw312"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW312",
+        "level": 2,
+        "name": {
+          "local": "Balaka",
+          "en": "Balaka",
+          "slug": "balaka-mw312"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.839",
+      "lon": "35.186"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW31201",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Msamala",
+      "en": "TA Msamala",
+      "slug": "ta-msamala-mw31201"
+    },
+    "code": {
+      "id": "MW31201",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW312",
+      "level": 2,
+      "name": {
+        "local": "Balaka",
+        "en": "Balaka",
+        "slug": "balaka-mw312"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW312",
+        "level": 2,
+        "name": {
+          "local": "Balaka",
+          "en": "Balaka",
+          "slug": "balaka-mw312"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.057",
+      "lon": "35.073"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW31205",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Nkaya",
+      "en": "TA Nkaya",
+      "slug": "ta-nkaya-mw31205"
+    },
+    "code": {
+      "id": "MW31205",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW312",
+      "level": 2,
+      "name": {
+        "local": "Balaka",
+        "en": "Balaka",
+        "slug": "balaka-mw312"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW312",
+        "level": 2,
+        "name": {
+          "local": "Balaka",
+          "en": "Balaka",
+          "slug": "balaka-mw312"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.2",
+      "lon": "35.066"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW31208",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Sawali",
+      "en": "TA Sawali",
+      "slug": "ta-sawali-mw31208"
+    },
+    "code": {
+      "id": "MW31208",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW312",
+      "level": 2,
+      "name": {
+        "local": "Balaka",
+        "en": "Balaka",
+        "slug": "balaka-mw312"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW312",
+        "level": 2,
+        "name": {
+          "local": "Balaka",
+          "en": "Balaka",
+          "slug": "balaka-mw312"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.969",
+      "lon": "35.058"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "id": "MW30420",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Chiradzulu Boma",
+      "en": "Chiradzulu Boma",
+      "slug": "chiradzulu-boma-mw30420"
+    },
+    "code": {
+      "id": "MW30420",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW304",
+      "level": 2,
+      "name": {
+        "local": "Chiradzulu",
+        "en": "Chiradzulu",
+        "slug": "chiradzulu-mw304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW304",
+        "level": 2,
+        "name": {
+          "local": "Chiradzulu",
+          "en": "Chiradzulu",
+          "slug": "chiradzulu-mw304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.696",
+      "lon": "35.188"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30407",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "STA Mpunga",
+      "en": "STA Mpunga",
+      "slug": "sta-mpunga-mw30407"
+    },
+    "code": {
+      "id": "MW30407",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW304",
+      "level": 2,
+      "name": {
+        "local": "Chiradzulu",
+        "en": "Chiradzulu",
+        "slug": "chiradzulu-mw304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW304",
+        "level": 2,
+        "name": {
+          "local": "Chiradzulu",
+          "en": "Chiradzulu",
+          "slug": "chiradzulu-mw304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.818",
+      "lon": "35.264"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30409",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "STA Onga",
+      "en": "STA Onga",
+      "slug": "sta-onga-mw30409"
+    },
+    "code": {
+      "id": "MW30409",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW304",
+      "level": 2,
+      "name": {
+        "local": "Chiradzulu",
+        "en": "Chiradzulu",
+        "slug": "chiradzulu-mw304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW304",
+        "level": 2,
+        "name": {
+          "local": "Chiradzulu",
+          "en": "Chiradzulu",
+          "slug": "chiradzulu-mw304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.738",
+      "lon": "35.191"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30408",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "STA Sandareki",
+      "en": "STA Sandareki",
+      "slug": "sta-sandareki-mw30408"
+    },
+    "code": {
+      "id": "MW30408",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW304",
+      "level": 2,
+      "name": {
+        "local": "Chiradzulu",
+        "en": "Chiradzulu",
+        "slug": "chiradzulu-mw304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW304",
+        "level": 2,
+        "name": {
+          "local": "Chiradzulu",
+          "en": "Chiradzulu",
+          "slug": "chiradzulu-mw304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.676",
+      "lon": "35.278"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30405",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Chitera",
+      "en": "TA Chitera",
+      "slug": "ta-chitera-mw30405"
+    },
+    "code": {
+      "id": "MW30405",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW304",
+      "level": 2,
+      "name": {
+        "local": "Chiradzulu",
+        "en": "Chiradzulu",
+        "slug": "chiradzulu-mw304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW304",
+        "level": 2,
+        "name": {
+          "local": "Chiradzulu",
+          "en": "Chiradzulu",
+          "slug": "chiradzulu-mw304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.61",
+      "lon": "35.115"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30403",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Kadewere",
+      "en": "TA Kadewere",
+      "slug": "ta-kadewere-mw30403"
+    },
+    "code": {
+      "id": "MW30403",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW304",
+      "level": 2,
+      "name": {
+        "local": "Chiradzulu",
+        "en": "Chiradzulu",
+        "slug": "chiradzulu-mw304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW304",
+        "level": 2,
+        "name": {
+          "local": "Chiradzulu",
+          "en": "Chiradzulu",
+          "slug": "chiradzulu-mw304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.705",
+      "lon": "35.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30402",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Likoswe",
+      "en": "TA Likoswe",
+      "slug": "ta-likoswe-mw30402"
+    },
+    "code": {
+      "id": "MW30402",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW304",
+      "level": 2,
+      "name": {
+        "local": "Chiradzulu",
+        "en": "Chiradzulu",
+        "slug": "chiradzulu-mw304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW304",
+        "level": 2,
+        "name": {
+          "local": "Chiradzulu",
+          "en": "Chiradzulu",
+          "slug": "chiradzulu-mw304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.805",
+      "lon": "35.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30401",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Mpama",
+      "en": "TA Mpama",
+      "slug": "ta-mpama-mw30401"
+    },
+    "code": {
+      "id": "MW30401",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW304",
+      "level": 2,
+      "name": {
+        "local": "Chiradzulu",
+        "en": "Chiradzulu",
+        "slug": "chiradzulu-mw304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW304",
+        "level": 2,
+        "name": {
+          "local": "Chiradzulu",
+          "en": "Chiradzulu",
+          "slug": "chiradzulu-mw304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.65",
+      "lon": "35.158"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30406",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Nchema",
+      "en": "TA Nchema",
+      "slug": "ta-nchema-mw30406"
+    },
+    "code": {
+      "id": "MW30406",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW304",
+      "level": 2,
+      "name": {
+        "local": "Chiradzulu",
+        "en": "Chiradzulu",
+        "slug": "chiradzulu-mw304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW304",
+        "level": 2,
+        "name": {
+          "local": "Chiradzulu",
+          "en": "Chiradzulu",
+          "slug": "chiradzulu-mw304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.606",
+      "lon": "35.212"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30404",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Nkalo",
+      "en": "TA Nkalo",
+      "slug": "ta-nkalo-mw30404"
+    },
+    "code": {
+      "id": "MW30404",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW304",
+      "level": 2,
+      "name": {
+        "local": "Chiradzulu",
+        "en": "Chiradzulu",
+        "slug": "chiradzulu-mw304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW304",
+        "level": 2,
+        "name": {
+          "local": "Chiradzulu",
+          "en": "Chiradzulu",
+          "slug": "chiradzulu-mw304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.917",
+      "lon": "35.289"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,5688 @@
+[
+  {
+    "id": "MW1",
+    "name": {
+      "local": "Northern",
+      "en": "Northern",
+      "slug": "northern-mw1"
+    },
+    "code": {
+      "id": "MW1",
+      "iso": null
+    },
+    "district": [
+      {
+        "id": "MW101",
+        "name": {
+          "local": "Chitipa",
+          "en": "Chitipa",
+          "slug": "chitipa-mw101"
+        },
+        "code": {
+          "id": "MW101",
+          "iso": null
+        },
+        "ta": [
+          {
+            "id": "MW10101",
+            "name": {
+              "local": "TA Mwabulambya",
+              "en": "TA Mwabulambya",
+              "slug": "ta-mwabulambya-mw10101"
+            },
+            "code": {
+              "id": "MW10101",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW10102",
+            "name": {
+              "local": "STA Bulambya Songwe",
+              "en": "STA Bulambya Songwe",
+              "slug": "sta-bulambya-songwe-mw10102"
+            },
+            "code": {
+              "id": "MW10102",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW10103",
+            "name": {
+              "local": "TA Mwenemisuku",
+              "en": "TA Mwenemisuku",
+              "slug": "ta-mwenemisuku-mw10103"
+            },
+            "code": {
+              "id": "MW10103",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW10104",
+            "name": {
+              "local": "STA Lwangwa",
+              "en": "STA Lwangwa",
+              "slug": "sta-lwangwa-mw10104"
+            },
+            "code": {
+              "id": "MW10104",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW10105",
+            "name": {
+              "local": "TA Mwenewenya",
+              "en": "TA Mwenewenya",
+              "slug": "ta-mwenewenya-mw10105"
+            },
+            "code": {
+              "id": "MW10105",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW10106",
+            "name": {
+              "local": "TA Nthalire",
+              "en": "TA Nthalire",
+              "slug": "ta-nthalire-mw10106"
+            },
+            "code": {
+              "id": "MW10106",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW10107",
+            "name": {
+              "local": "STA Nthengatenga",
+              "en": "STA Nthengatenga",
+              "slug": "sta-nthengatenga-mw10107"
+            },
+            "code": {
+              "id": "MW10107",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW10108",
+            "name": {
+              "local": "STA Wavikaza",
+              "en": "STA Wavikaza",
+              "slug": "sta-wavikaza-mw10108"
+            },
+            "code": {
+              "id": "MW10108",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW10109",
+            "name": {
+              "local": "TA Kameme",
+              "en": "TA Kameme",
+              "slug": "ta-kameme-mw10109"
+            },
+            "code": {
+              "id": "MW10109",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW10110",
+            "name": {
+              "local": "Nyika Ntational Park-Chitipa",
+              "en": "Nyika Ntational Park-Chitipa",
+              "slug": "nyika-ntational-park-chitipa-mw10110"
+            },
+            "code": {
+              "id": "MW10110",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW10120",
+            "name": {
+              "local": "Chitipa Boma",
+              "en": "Chitipa Boma",
+              "slug": "chitipa-boma-mw10120"
+            },
+            "code": {
+              "id": "MW10120",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "MW102",
+        "name": {
+          "local": "Karonga",
+          "en": "Karonga",
+          "slug": "karonga-mw102"
+        },
+        "code": {
+          "id": "MW102",
+          "iso": null
+        },
+        "ta": [
+          {
+            "id": "MW10201",
+            "name": {
+              "local": "TA Kilupula",
+              "en": "TA Kilupula",
+              "slug": "ta-kilupula-mw10201"
+            },
+            "code": {
+              "id": "MW10201",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW10202",
+            "name": {
+              "local": "TA Mwakaboko",
+              "en": "TA Mwakaboko",
+              "slug": "ta-mwakaboko-mw10202"
+            },
+            "code": {
+              "id": "MW10202",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW10203",
+            "name": {
+              "local": "TA Kyungu",
+              "en": "TA Kyungu",
+              "slug": "ta-kyungu-mw10203"
+            },
+            "code": {
+              "id": "MW10203",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW10204",
+            "name": {
+              "local": "TA Wasambo",
+              "en": "TA Wasambo",
+              "slug": "ta-wasambo-mw10204"
+            },
+            "code": {
+              "id": "MW10204",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW10205",
+            "name": {
+              "local": "TA Mwirang'ombe",
+              "en": "TA Mwirang'ombe",
+              "slug": "ta-mwirangombe-mw10205"
+            },
+            "code": {
+              "id": "MW10205",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW10206",
+            "name": {
+              "local": "Nyika National Park-Karonga",
+              "en": "Nyika National Park-Karonga",
+              "slug": "nyika-national-park-karonga-mw10206"
+            },
+            "code": {
+              "id": "MW10206",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW10220",
+            "name": {
+              "local": "Karonga Town",
+              "en": "Karonga Town",
+              "slug": "karonga-town-mw10220"
+            },
+            "code": {
+              "id": "MW10220",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "MW103",
+        "name": {
+          "local": "Nkhatabay",
+          "en": "Nkhatabay",
+          "slug": "nkhatabay-mw103"
+        },
+        "code": {
+          "id": "MW103",
+          "iso": null
+        },
+        "ta": [
+          {
+            "id": "MW10301",
+            "name": {
+              "local": "TA Kabunduli",
+              "en": "TA Kabunduli",
+              "slug": "ta-kabunduli-mw10301"
+            },
+            "code": {
+              "id": "MW10301",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW10302",
+            "name": {
+              "local": "TA Fukamapiri",
+              "en": "TA Fukamapiri",
+              "slug": "ta-fukamapiri-mw10302"
+            },
+            "code": {
+              "id": "MW10302",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW10303",
+            "name": {
+              "local": "TA Malenga Mzoma",
+              "en": "TA Malenga Mzoma",
+              "slug": "ta-malenga-mzoma-mw10303"
+            },
+            "code": {
+              "id": "MW10303",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW10304",
+            "name": {
+              "local": "TA Malanda",
+              "en": "TA Malanda",
+              "slug": "ta-malanda-mw10304"
+            },
+            "code": {
+              "id": "MW10304",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW10305",
+            "name": {
+              "local": "TA Zilakoma",
+              "en": "TA Zilakoma",
+              "slug": "ta-zilakoma-mw10305"
+            },
+            "code": {
+              "id": "MW10305",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW10306",
+            "name": {
+              "local": "TA Mankhambira",
+              "en": "TA Mankhambira",
+              "slug": "ta-mankhambira-mw10306"
+            },
+            "code": {
+              "id": "MW10306",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW10307",
+            "name": {
+              "local": "TA Fukamalaza",
+              "en": "TA Fukamalaza",
+              "slug": "ta-fukamalaza-mw10307"
+            },
+            "code": {
+              "id": "MW10307",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW10308",
+            "name": {
+              "local": "TA Mkumbira",
+              "en": "TA Mkumbira",
+              "slug": "ta-mkumbira-mw10308"
+            },
+            "code": {
+              "id": "MW10308",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW10309",
+            "name": {
+              "local": "TA M'bwana",
+              "en": "TA M'bwana",
+              "slug": "ta-mbwana-mw10309"
+            },
+            "code": {
+              "id": "MW10309",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW10310",
+            "name": {
+              "local": "STA Nyaluwanga",
+              "en": "STA Nyaluwanga",
+              "slug": "sta-nyaluwanga-mw10310"
+            },
+            "code": {
+              "id": "MW10310",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW10311",
+            "name": {
+              "local": "STA Kondowe",
+              "en": "STA Kondowe",
+              "slug": "sta-kondowe-mw10311"
+            },
+            "code": {
+              "id": "MW10311",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW10312",
+            "name": {
+              "local": "TA Timbiri",
+              "en": "TA Timbiri",
+              "slug": "ta-timbiri-mw10312"
+            },
+            "code": {
+              "id": "MW10312",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW10314",
+            "name": {
+              "local": "TA Boghoyo",
+              "en": "TA Boghoyo",
+              "slug": "ta-boghoyo-mw10314"
+            },
+            "code": {
+              "id": "MW10314",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW10320",
+            "name": {
+              "local": "Nkhatabay Boma",
+              "en": "Nkhatabay Boma",
+              "slug": "nkhatabay-boma-mw10320"
+            },
+            "code": {
+              "id": "MW10320",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "MW104",
+        "name": {
+          "local": "Rumphi",
+          "en": "Rumphi",
+          "slug": "rumphi-mw104"
+        },
+        "code": {
+          "id": "MW104",
+          "iso": null
+        },
+        "ta": [
+          {
+            "id": "MW10401",
+            "name": {
+              "local": "TA Chikulamayembe",
+              "en": "TA Chikulamayembe",
+              "slug": "ta-chikulamayembe-mw10401"
+            },
+            "code": {
+              "id": "MW10401",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW10402",
+            "name": {
+              "local": "TA Mwamlowe",
+              "en": "TA Mwamlowe",
+              "slug": "ta-mwamlowe-mw10402"
+            },
+            "code": {
+              "id": "MW10402",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW10403",
+            "name": {
+              "local": "TA Mwahenga",
+              "en": "TA Mwahenga",
+              "slug": "ta-mwahenga-mw10403"
+            },
+            "code": {
+              "id": "MW10403",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW10404",
+            "name": {
+              "local": "TA Mwalweni",
+              "en": "TA Mwalweni",
+              "slug": "ta-mwalweni-mw10404"
+            },
+            "code": {
+              "id": "MW10404",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW10405",
+            "name": {
+              "local": "STA Kachulu",
+              "en": "STA Kachulu",
+              "slug": "sta-kachulu-mw10405"
+            },
+            "code": {
+              "id": "MW10405",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW10406",
+            "name": {
+              "local": "STA Chapinduka",
+              "en": "STA Chapinduka",
+              "slug": "sta-chapinduka-mw10406"
+            },
+            "code": {
+              "id": "MW10406",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW10407",
+            "name": {
+              "local": "TA Mwankhunikira",
+              "en": "TA Mwankhunikira",
+              "slug": "ta-mwankhunikira-mw10407"
+            },
+            "code": {
+              "id": "MW10407",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW10408",
+            "name": {
+              "local": "TA Katumbi",
+              "en": "TA Katumbi",
+              "slug": "ta-katumbi-mw10408"
+            },
+            "code": {
+              "id": "MW10408",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW10409",
+            "name": {
+              "local": "STA Zolokere",
+              "en": "STA Zolokere",
+              "slug": "sta-zolokere-mw10409"
+            },
+            "code": {
+              "id": "MW10409",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW10410",
+            "name": {
+              "local": "STA Chisovya",
+              "en": "STA Chisovya",
+              "slug": "sta-chisovya-mw10410"
+            },
+            "code": {
+              "id": "MW10410",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW10411",
+            "name": {
+              "local": "STA Njikula",
+              "en": "STA Njikula",
+              "slug": "sta-njikula-mw10411"
+            },
+            "code": {
+              "id": "MW10411",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW10412",
+            "name": {
+              "local": "Nyika National Park",
+              "en": "Nyika National Park",
+              "slug": "nyika-national-park-mw10412"
+            },
+            "code": {
+              "id": "MW10412",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW10413",
+            "name": {
+              "local": "Vwaza Marsh Reserve",
+              "en": "Vwaza Marsh Reserve",
+              "slug": "vwaza-marsh-reserve-mw10413"
+            },
+            "code": {
+              "id": "MW10413",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW10420",
+            "name": {
+              "local": "Rumphi Boma",
+              "en": "Rumphi Boma",
+              "slug": "rumphi-boma-mw10420"
+            },
+            "code": {
+              "id": "MW10420",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "MW105",
+        "name": {
+          "local": "Mzimba",
+          "en": "Mzimba",
+          "slug": "mzimba-mw105"
+        },
+        "code": {
+          "id": "MW105",
+          "iso": null
+        },
+        "ta": [
+          {
+            "id": "MW10501",
+            "name": {
+              "local": "TA M'Mbelwa",
+              "en": "TA M'Mbelwa",
+              "slug": "ta-mmbelwa-mw10501"
+            },
+            "code": {
+              "id": "MW10501",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW10502",
+            "name": {
+              "local": "TA Mtwalo",
+              "en": "TA Mtwalo",
+              "slug": "ta-mtwalo-mw10502"
+            },
+            "code": {
+              "id": "MW10502",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW10503",
+            "name": {
+              "local": "TA Kampingo Sibande",
+              "en": "TA Kampingo Sibande",
+              "slug": "ta-kampingo-sibande-mw10503"
+            },
+            "code": {
+              "id": "MW10503",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW10504",
+            "name": {
+              "local": "TA Jaravikuba Munthali",
+              "en": "TA Jaravikuba Munthali",
+              "slug": "ta-jaravikuba-munthali-mw10504"
+            },
+            "code": {
+              "id": "MW10504",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW10505",
+            "name": {
+              "local": "TA Chindi",
+              "en": "TA Chindi",
+              "slug": "ta-chindi-mw10505"
+            },
+            "code": {
+              "id": "MW10505",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW10506",
+            "name": {
+              "local": "TA Mzikubola",
+              "en": "TA Mzikubola",
+              "slug": "ta-mzikubola-mw10506"
+            },
+            "code": {
+              "id": "MW10506",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW10507",
+            "name": {
+              "local": "TA Mabulabo",
+              "en": "TA Mabulabo",
+              "slug": "ta-mabulabo-mw10507"
+            },
+            "code": {
+              "id": "MW10507",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW10508",
+            "name": {
+              "local": "TA Khosolo Gwaza Jere",
+              "en": "TA Khosolo Gwaza Jere",
+              "slug": "ta-khosolo-gwaza-jere-mw10508"
+            },
+            "code": {
+              "id": "MW10508",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW10509",
+            "name": {
+              "local": "TA Mpherembe",
+              "en": "TA Mpherembe",
+              "slug": "ta-mpherembe-mw10509"
+            },
+            "code": {
+              "id": "MW10509",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW10510",
+            "name": {
+              "local": "TA Mzukuzuku",
+              "en": "TA Mzukuzuku",
+              "slug": "ta-mzukuzuku-mw10510"
+            },
+            "code": {
+              "id": "MW10510",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW10511",
+            "name": {
+              "local": "STA Levi Jere",
+              "en": "STA Levi Jere",
+              "slug": "sta-levi-jere-mw10511"
+            },
+            "code": {
+              "id": "MW10511",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW10512",
+            "name": {
+              "local": "Vwaza Marsh Reserve",
+              "en": "Vwaza Marsh Reserve",
+              "slug": "vwaza-marsh-reserve-mw10512"
+            },
+            "code": {
+              "id": "MW10512",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW10520",
+            "name": {
+              "local": "Mzimba Boma",
+              "en": "Mzimba Boma",
+              "slug": "mzimba-boma-mw10520"
+            },
+            "code": {
+              "id": "MW10520",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "MW106",
+        "name": {
+          "local": "Likoma",
+          "en": "Likoma",
+          "slug": "likoma-mw106"
+        },
+        "code": {
+          "id": "MW106",
+          "iso": null
+        },
+        "ta": [
+          {
+            "id": "MW10601",
+            "name": {
+              "local": "TA Mkumpha",
+              "en": "TA Mkumpha",
+              "slug": "ta-mkumpha-mw10601"
+            },
+            "code": {
+              "id": "MW10601",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW10620",
+            "name": {
+              "local": "Likoma Boma",
+              "en": "Likoma Boma",
+              "slug": "likoma-boma-mw10620"
+            },
+            "code": {
+              "id": "MW10620",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "MW107",
+        "name": {
+          "local": "Mzuzu City",
+          "en": "Mzuzu City",
+          "slug": "mzuzu-city-mw107"
+        },
+        "code": {
+          "id": "MW107",
+          "iso": null
+        },
+        "ta": [
+          {
+            "id": "MW10701",
+            "name": {
+              "local": "Chibavi East Ward",
+              "en": "Chibavi East Ward",
+              "slug": "chibavi-east-ward-mw10701"
+            },
+            "code": {
+              "id": "MW10701",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW10702",
+            "name": {
+              "local": "Chibavi West Ward",
+              "en": "Chibavi West Ward",
+              "slug": "chibavi-west-ward-mw10702"
+            },
+            "code": {
+              "id": "MW10702",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW10703",
+            "name": {
+              "local": "Chibanja Ward",
+              "en": "Chibanja Ward",
+              "slug": "chibanja-ward-mw10703"
+            },
+            "code": {
+              "id": "MW10703",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW10704",
+            "name": {
+              "local": "Chiputula Ward",
+              "en": "Chiputula Ward",
+              "slug": "chiputula-ward-mw10704"
+            },
+            "code": {
+              "id": "MW10704",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW10705",
+            "name": {
+              "local": "Jombo - Kaning'ina Ward",
+              "en": "Jombo - Kaning'ina Ward",
+              "slug": "jombo-kaningina-ward-mw10705"
+            },
+            "code": {
+              "id": "MW10705",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW10706",
+            "name": {
+              "local": "Katawa Ward",
+              "en": "Katawa Ward",
+              "slug": "katawa-ward-mw10706"
+            },
+            "code": {
+              "id": "MW10706",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW10707",
+            "name": {
+              "local": "Luwinga Ward",
+              "en": "Luwinga Ward",
+              "slug": "luwinga-ward-mw10707"
+            },
+            "code": {
+              "id": "MW10707",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW10708",
+            "name": {
+              "local": "Masasa Ward",
+              "en": "Masasa Ward",
+              "slug": "masasa-ward-mw10708"
+            },
+            "code": {
+              "id": "MW10708",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW10709",
+            "name": {
+              "local": "Mchengautuwa East Ward",
+              "en": "Mchengautuwa East Ward",
+              "slug": "mchengautuwa-east-ward-mw10709"
+            },
+            "code": {
+              "id": "MW10709",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW10710",
+            "name": {
+              "local": "Mchengautuwa West Ward",
+              "en": "Mchengautuwa West Ward",
+              "slug": "mchengautuwa-west-ward-mw10710"
+            },
+            "code": {
+              "id": "MW10710",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW10711",
+            "name": {
+              "local": "Msongwe Ward",
+              "en": "Msongwe Ward",
+              "slug": "msongwe-ward-mw10711"
+            },
+            "code": {
+              "id": "MW10711",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW10712",
+            "name": {
+              "local": "Mzilawaingwe Ward",
+              "en": "Mzilawaingwe Ward",
+              "slug": "mzilawaingwe-ward-mw10712"
+            },
+            "code": {
+              "id": "MW10712",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW10713",
+            "name": {
+              "local": "Nkhorongo - Lupaso Ward",
+              "en": "Nkhorongo - Lupaso Ward",
+              "slug": "nkhorongo-lupaso-ward-mw10713"
+            },
+            "code": {
+              "id": "MW10713",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW10714",
+            "name": {
+              "local": "Zolozolo East Ward",
+              "en": "Zolozolo East Ward",
+              "slug": "zolozolo-east-ward-mw10714"
+            },
+            "code": {
+              "id": "MW10714",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW10715",
+            "name": {
+              "local": "Zolozolo West Ward",
+              "en": "Zolozolo West Ward",
+              "slug": "zolozolo-west-ward-mw10715"
+            },
+            "code": {
+              "id": "MW10715",
+              "iso": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "MW2",
+    "name": {
+      "local": "Central",
+      "en": "Central",
+      "slug": "central-mw2"
+    },
+    "code": {
+      "id": "MW2",
+      "iso": null
+    },
+    "district": [
+      {
+        "id": "MW201",
+        "name": {
+          "local": "Kasungu",
+          "en": "Kasungu",
+          "slug": "kasungu-mw201"
+        },
+        "code": {
+          "id": "MW201",
+          "iso": null
+        },
+        "ta": [
+          {
+            "id": "MW20101",
+            "name": {
+              "local": "TA Kaluluma",
+              "en": "TA Kaluluma",
+              "slug": "ta-kaluluma-mw20101"
+            },
+            "code": {
+              "id": "MW20101",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20102",
+            "name": {
+              "local": "TA Chisemphere",
+              "en": "TA Chisemphere",
+              "slug": "ta-chisemphere-mw20102"
+            },
+            "code": {
+              "id": "MW20102",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20103",
+            "name": {
+              "local": "TA Simlemba",
+              "en": "TA Simlemba",
+              "slug": "ta-simlemba-mw20103"
+            },
+            "code": {
+              "id": "MW20103",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20104",
+            "name": {
+              "local": "STA M'nyanja",
+              "en": "STA M'nyanja",
+              "slug": "sta-mnyanja-mw20104"
+            },
+            "code": {
+              "id": "MW20104",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20105",
+            "name": {
+              "local": "STA Chisikwa",
+              "en": "STA Chisikwa",
+              "slug": "sta-chisikwa-mw20105"
+            },
+            "code": {
+              "id": "MW20105",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20106",
+            "name": {
+              "local": "TA Kaomba",
+              "en": "TA Kaomba",
+              "slug": "ta-kaomba-mw20106"
+            },
+            "code": {
+              "id": "MW20106",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20107",
+            "name": {
+              "local": "TA Kawamba",
+              "en": "TA Kawamba",
+              "slug": "ta-kawamba-mw20107"
+            },
+            "code": {
+              "id": "MW20107",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20108",
+            "name": {
+              "local": "STA Nthunduwala",
+              "en": "STA Nthunduwala",
+              "slug": "sta-nthunduwala-mw20108"
+            },
+            "code": {
+              "id": "MW20108",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20109",
+            "name": {
+              "local": "TA Njombwa",
+              "en": "TA Njombwa",
+              "slug": "ta-njombwa-mw20109"
+            },
+            "code": {
+              "id": "MW20109",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20110",
+            "name": {
+              "local": "TA Chilowamatambe",
+              "en": "TA Chilowamatambe",
+              "slug": "ta-chilowamatambe-mw20110"
+            },
+            "code": {
+              "id": "MW20110",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20111",
+            "name": {
+              "local": "STA Chambwe",
+              "en": "STA Chambwe",
+              "slug": "sta-chambwe-mw20111"
+            },
+            "code": {
+              "id": "MW20111",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20112",
+            "name": {
+              "local": "TA Chulu",
+              "en": "TA Chulu",
+              "slug": "ta-chulu-mw20112"
+            },
+            "code": {
+              "id": "MW20112",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20113",
+            "name": {
+              "local": "STA Chisinga",
+              "en": "STA Chisinga",
+              "slug": "sta-chisinga-mw20113"
+            },
+            "code": {
+              "id": "MW20113",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20114",
+            "name": {
+              "local": "STA Mphomwa",
+              "en": "STA Mphomwa",
+              "slug": "sta-mphomwa-mw20114"
+            },
+            "code": {
+              "id": "MW20114",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20115",
+            "name": {
+              "local": "STA Chaima",
+              "en": "STA Chaima",
+              "slug": "sta-chaima-mw20115"
+            },
+            "code": {
+              "id": "MW20115",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20116",
+            "name": {
+              "local": "TA Kaphaizi",
+              "en": "TA Kaphaizi",
+              "slug": "ta-kaphaizi-mw20116"
+            },
+            "code": {
+              "id": "MW20116",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20117",
+            "name": {
+              "local": "STA Mangwazu",
+              "en": "STA Mangwazu",
+              "slug": "sta-mangwazu-mw20117"
+            },
+            "code": {
+              "id": "MW20117",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20118",
+            "name": {
+              "local": "STA Mawawa",
+              "en": "STA Mawawa",
+              "slug": "sta-mawawa-mw20118"
+            },
+            "code": {
+              "id": "MW20118",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20119",
+            "name": {
+              "local": "TA Lukwa",
+              "en": "TA Lukwa",
+              "slug": "ta-lukwa-mw20119"
+            },
+            "code": {
+              "id": "MW20119",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20120",
+            "name": {
+              "local": "Kasungu Boma",
+              "en": "Kasungu Boma",
+              "slug": "kasungu-boma-mw20120"
+            },
+            "code": {
+              "id": "MW20120",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20121",
+            "name": {
+              "local": "TA Santhe",
+              "en": "TA Santhe",
+              "slug": "ta-santhe-mw20121"
+            },
+            "code": {
+              "id": "MW20121",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20122",
+            "name": {
+              "local": "TA Chidzuma",
+              "en": "TA Chidzuma",
+              "slug": "ta-chidzuma-mw20122"
+            },
+            "code": {
+              "id": "MW20122",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20123",
+            "name": {
+              "local": "TA Wimbe",
+              "en": "TA Wimbe",
+              "slug": "ta-wimbe-mw20123"
+            },
+            "code": {
+              "id": "MW20123",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20124",
+            "name": {
+              "local": "TA Kapelula",
+              "en": "TA Kapelula",
+              "slug": "ta-kapelula-mw20124"
+            },
+            "code": {
+              "id": "MW20124",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20125",
+            "name": {
+              "local": "STA Kapichira",
+              "en": "STA Kapichira",
+              "slug": "sta-kapichira-mw20125"
+            },
+            "code": {
+              "id": "MW20125",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20126",
+            "name": {
+              "local": "STA Mdunga",
+              "en": "STA Mdunga",
+              "slug": "sta-mdunga-mw20126"
+            },
+            "code": {
+              "id": "MW20126",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20127",
+            "name": {
+              "local": "TA Mwase",
+              "en": "TA Mwase",
+              "slug": "ta-mwase-mw20127"
+            },
+            "code": {
+              "id": "MW20127",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20128",
+            "name": {
+              "local": "Kasungu National Park",
+              "en": "Kasungu National Park",
+              "slug": "kasungu-national-park-mw20128"
+            },
+            "code": {
+              "id": "MW20128",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "MW202",
+        "name": {
+          "local": "Nkhotakota",
+          "en": "Nkhotakota",
+          "slug": "nkhotakota-mw202"
+        },
+        "code": {
+          "id": "MW202",
+          "iso": null
+        },
+        "ta": [
+          {
+            "id": "MW20201",
+            "name": {
+              "local": "TA Kanyenda",
+              "en": "TA Kanyenda",
+              "slug": "ta-kanyenda-mw20201"
+            },
+            "code": {
+              "id": "MW20201",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20202",
+            "name": {
+              "local": "TA Kafuzila",
+              "en": "TA Kafuzila",
+              "slug": "ta-kafuzila-mw20202"
+            },
+            "code": {
+              "id": "MW20202",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20203",
+            "name": {
+              "local": "STA Kalimanjira",
+              "en": "STA Kalimanjira",
+              "slug": "sta-kalimanjira-mw20203"
+            },
+            "code": {
+              "id": "MW20203",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20204",
+            "name": {
+              "local": "TA Malenga Chanzi",
+              "en": "TA Malenga Chanzi",
+              "slug": "ta-malenga-chanzi-mw20204"
+            },
+            "code": {
+              "id": "MW20204",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20205",
+            "name": {
+              "local": "TA Mphonde",
+              "en": "TA Mphonde",
+              "slug": "ta-mphonde-mw20205"
+            },
+            "code": {
+              "id": "MW20205",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20206",
+            "name": {
+              "local": "TA Mwadzama",
+              "en": "TA Mwadzama",
+              "slug": "ta-mwadzama-mw20206"
+            },
+            "code": {
+              "id": "MW20206",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20207",
+            "name": {
+              "local": "TA Mwansambo",
+              "en": "TA Mwansambo",
+              "slug": "ta-mwansambo-mw20207"
+            },
+            "code": {
+              "id": "MW20207",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20208",
+            "name": {
+              "local": "Nkhotakota Game Reserve",
+              "en": "Nkhotakota Game Reserve",
+              "slug": "nkhotakota-game-reserve-mw20208"
+            },
+            "code": {
+              "id": "MW20208",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20220",
+            "name": {
+              "local": "Nkhotakota Boma",
+              "en": "Nkhotakota Boma",
+              "slug": "nkhotakota-boma-mw20220"
+            },
+            "code": {
+              "id": "MW20220",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "MW203",
+        "name": {
+          "local": "Ntchisi",
+          "en": "Ntchisi",
+          "slug": "ntchisi-mw203"
+        },
+        "code": {
+          "id": "MW203",
+          "iso": null
+        },
+        "ta": [
+          {
+            "id": "MW20301",
+            "name": {
+              "local": "TA Kasakula",
+              "en": "TA Kasakula",
+              "slug": "ta-kasakula-mw20301"
+            },
+            "code": {
+              "id": "MW20301",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20302",
+            "name": {
+              "local": "TA Chikho",
+              "en": "TA Chikho",
+              "slug": "ta-chikho-mw20302"
+            },
+            "code": {
+              "id": "MW20302",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20303",
+            "name": {
+              "local": "TA Kalumo",
+              "en": "TA Kalumo",
+              "slug": "ta-kalumo-mw20303"
+            },
+            "code": {
+              "id": "MW20303",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20304",
+            "name": {
+              "local": "TA Nthondo",
+              "en": "TA Nthondo",
+              "slug": "ta-nthondo-mw20304"
+            },
+            "code": {
+              "id": "MW20304",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20305",
+            "name": {
+              "local": "TA Chilooko",
+              "en": "TA Chilooko",
+              "slug": "ta-chilooko-mw20305"
+            },
+            "code": {
+              "id": "MW20305",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20306",
+            "name": {
+              "local": "TA Vuso Jere",
+              "en": "TA Vuso Jere",
+              "slug": "ta-vuso-jere-mw20306"
+            },
+            "code": {
+              "id": "MW20306",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20307",
+            "name": {
+              "local": "TA Malenga",
+              "en": "TA Malenga",
+              "slug": "ta-malenga-mw20307"
+            },
+            "code": {
+              "id": "MW20307",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20320",
+            "name": {
+              "local": "Ntchisi Boma",
+              "en": "Ntchisi Boma",
+              "slug": "ntchisi-boma-mw20320"
+            },
+            "code": {
+              "id": "MW20320",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "MW204",
+        "name": {
+          "local": "Dowa",
+          "en": "Dowa",
+          "slug": "dowa-mw204"
+        },
+        "code": {
+          "id": "MW204",
+          "iso": null
+        },
+        "ta": [
+          {
+            "id": "MW20401",
+            "name": {
+              "local": "TA Dzoole",
+              "en": "TA Dzoole",
+              "slug": "ta-dzoole-mw20401"
+            },
+            "code": {
+              "id": "MW20401",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20402",
+            "name": {
+              "local": "TA Chakhaza",
+              "en": "TA Chakhaza",
+              "slug": "ta-chakhaza-mw20402"
+            },
+            "code": {
+              "id": "MW20402",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20403",
+            "name": {
+              "local": "TA Kayembe",
+              "en": "TA Kayembe",
+              "slug": "ta-kayembe-mw20403"
+            },
+            "code": {
+              "id": "MW20403",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20404",
+            "name": {
+              "local": "TA Chiwere",
+              "en": "TA Chiwere",
+              "slug": "ta-chiwere-mw20404"
+            },
+            "code": {
+              "id": "MW20404",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20405",
+            "name": {
+              "local": "TA Mkukula",
+              "en": "TA Mkukula",
+              "slug": "ta-mkukula-mw20405"
+            },
+            "code": {
+              "id": "MW20405",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20406",
+            "name": {
+              "local": "TA Msakambewa",
+              "en": "TA Msakambewa",
+              "slug": "ta-msakambewa-mw20406"
+            },
+            "code": {
+              "id": "MW20406",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20407",
+            "name": {
+              "local": "TA Mponela",
+              "en": "TA Mponela",
+              "slug": "ta-mponela-mw20407"
+            },
+            "code": {
+              "id": "MW20407",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20420",
+            "name": {
+              "local": "Dowa Boma",
+              "en": "Dowa Boma",
+              "slug": "dowa-boma-mw20420"
+            },
+            "code": {
+              "id": "MW20420",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20421",
+            "name": {
+              "local": "Mponela Urban",
+              "en": "Mponela Urban",
+              "slug": "mponela-urban-mw20421"
+            },
+            "code": {
+              "id": "MW20421",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "MW205",
+        "name": {
+          "local": "Salima",
+          "en": "Salima",
+          "slug": "salima-mw205"
+        },
+        "code": {
+          "id": "MW205",
+          "iso": null
+        },
+        "ta": [
+          {
+            "id": "MW20501",
+            "name": {
+              "local": "TA Maganga",
+              "en": "TA Maganga",
+              "slug": "ta-maganga-mw20501"
+            },
+            "code": {
+              "id": "MW20501",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20502",
+            "name": {
+              "local": "TA Karonga",
+              "en": "TA Karonga",
+              "slug": "ta-karonga-mw20502"
+            },
+            "code": {
+              "id": "MW20502",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20503",
+            "name": {
+              "local": "TA Pemba",
+              "en": "TA Pemba",
+              "slug": "ta-pemba-mw20503"
+            },
+            "code": {
+              "id": "MW20503",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20504",
+            "name": {
+              "local": "TA Kambwiri",
+              "en": "TA Kambwiri",
+              "slug": "ta-kambwiri-mw20504"
+            },
+            "code": {
+              "id": "MW20504",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20505",
+            "name": {
+              "local": "TA Ndindi",
+              "en": "TA Ndindi",
+              "slug": "ta-ndindi-mw20505"
+            },
+            "code": {
+              "id": "MW20505",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20506",
+            "name": {
+              "local": "TA Kambalame",
+              "en": "TA Kambalame",
+              "slug": "ta-kambalame-mw20506"
+            },
+            "code": {
+              "id": "MW20506",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20507",
+            "name": {
+              "local": "TA Khombedza",
+              "en": "TA Khombedza",
+              "slug": "ta-khombedza-mw20507"
+            },
+            "code": {
+              "id": "MW20507",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20508",
+            "name": {
+              "local": "TA Mwanza",
+              "en": "TA Mwanza",
+              "slug": "ta-mwanza-mw20508"
+            },
+            "code": {
+              "id": "MW20508",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20509",
+            "name": {
+              "local": "TA Kuluunda",
+              "en": "TA Kuluunda",
+              "slug": "ta-kuluunda-mw20509"
+            },
+            "code": {
+              "id": "MW20509",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20510",
+            "name": {
+              "local": "TA Msosa",
+              "en": "TA Msosa",
+              "slug": "ta-msosa-mw20510"
+            },
+            "code": {
+              "id": "MW20510",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20511",
+            "name": {
+              "local": "Lake Malawi National Park",
+              "en": "Lake Malawi National Park",
+              "slug": "lake-malawi-national-park-mw20511"
+            },
+            "code": {
+              "id": "MW20511",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20520",
+            "name": {
+              "local": "Salima Town",
+              "en": "Salima Town",
+              "slug": "salima-town-mw20520"
+            },
+            "code": {
+              "id": "MW20520",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20521",
+            "name": {
+              "local": "Chipoka Urban",
+              "en": "Chipoka Urban",
+              "slug": "chipoka-urban-mw20521"
+            },
+            "code": {
+              "id": "MW20521",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "MW206",
+        "name": {
+          "local": "Lilongwe",
+          "en": "Lilongwe",
+          "slug": "lilongwe-mw206"
+        },
+        "code": {
+          "id": "MW206",
+          "iso": null
+        },
+        "ta": [
+          {
+            "id": "MW20601",
+            "name": {
+              "local": "TA Chadza",
+              "en": "TA Chadza",
+              "slug": "ta-chadza-mw20601"
+            },
+            "code": {
+              "id": "MW20601",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20602",
+            "name": {
+              "local": "TA Kalolo",
+              "en": "TA Kalolo",
+              "slug": "ta-kalolo-mw20602"
+            },
+            "code": {
+              "id": "MW20602",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20603",
+            "name": {
+              "local": "TA Masula",
+              "en": "TA Masula",
+              "slug": "ta-masula-mw20603"
+            },
+            "code": {
+              "id": "MW20603",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20604",
+            "name": {
+              "local": "TA Masumbankhunda",
+              "en": "TA Masumbankhunda",
+              "slug": "ta-masumbankhunda-mw20604"
+            },
+            "code": {
+              "id": "MW20604",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20605",
+            "name": {
+              "local": "TA Chiseka",
+              "en": "TA Chiseka",
+              "slug": "ta-chiseka-mw20605"
+            },
+            "code": {
+              "id": "MW20605",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20606",
+            "name": {
+              "local": "TA Mazengera",
+              "en": "TA Mazengera",
+              "slug": "ta-mazengera-mw20606"
+            },
+            "code": {
+              "id": "MW20606",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20607",
+            "name": {
+              "local": "STA Chitekwele",
+              "en": "STA Chitekwele",
+              "slug": "sta-chitekwele-mw20607"
+            },
+            "code": {
+              "id": "MW20607",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20608",
+            "name": {
+              "local": "TA Khongoni",
+              "en": "TA Khongoni",
+              "slug": "ta-khongoni-mw20608"
+            },
+            "code": {
+              "id": "MW20608",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20609",
+            "name": {
+              "local": "TA Chimutu",
+              "en": "TA Chimutu",
+              "slug": "ta-chimutu-mw20609"
+            },
+            "code": {
+              "id": "MW20609",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20610",
+            "name": {
+              "local": "TA Chitukula",
+              "en": "TA Chitukula",
+              "slug": "ta-chitukula-mw20610"
+            },
+            "code": {
+              "id": "MW20610",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20611",
+            "name": {
+              "local": "TA Mtema",
+              "en": "TA Mtema",
+              "slug": "ta-mtema-mw20611"
+            },
+            "code": {
+              "id": "MW20611",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20612",
+            "name": {
+              "local": "TA Kalumbu",
+              "en": "TA Kalumbu",
+              "slug": "ta-kalumbu-mw20612"
+            },
+            "code": {
+              "id": "MW20612",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20613",
+            "name": {
+              "local": "TA Tsabango",
+              "en": "TA Tsabango",
+              "slug": "ta-tsabango-mw20613"
+            },
+            "code": {
+              "id": "MW20613",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20614",
+            "name": {
+              "local": "TA Kalumba",
+              "en": "TA Kalumba",
+              "slug": "ta-kalumba-mw20614"
+            },
+            "code": {
+              "id": "MW20614",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20615",
+            "name": {
+              "local": "TA Njewa",
+              "en": "TA Njewa",
+              "slug": "ta-njewa-mw20615"
+            },
+            "code": {
+              "id": "MW20615",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20616",
+            "name": {
+              "local": "TA Malili",
+              "en": "TA Malili",
+              "slug": "ta-malili-mw20616"
+            },
+            "code": {
+              "id": "MW20616",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20617",
+            "name": {
+              "local": "TA Kabudula",
+              "en": "TA Kabudula",
+              "slug": "ta-kabudula-mw20617"
+            },
+            "code": {
+              "id": "MW20617",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20618",
+            "name": {
+              "local": "STA Mbang'ombe",
+              "en": "STA Mbang'ombe",
+              "slug": "sta-mbangombe-mw20618"
+            },
+            "code": {
+              "id": "MW20618",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "MW207",
+        "name": {
+          "local": "Mchinji",
+          "en": "Mchinji",
+          "slug": "mchinji-mw207"
+        },
+        "code": {
+          "id": "MW207",
+          "iso": null
+        },
+        "ta": [
+          {
+            "id": "MW20701",
+            "name": {
+              "local": "TA Mlonyeni",
+              "en": "TA Mlonyeni",
+              "slug": "ta-mlonyeni-mw20701"
+            },
+            "code": {
+              "id": "MW20701",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20702",
+            "name": {
+              "local": "TA Mavwere",
+              "en": "TA Mavwere",
+              "slug": "ta-mavwere-mw20702"
+            },
+            "code": {
+              "id": "MW20702",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20703",
+            "name": {
+              "local": "TA Zulu",
+              "en": "TA Zulu",
+              "slug": "ta-zulu-mw20703"
+            },
+            "code": {
+              "id": "MW20703",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20704",
+            "name": {
+              "local": "TA Simphasi",
+              "en": "TA Simphasi",
+              "slug": "ta-simphasi-mw20704"
+            },
+            "code": {
+              "id": "MW20704",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20705",
+            "name": {
+              "local": "TA Mduwa",
+              "en": "TA Mduwa",
+              "slug": "ta-mduwa-mw20705"
+            },
+            "code": {
+              "id": "MW20705",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20706",
+            "name": {
+              "local": "STA Nyoka",
+              "en": "STA Nyoka",
+              "slug": "sta-nyoka-mw20706"
+            },
+            "code": {
+              "id": "MW20706",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20707",
+            "name": {
+              "local": "TA Mkanda",
+              "en": "TA Mkanda",
+              "slug": "ta-mkanda-mw20707"
+            },
+            "code": {
+              "id": "MW20707",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20708",
+            "name": {
+              "local": "STA Gumba",
+              "en": "STA Gumba",
+              "slug": "sta-gumba-mw20708"
+            },
+            "code": {
+              "id": "MW20708",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20709",
+            "name": {
+              "local": "STA Pitala",
+              "en": "STA Pitala",
+              "slug": "sta-pitala-mw20709"
+            },
+            "code": {
+              "id": "MW20709",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20710",
+            "name": {
+              "local": "STA Kapunula",
+              "en": "STA Kapunula",
+              "slug": "sta-kapunula-mw20710"
+            },
+            "code": {
+              "id": "MW20710",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20711",
+            "name": {
+              "local": "TA Kazyozyo",
+              "en": "TA Kazyozyo",
+              "slug": "ta-kazyozyo-mw20711"
+            },
+            "code": {
+              "id": "MW20711",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20712",
+            "name": {
+              "local": "TA Dambe",
+              "en": "TA Dambe",
+              "slug": "ta-dambe-mw20712"
+            },
+            "code": {
+              "id": "MW20712",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20713",
+            "name": {
+              "local": "TA Kapondo",
+              "en": "TA Kapondo",
+              "slug": "ta-kapondo-mw20713"
+            },
+            "code": {
+              "id": "MW20713",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20720",
+            "name": {
+              "local": "Mchinji Boma",
+              "en": "Mchinji Boma",
+              "slug": "mchinji-boma-mw20720"
+            },
+            "code": {
+              "id": "MW20720",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "MW208",
+        "name": {
+          "local": "Dedza",
+          "en": "Dedza",
+          "slug": "dedza-mw208"
+        },
+        "code": {
+          "id": "MW208",
+          "iso": null
+        },
+        "ta": [
+          {
+            "id": "MW20801",
+            "name": {
+              "local": "TA Kachere",
+              "en": "TA Kachere",
+              "slug": "ta-kachere-mw20801"
+            },
+            "code": {
+              "id": "MW20801",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20802",
+            "name": {
+              "local": "TA Chilikumwendo",
+              "en": "TA Chilikumwendo",
+              "slug": "ta-chilikumwendo-mw20802"
+            },
+            "code": {
+              "id": "MW20802",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20803",
+            "name": {
+              "local": "TA Kaphuka",
+              "en": "TA Kaphuka",
+              "slug": "ta-kaphuka-mw20803"
+            },
+            "code": {
+              "id": "MW20803",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20804",
+            "name": {
+              "local": "TA Tambala",
+              "en": "TA Tambala",
+              "slug": "ta-tambala-mw20804"
+            },
+            "code": {
+              "id": "MW20804",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20805",
+            "name": {
+              "local": "TA Chauma",
+              "en": "TA Chauma",
+              "slug": "ta-chauma-mw20805"
+            },
+            "code": {
+              "id": "MW20805",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20806",
+            "name": {
+              "local": "TA Kasumbu",
+              "en": "TA Kasumbu",
+              "slug": "ta-kasumbu-mw20806"
+            },
+            "code": {
+              "id": "MW20806",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20807",
+            "name": {
+              "local": "TA Kachindamoto",
+              "en": "TA Kachindamoto",
+              "slug": "ta-kachindamoto-mw20807"
+            },
+            "code": {
+              "id": "MW20807",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20808",
+            "name": {
+              "local": "TA Kamenya Gwaza",
+              "en": "TA Kamenya Gwaza",
+              "slug": "ta-kamenya-gwaza-mw20808"
+            },
+            "code": {
+              "id": "MW20808",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20820",
+            "name": {
+              "local": "Dedza Boma",
+              "en": "Dedza Boma",
+              "slug": "dedza-boma-mw20820"
+            },
+            "code": {
+              "id": "MW20820",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "MW209",
+        "name": {
+          "local": "Ntcheu",
+          "en": "Ntcheu",
+          "slug": "ntcheu-mw209"
+        },
+        "code": {
+          "id": "MW209",
+          "iso": null
+        },
+        "ta": [
+          {
+            "id": "MW20901",
+            "name": {
+              "local": "TA Phambala",
+              "en": "TA Phambala",
+              "slug": "ta-phambala-mw20901"
+            },
+            "code": {
+              "id": "MW20901",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20902",
+            "name": {
+              "local": "STA Tsikulamowa",
+              "en": "STA Tsikulamowa",
+              "slug": "sta-tsikulamowa-mw20902"
+            },
+            "code": {
+              "id": "MW20902",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20903",
+            "name": {
+              "local": "TA Mpando",
+              "en": "TA Mpando",
+              "slug": "ta-mpando-mw20903"
+            },
+            "code": {
+              "id": "MW20903",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20904",
+            "name": {
+              "local": "TA Kwataine",
+              "en": "TA Kwataine",
+              "slug": "ta-kwataine-mw20904"
+            },
+            "code": {
+              "id": "MW20904",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20905",
+            "name": {
+              "local": "TA Makwangwala",
+              "en": "TA Makwangwala",
+              "slug": "ta-makwangwala-mw20905"
+            },
+            "code": {
+              "id": "MW20905",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20906",
+            "name": {
+              "local": "STA Mkutumula",
+              "en": "STA Mkutumula",
+              "slug": "sta-mkutumula-mw20906"
+            },
+            "code": {
+              "id": "MW20906",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20907",
+            "name": {
+              "local": "TA Champiti",
+              "en": "TA Champiti",
+              "slug": "ta-champiti-mw20907"
+            },
+            "code": {
+              "id": "MW20907",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20908",
+            "name": {
+              "local": "TA Njolomole",
+              "en": "TA Njolomole",
+              "slug": "ta-njolomole-mw20908"
+            },
+            "code": {
+              "id": "MW20908",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20909",
+            "name": {
+              "local": "TA Chakhumbira",
+              "en": "TA Chakhumbira",
+              "slug": "ta-chakhumbira-mw20909"
+            },
+            "code": {
+              "id": "MW20909",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20910",
+            "name": {
+              "local": "TA Goodson Ganya",
+              "en": "TA Goodson Ganya",
+              "slug": "ta-goodson-ganya-mw20910"
+            },
+            "code": {
+              "id": "MW20910",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20911",
+            "name": {
+              "local": "TA Masasa",
+              "en": "TA Masasa",
+              "slug": "ta-masasa-mw20911"
+            },
+            "code": {
+              "id": "MW20911",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW20920",
+            "name": {
+              "local": "Ntcheu Boma",
+              "en": "Ntcheu Boma",
+              "slug": "ntcheu-boma-mw20920"
+            },
+            "code": {
+              "id": "MW20920",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "MW210",
+        "name": {
+          "local": "Lilongwe City",
+          "en": "Lilongwe City",
+          "slug": "lilongwe-city-mw210"
+        },
+        "code": {
+          "id": "MW210",
+          "iso": null
+        },
+        "ta": [
+          {
+            "id": "MW21031",
+            "name": {
+              "local": "Area 1",
+              "en": "Area 1",
+              "slug": "area-1-mw21031"
+            },
+            "code": {
+              "id": "MW21031",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW21032",
+            "name": {
+              "local": "Area 2",
+              "en": "Area 2",
+              "slug": "area-2-mw21032"
+            },
+            "code": {
+              "id": "MW21032",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW21033",
+            "name": {
+              "local": "Area 3",
+              "en": "Area 3",
+              "slug": "area-3-mw21033"
+            },
+            "code": {
+              "id": "MW21033",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW21034",
+            "name": {
+              "local": "Area 4",
+              "en": "Area 4",
+              "slug": "area-4-mw21034"
+            },
+            "code": {
+              "id": "MW21034",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW21035",
+            "name": {
+              "local": "Area 5",
+              "en": "Area 5",
+              "slug": "area-5-mw21035"
+            },
+            "code": {
+              "id": "MW21035",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW21036",
+            "name": {
+              "local": "Area 6",
+              "en": "Area 6",
+              "slug": "area-6-mw21036"
+            },
+            "code": {
+              "id": "MW21036",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW21037",
+            "name": {
+              "local": "Area 7",
+              "en": "Area 7",
+              "slug": "area-7-mw21037"
+            },
+            "code": {
+              "id": "MW21037",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW21038",
+            "name": {
+              "local": "Area 8",
+              "en": "Area 8",
+              "slug": "area-8-mw21038"
+            },
+            "code": {
+              "id": "MW21038",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW21039",
+            "name": {
+              "local": "Area 9",
+              "en": "Area 9",
+              "slug": "area-9-mw21039"
+            },
+            "code": {
+              "id": "MW21039",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW21040",
+            "name": {
+              "local": "Area 10",
+              "en": "Area 10",
+              "slug": "area-10-mw21040"
+            },
+            "code": {
+              "id": "MW21040",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW21041",
+            "name": {
+              "local": "Area 11",
+              "en": "Area 11",
+              "slug": "area-11-mw21041"
+            },
+            "code": {
+              "id": "MW21041",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW21042",
+            "name": {
+              "local": "Area 12",
+              "en": "Area 12",
+              "slug": "area-12-mw21042"
+            },
+            "code": {
+              "id": "MW21042",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW21043",
+            "name": {
+              "local": "Area 13",
+              "en": "Area 13",
+              "slug": "area-13-mw21043"
+            },
+            "code": {
+              "id": "MW21043",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW21044",
+            "name": {
+              "local": "Area 14",
+              "en": "Area 14",
+              "slug": "area-14-mw21044"
+            },
+            "code": {
+              "id": "MW21044",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW21045",
+            "name": {
+              "local": "Area 15",
+              "en": "Area 15",
+              "slug": "area-15-mw21045"
+            },
+            "code": {
+              "id": "MW21045",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW21046",
+            "name": {
+              "local": "Area 16",
+              "en": "Area 16",
+              "slug": "area-16-mw21046"
+            },
+            "code": {
+              "id": "MW21046",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW21047",
+            "name": {
+              "local": "Area 17",
+              "en": "Area 17",
+              "slug": "area-17-mw21047"
+            },
+            "code": {
+              "id": "MW21047",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW21048",
+            "name": {
+              "local": "Area 18",
+              "en": "Area 18",
+              "slug": "area-18-mw21048"
+            },
+            "code": {
+              "id": "MW21048",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW21049",
+            "name": {
+              "local": "Area 19",
+              "en": "Area 19",
+              "slug": "area-19-mw21049"
+            },
+            "code": {
+              "id": "MW21049",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW21050",
+            "name": {
+              "local": "Area 20",
+              "en": "Area 20",
+              "slug": "area-20-mw21050"
+            },
+            "code": {
+              "id": "MW21050",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW21051",
+            "name": {
+              "local": "Area 21",
+              "en": "Area 21",
+              "slug": "area-21-mw21051"
+            },
+            "code": {
+              "id": "MW21051",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW21052",
+            "name": {
+              "local": "Area 22",
+              "en": "Area 22",
+              "slug": "area-22-mw21052"
+            },
+            "code": {
+              "id": "MW21052",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW21053",
+            "name": {
+              "local": "Area 23",
+              "en": "Area 23",
+              "slug": "area-23-mw21053"
+            },
+            "code": {
+              "id": "MW21053",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW21054",
+            "name": {
+              "local": "Area 24",
+              "en": "Area 24",
+              "slug": "area-24-mw21054"
+            },
+            "code": {
+              "id": "MW21054",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW21055",
+            "name": {
+              "local": "Area 25",
+              "en": "Area 25",
+              "slug": "area-25-mw21055"
+            },
+            "code": {
+              "id": "MW21055",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW21056",
+            "name": {
+              "local": "Area 26",
+              "en": "Area 26",
+              "slug": "area-26-mw21056"
+            },
+            "code": {
+              "id": "MW21056",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW21057",
+            "name": {
+              "local": "Area 27",
+              "en": "Area 27",
+              "slug": "area-27-mw21057"
+            },
+            "code": {
+              "id": "MW21057",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW21058",
+            "name": {
+              "local": "Area 28",
+              "en": "Area 28",
+              "slug": "area-28-mw21058"
+            },
+            "code": {
+              "id": "MW21058",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW21059",
+            "name": {
+              "local": "Area 29",
+              "en": "Area 29",
+              "slug": "area-29-mw21059"
+            },
+            "code": {
+              "id": "MW21059",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW21060",
+            "name": {
+              "local": "Area 30",
+              "en": "Area 30",
+              "slug": "area-30-mw21060"
+            },
+            "code": {
+              "id": "MW21060",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW21061",
+            "name": {
+              "local": "Area 31",
+              "en": "Area 31",
+              "slug": "area-31-mw21061"
+            },
+            "code": {
+              "id": "MW21061",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW21062",
+            "name": {
+              "local": "Area 32",
+              "en": "Area 32",
+              "slug": "area-32-mw21062"
+            },
+            "code": {
+              "id": "MW21062",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW21063",
+            "name": {
+              "local": "Area 33",
+              "en": "Area 33",
+              "slug": "area-33-mw21063"
+            },
+            "code": {
+              "id": "MW21063",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW21064",
+            "name": {
+              "local": "Area 34",
+              "en": "Area 34",
+              "slug": "area-34-mw21064"
+            },
+            "code": {
+              "id": "MW21064",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW21065",
+            "name": {
+              "local": "Area 35",
+              "en": "Area 35",
+              "slug": "area-35-mw21065"
+            },
+            "code": {
+              "id": "MW21065",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW21066",
+            "name": {
+              "local": "Area 36",
+              "en": "Area 36",
+              "slug": "area-36-mw21066"
+            },
+            "code": {
+              "id": "MW21066",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW21067",
+            "name": {
+              "local": "Area 37",
+              "en": "Area 37",
+              "slug": "area-37-mw21067"
+            },
+            "code": {
+              "id": "MW21067",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW21068",
+            "name": {
+              "local": "Area 38",
+              "en": "Area 38",
+              "slug": "area-38-mw21068"
+            },
+            "code": {
+              "id": "MW21068",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW21069",
+            "name": {
+              "local": "Area 39",
+              "en": "Area 39",
+              "slug": "area-39-mw21069"
+            },
+            "code": {
+              "id": "MW21069",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW21070",
+            "name": {
+              "local": "Area 40",
+              "en": "Area 40",
+              "slug": "area-40-mw21070"
+            },
+            "code": {
+              "id": "MW21070",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW21071",
+            "name": {
+              "local": "Area 41",
+              "en": "Area 41",
+              "slug": "area-41-mw21071"
+            },
+            "code": {
+              "id": "MW21071",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW21072",
+            "name": {
+              "local": "Area 42",
+              "en": "Area 42",
+              "slug": "area-42-mw21072"
+            },
+            "code": {
+              "id": "MW21072",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW21073",
+            "name": {
+              "local": "Area 43",
+              "en": "Area 43",
+              "slug": "area-43-mw21073"
+            },
+            "code": {
+              "id": "MW21073",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW21074",
+            "name": {
+              "local": "Area 44",
+              "en": "Area 44",
+              "slug": "area-44-mw21074"
+            },
+            "code": {
+              "id": "MW21074",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW21075",
+            "name": {
+              "local": "Area 45",
+              "en": "Area 45",
+              "slug": "area-45-mw21075"
+            },
+            "code": {
+              "id": "MW21075",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW21076",
+            "name": {
+              "local": "Area 46",
+              "en": "Area 46",
+              "slug": "area-46-mw21076"
+            },
+            "code": {
+              "id": "MW21076",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW21077",
+            "name": {
+              "local": "Area 47",
+              "en": "Area 47",
+              "slug": "area-47-mw21077"
+            },
+            "code": {
+              "id": "MW21077",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW21078",
+            "name": {
+              "local": "Area 48",
+              "en": "Area 48",
+              "slug": "area-48-mw21078"
+            },
+            "code": {
+              "id": "MW21078",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW21079",
+            "name": {
+              "local": "Area 49",
+              "en": "Area 49",
+              "slug": "area-49-mw21079"
+            },
+            "code": {
+              "id": "MW21079",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW21080",
+            "name": {
+              "local": "Area 50",
+              "en": "Area 50",
+              "slug": "area-50-mw21080"
+            },
+            "code": {
+              "id": "MW21080",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW21081",
+            "name": {
+              "local": "Area 51",
+              "en": "Area 51",
+              "slug": "area-51-mw21081"
+            },
+            "code": {
+              "id": "MW21081",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW21082",
+            "name": {
+              "local": "Area 52",
+              "en": "Area 52",
+              "slug": "area-52-mw21082"
+            },
+            "code": {
+              "id": "MW21082",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW21083",
+            "name": {
+              "local": "Area 53",
+              "en": "Area 53",
+              "slug": "area-53-mw21083"
+            },
+            "code": {
+              "id": "MW21083",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW21084",
+            "name": {
+              "local": "Area 54",
+              "en": "Area 54",
+              "slug": "area-54-mw21084"
+            },
+            "code": {
+              "id": "MW21084",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW21085",
+            "name": {
+              "local": "Area 55",
+              "en": "Area 55",
+              "slug": "area-55-mw21085"
+            },
+            "code": {
+              "id": "MW21085",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW21086",
+            "name": {
+              "local": "Area 56",
+              "en": "Area 56",
+              "slug": "area-56-mw21086"
+            },
+            "code": {
+              "id": "MW21086",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW21087",
+            "name": {
+              "local": "Area 57",
+              "en": "Area 57",
+              "slug": "area-57-mw21087"
+            },
+            "code": {
+              "id": "MW21087",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW21088",
+            "name": {
+              "local": "Area 58",
+              "en": "Area 58",
+              "slug": "area-58-mw21088"
+            },
+            "code": {
+              "id": "MW21088",
+              "iso": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "MW3",
+    "name": {
+      "local": "Southern",
+      "en": "Southern",
+      "slug": "southern-mw3"
+    },
+    "code": {
+      "id": "MW3",
+      "iso": null
+    },
+    "district": [
+      {
+        "id": "MW301",
+        "name": {
+          "local": "Mangochi",
+          "en": "Mangochi",
+          "slug": "mangochi-mw301"
+        },
+        "code": {
+          "id": "MW301",
+          "iso": null
+        },
+        "ta": [
+          {
+            "id": "MW30101",
+            "name": {
+              "local": "TA Mponda",
+              "en": "TA Mponda",
+              "slug": "ta-mponda-mw30101"
+            },
+            "code": {
+              "id": "MW30101",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30102",
+            "name": {
+              "local": "TA Chimwala",
+              "en": "TA Chimwala",
+              "slug": "ta-chimwala-mw30102"
+            },
+            "code": {
+              "id": "MW30102",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30103",
+            "name": {
+              "local": "TA Chilipa",
+              "en": "TA Chilipa",
+              "slug": "ta-chilipa-mw30103"
+            },
+            "code": {
+              "id": "MW30103",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30104",
+            "name": {
+              "local": "TA Nankumba",
+              "en": "TA Nankumba",
+              "slug": "ta-nankumba-mw30104"
+            },
+            "code": {
+              "id": "MW30104",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30105",
+            "name": {
+              "local": "TA Jalasi",
+              "en": "TA Jalasi",
+              "slug": "ta-jalasi-mw30105"
+            },
+            "code": {
+              "id": "MW30105",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30106",
+            "name": {
+              "local": "TA Mbwana Nyambi",
+              "en": "TA Mbwana Nyambi",
+              "slug": "ta-mbwana-nyambi-mw30106"
+            },
+            "code": {
+              "id": "MW30106",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30107",
+            "name": {
+              "local": "TA Chowe",
+              "en": "TA Chowe",
+              "slug": "ta-chowe-mw30107"
+            },
+            "code": {
+              "id": "MW30107",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30108",
+            "name": {
+              "local": "TA Katuli",
+              "en": "TA Katuli",
+              "slug": "ta-katuli-mw30108"
+            },
+            "code": {
+              "id": "MW30108",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30109",
+            "name": {
+              "local": "TA Makanjila",
+              "en": "TA Makanjila",
+              "slug": "ta-makanjila-mw30109"
+            },
+            "code": {
+              "id": "MW30109",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30110",
+            "name": {
+              "local": "STA Lulanga",
+              "en": "STA Lulanga",
+              "slug": "sta-lulanga-mw30110"
+            },
+            "code": {
+              "id": "MW30110",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30111",
+            "name": {
+              "local": "TA Namabvi",
+              "en": "TA Namabvi",
+              "slug": "ta-namabvi-mw30111"
+            },
+            "code": {
+              "id": "MW30111",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30112",
+            "name": {
+              "local": "Lake Malawi National Park",
+              "en": "Lake Malawi National Park",
+              "slug": "lake-malawi-national-park-mw30112"
+            },
+            "code": {
+              "id": "MW30112",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30113",
+            "name": {
+              "local": "STA Ntonda",
+              "en": "STA Ntonda",
+              "slug": "sta-ntonda-mw30113"
+            },
+            "code": {
+              "id": "MW30113",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30114",
+            "name": {
+              "local": "STA Chiunda",
+              "en": "STA Chiunda",
+              "slug": "sta-chiunda-mw30114"
+            },
+            "code": {
+              "id": "MW30114",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30120",
+            "name": {
+              "local": "Mangochi Town",
+              "en": "Mangochi Town",
+              "slug": "mangochi-town-mw30120"
+            },
+            "code": {
+              "id": "MW30120",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30121",
+            "name": {
+              "local": "Monkey Bay Urban",
+              "en": "Monkey Bay Urban",
+              "slug": "monkey-bay-urban-mw30121"
+            },
+            "code": {
+              "id": "MW30121",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30199",
+            "name": {
+              "local": "Lake Malombe",
+              "en": "Lake Malombe",
+              "slug": "lake-malombe-mw30199"
+            },
+            "code": {
+              "id": "MW30199",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "MW302",
+        "name": {
+          "local": "Machinga",
+          "en": "Machinga",
+          "slug": "machinga-mw302"
+        },
+        "code": {
+          "id": "MW302",
+          "iso": null
+        },
+        "ta": [
+          {
+            "id": "MW30201",
+            "name": {
+              "local": "TA Liwonde",
+              "en": "TA Liwonde",
+              "slug": "ta-liwonde-mw30201"
+            },
+            "code": {
+              "id": "MW30201",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30202",
+            "name": {
+              "local": "STA Nsanama",
+              "en": "STA Nsanama",
+              "slug": "sta-nsanama-mw30202"
+            },
+            "code": {
+              "id": "MW30202",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30203",
+            "name": {
+              "local": "TA Sitola",
+              "en": "TA Sitola",
+              "slug": "ta-sitola-mw30203"
+            },
+            "code": {
+              "id": "MW30203",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30204",
+            "name": {
+              "local": "TA Nkula",
+              "en": "TA Nkula",
+              "slug": "ta-nkula-mw30204"
+            },
+            "code": {
+              "id": "MW30204",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30205",
+            "name": {
+              "local": "STA Nchinguza",
+              "en": "STA Nchinguza",
+              "slug": "sta-nchinguza-mw30205"
+            },
+            "code": {
+              "id": "MW30205",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30206",
+            "name": {
+              "local": "TA Kawinga",
+              "en": "TA Kawinga",
+              "slug": "ta-kawinga-mw30206"
+            },
+            "code": {
+              "id": "MW30206",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30207",
+            "name": {
+              "local": "TA Nkoola",
+              "en": "TA Nkoola",
+              "slug": "ta-nkoola-mw30207"
+            },
+            "code": {
+              "id": "MW30207",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30208",
+            "name": {
+              "local": "TA Chamba",
+              "en": "TA Chamba",
+              "slug": "ta-chamba-mw30208"
+            },
+            "code": {
+              "id": "MW30208",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30209",
+            "name": {
+              "local": "TA Mposa",
+              "en": "TA Mposa",
+              "slug": "ta-mposa-mw30209"
+            },
+            "code": {
+              "id": "MW30209",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30210",
+            "name": {
+              "local": "TA Mlomba",
+              "en": "TA Mlomba",
+              "slug": "ta-mlomba-mw30210"
+            },
+            "code": {
+              "id": "MW30210",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30211",
+            "name": {
+              "local": "TA Chikweo",
+              "en": "TA Chikweo",
+              "slug": "ta-chikweo-mw30211"
+            },
+            "code": {
+              "id": "MW30211",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30212",
+            "name": {
+              "local": "TA Ngokwe",
+              "en": "TA Ngokwe",
+              "slug": "ta-ngokwe-mw30212"
+            },
+            "code": {
+              "id": "MW30212",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30213",
+            "name": {
+              "local": "TA Chiwalo",
+              "en": "TA Chiwalo",
+              "slug": "ta-chiwalo-mw30213"
+            },
+            "code": {
+              "id": "MW30213",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30214",
+            "name": {
+              "local": "TA Kapoloma",
+              "en": "TA Kapoloma",
+              "slug": "ta-kapoloma-mw30214"
+            },
+            "code": {
+              "id": "MW30214",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30215",
+            "name": {
+              "local": "TA Nyambi",
+              "en": "TA Nyambi",
+              "slug": "ta-nyambi-mw30215"
+            },
+            "code": {
+              "id": "MW30215",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30216",
+            "name": {
+              "local": "STA Chesale",
+              "en": "STA Chesale",
+              "slug": "sta-chesale-mw30216"
+            },
+            "code": {
+              "id": "MW30216",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30217",
+            "name": {
+              "local": "Liwonde National Park",
+              "en": "Liwonde National Park",
+              "slug": "liwonde-national-park-mw30217"
+            },
+            "code": {
+              "id": "MW30217",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30220",
+            "name": {
+              "local": "Machinga Boma",
+              "en": "Machinga Boma",
+              "slug": "machinga-boma-mw30220"
+            },
+            "code": {
+              "id": "MW30220",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30221",
+            "name": {
+              "local": "Liwonde Town",
+              "en": "Liwonde Town",
+              "slug": "liwonde-town-mw30221"
+            },
+            "code": {
+              "id": "MW30221",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "MW303",
+        "name": {
+          "local": "Zomba",
+          "en": "Zomba",
+          "slug": "zomba-mw303"
+        },
+        "code": {
+          "id": "MW303",
+          "iso": null
+        },
+        "ta": [
+          {
+            "id": "MW30301",
+            "name": {
+              "local": "TA Kuntumanji",
+              "en": "TA Kuntumanji",
+              "slug": "ta-kuntumanji-mw30301"
+            },
+            "code": {
+              "id": "MW30301",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30302",
+            "name": {
+              "local": "TA Mwambo",
+              "en": "TA Mwambo",
+              "slug": "ta-mwambo-mw30302"
+            },
+            "code": {
+              "id": "MW30302",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30303",
+            "name": {
+              "local": "TA Mkumbira",
+              "en": "TA Mkumbira",
+              "slug": "ta-mkumbira-mw30303"
+            },
+            "code": {
+              "id": "MW30303",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30304",
+            "name": {
+              "local": "TA Chikowi",
+              "en": "TA Chikowi",
+              "slug": "ta-chikowi-mw30304"
+            },
+            "code": {
+              "id": "MW30304",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30305",
+            "name": {
+              "local": "TA Mbiza",
+              "en": "TA Mbiza",
+              "slug": "ta-mbiza-mw30305"
+            },
+            "code": {
+              "id": "MW30305",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30306",
+            "name": {
+              "local": "TA Malemia",
+              "en": "TA Malemia",
+              "slug": "ta-malemia-mw30306"
+            },
+            "code": {
+              "id": "MW30306",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30307",
+            "name": {
+              "local": "TA Mlumbe",
+              "en": "TA Mlumbe",
+              "slug": "ta-mlumbe-mw30307"
+            },
+            "code": {
+              "id": "MW30307",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30308",
+            "name": {
+              "local": "STA Nkagula",
+              "en": "STA Nkagula",
+              "slug": "sta-nkagula-mw30308"
+            },
+            "code": {
+              "id": "MW30308",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30309",
+            "name": {
+              "local": "STA Ntholowa",
+              "en": "STA Ntholowa",
+              "slug": "sta-ntholowa-mw30309"
+            },
+            "code": {
+              "id": "MW30309",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30310",
+            "name": {
+              "local": "STA Ngwelero",
+              "en": "STA Ngwelero",
+              "slug": "sta-ngwelero-mw30310"
+            },
+            "code": {
+              "id": "MW30310",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30311",
+            "name": {
+              "local": "STA Nkapita",
+              "en": "STA Nkapita",
+              "slug": "sta-nkapita-mw30311"
+            },
+            "code": {
+              "id": "MW30311",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "MW304",
+        "name": {
+          "local": "Chiradzulu",
+          "en": "Chiradzulu",
+          "slug": "chiradzulu-mw304"
+        },
+        "code": {
+          "id": "MW304",
+          "iso": null
+        },
+        "ta": [
+          {
+            "id": "MW30401",
+            "name": {
+              "local": "TA Mpama",
+              "en": "TA Mpama",
+              "slug": "ta-mpama-mw30401"
+            },
+            "code": {
+              "id": "MW30401",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30402",
+            "name": {
+              "local": "TA Likoswe",
+              "en": "TA Likoswe",
+              "slug": "ta-likoswe-mw30402"
+            },
+            "code": {
+              "id": "MW30402",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30403",
+            "name": {
+              "local": "TA Kadewere",
+              "en": "TA Kadewere",
+              "slug": "ta-kadewere-mw30403"
+            },
+            "code": {
+              "id": "MW30403",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30404",
+            "name": {
+              "local": "TA Nkalo",
+              "en": "TA Nkalo",
+              "slug": "ta-nkalo-mw30404"
+            },
+            "code": {
+              "id": "MW30404",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30405",
+            "name": {
+              "local": "TA Chitera",
+              "en": "TA Chitera",
+              "slug": "ta-chitera-mw30405"
+            },
+            "code": {
+              "id": "MW30405",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30406",
+            "name": {
+              "local": "TA Nchema",
+              "en": "TA Nchema",
+              "slug": "ta-nchema-mw30406"
+            },
+            "code": {
+              "id": "MW30406",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30407",
+            "name": {
+              "local": "STA Mpunga",
+              "en": "STA Mpunga",
+              "slug": "sta-mpunga-mw30407"
+            },
+            "code": {
+              "id": "MW30407",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30408",
+            "name": {
+              "local": "STA Sandareki",
+              "en": "STA Sandareki",
+              "slug": "sta-sandareki-mw30408"
+            },
+            "code": {
+              "id": "MW30408",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30409",
+            "name": {
+              "local": "STA Onga",
+              "en": "STA Onga",
+              "slug": "sta-onga-mw30409"
+            },
+            "code": {
+              "id": "MW30409",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30420",
+            "name": {
+              "local": "Chiradzulu Boma",
+              "en": "Chiradzulu Boma",
+              "slug": "chiradzulu-boma-mw30420"
+            },
+            "code": {
+              "id": "MW30420",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "MW305",
+        "name": {
+          "local": "Blantyre",
+          "en": "Blantyre",
+          "slug": "blantyre-mw305"
+        },
+        "code": {
+          "id": "MW305",
+          "iso": null
+        },
+        "ta": [
+          {
+            "id": "MW30501",
+            "name": {
+              "local": "TA Kapeni",
+              "en": "TA Kapeni",
+              "slug": "ta-kapeni-mw30501"
+            },
+            "code": {
+              "id": "MW30501",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30502",
+            "name": {
+              "local": "TA Lundu",
+              "en": "TA Lundu",
+              "slug": "ta-lundu-mw30502"
+            },
+            "code": {
+              "id": "MW30502",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30503",
+            "name": {
+              "local": "TA Chigaru",
+              "en": "TA Chigaru",
+              "slug": "ta-chigaru-mw30503"
+            },
+            "code": {
+              "id": "MW30503",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30504",
+            "name": {
+              "local": "TA Kunthembwe",
+              "en": "TA Kunthembwe",
+              "slug": "ta-kunthembwe-mw30504"
+            },
+            "code": {
+              "id": "MW30504",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30505",
+            "name": {
+              "local": "TA Makata",
+              "en": "TA Makata",
+              "slug": "ta-makata-mw30505"
+            },
+            "code": {
+              "id": "MW30505",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30506",
+            "name": {
+              "local": "TA Kuntaja",
+              "en": "TA Kuntaja",
+              "slug": "ta-kuntaja-mw30506"
+            },
+            "code": {
+              "id": "MW30506",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30507",
+            "name": {
+              "local": "TA Machinjiri",
+              "en": "TA Machinjiri",
+              "slug": "ta-machinjiri-mw30507"
+            },
+            "code": {
+              "id": "MW30507",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30508",
+            "name": {
+              "local": "TA Somba",
+              "en": "TA Somba",
+              "slug": "ta-somba-mw30508"
+            },
+            "code": {
+              "id": "MW30508",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "MW306",
+        "name": {
+          "local": "Mwanza",
+          "en": "Mwanza",
+          "slug": "mwanza-mw306"
+        },
+        "code": {
+          "id": "MW306",
+          "iso": null
+        },
+        "ta": [
+          {
+            "id": "MW30601",
+            "name": {
+              "local": "TA Kanduku",
+              "en": "TA Kanduku",
+              "slug": "ta-kanduku-mw30601"
+            },
+            "code": {
+              "id": "MW30601",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30602",
+            "name": {
+              "local": "TA Nthache",
+              "en": "TA Nthache",
+              "slug": "ta-nthache-mw30602"
+            },
+            "code": {
+              "id": "MW30602",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30603",
+            "name": {
+              "local": "STA Govati",
+              "en": "STA Govati",
+              "slug": "sta-govati-mw30603"
+            },
+            "code": {
+              "id": "MW30603",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30604",
+            "name": {
+              "local": "Majete Game Reserve - Mwanza",
+              "en": "Majete Game Reserve - Mwanza",
+              "slug": "majete-game-reserve-mwanza-mw30604"
+            },
+            "code": {
+              "id": "MW30604",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30620",
+            "name": {
+              "local": "Mwanza Boma",
+              "en": "Mwanza Boma",
+              "slug": "mwanza-boma-mw30620"
+            },
+            "code": {
+              "id": "MW30620",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "MW307",
+        "name": {
+          "local": "Thyolo",
+          "en": "Thyolo",
+          "slug": "thyolo-mw307"
+        },
+        "code": {
+          "id": "MW307",
+          "iso": null
+        },
+        "ta": [
+          {
+            "id": "MW30701",
+            "name": {
+              "local": "TA Nsabwe",
+              "en": "TA Nsabwe",
+              "slug": "ta-nsabwe-mw30701"
+            },
+            "code": {
+              "id": "MW30701",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30702",
+            "name": {
+              "local": "STA Thukuta",
+              "en": "STA Thukuta",
+              "slug": "sta-thukuta-mw30702"
+            },
+            "code": {
+              "id": "MW30702",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30703",
+            "name": {
+              "local": "STA Mbawela",
+              "en": "STA Mbawela",
+              "slug": "sta-mbawela-mw30703"
+            },
+            "code": {
+              "id": "MW30703",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30704",
+            "name": {
+              "local": "TA Changata",
+              "en": "TA Changata",
+              "slug": "ta-changata-mw30704"
+            },
+            "code": {
+              "id": "MW30704",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30705",
+            "name": {
+              "local": "TA Mphuka",
+              "en": "TA Mphuka",
+              "slug": "ta-mphuka-mw30705"
+            },
+            "code": {
+              "id": "MW30705",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30706",
+            "name": {
+              "local": "TA Kwethemule",
+              "en": "TA Kwethemule",
+              "slug": "ta-kwethemule-mw30706"
+            },
+            "code": {
+              "id": "MW30706",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30707",
+            "name": {
+              "local": "TA Kapichi",
+              "en": "TA Kapichi",
+              "slug": "ta-kapichi-mw30707"
+            },
+            "code": {
+              "id": "MW30707",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30708",
+            "name": {
+              "local": "TA Nchilamwela",
+              "en": "TA Nchilamwela",
+              "slug": "ta-nchilamwela-mw30708"
+            },
+            "code": {
+              "id": "MW30708",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30709",
+            "name": {
+              "local": "TA Chimaliro",
+              "en": "TA Chimaliro",
+              "slug": "ta-chimaliro-mw30709"
+            },
+            "code": {
+              "id": "MW30709",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30710",
+            "name": {
+              "local": "TA Bvumbwe",
+              "en": "TA Bvumbwe",
+              "slug": "ta-bvumbwe-mw30710"
+            },
+            "code": {
+              "id": "MW30710",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30711",
+            "name": {
+              "local": "TA Thomas",
+              "en": "TA Thomas",
+              "slug": "ta-thomas-mw30711"
+            },
+            "code": {
+              "id": "MW30711",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30712",
+            "name": {
+              "local": "TA Nanseta",
+              "en": "TA Nanseta",
+              "slug": "ta-nanseta-mw30712"
+            },
+            "code": {
+              "id": "MW30712",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30713",
+            "name": {
+              "local": "TA Ngolongoliwa",
+              "en": "TA Ngolongoliwa",
+              "slug": "ta-ngolongoliwa-mw30713"
+            },
+            "code": {
+              "id": "MW30713",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30714",
+            "name": {
+              "local": "STA Boyidi",
+              "en": "STA Boyidi",
+              "slug": "sta-boyidi-mw30714"
+            },
+            "code": {
+              "id": "MW30714",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30720",
+            "name": {
+              "local": "Thyolo Boma",
+              "en": "Thyolo Boma",
+              "slug": "thyolo-boma-mw30720"
+            },
+            "code": {
+              "id": "MW30720",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30721",
+            "name": {
+              "local": "Luchenza Town",
+              "en": "Luchenza Town",
+              "slug": "luchenza-town-mw30721"
+            },
+            "code": {
+              "id": "MW30721",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "MW308",
+        "name": {
+          "local": "Mulanje",
+          "en": "Mulanje",
+          "slug": "mulanje-mw308"
+        },
+        "code": {
+          "id": "MW308",
+          "iso": null
+        },
+        "ta": [
+          {
+            "id": "MW30801",
+            "name": {
+              "local": "TA Mabuka",
+              "en": "TA Mabuka",
+              "slug": "ta-mabuka-mw30801"
+            },
+            "code": {
+              "id": "MW30801",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30802",
+            "name": {
+              "local": "TA Laston Njema",
+              "en": "TA Laston Njema",
+              "slug": "ta-laston-njema-mw30802"
+            },
+            "code": {
+              "id": "MW30802",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30803",
+            "name": {
+              "local": "TA Chikumbu",
+              "en": "TA Chikumbu",
+              "slug": "ta-chikumbu-mw30803"
+            },
+            "code": {
+              "id": "MW30803",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30804",
+            "name": {
+              "local": "TA Nthiramanja",
+              "en": "TA Nthiramanja",
+              "slug": "ta-nthiramanja-mw30804"
+            },
+            "code": {
+              "id": "MW30804",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30805",
+            "name": {
+              "local": "TA Nkanda",
+              "en": "TA Nkanda",
+              "slug": "ta-nkanda-mw30805"
+            },
+            "code": {
+              "id": "MW30805",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30806",
+            "name": {
+              "local": "TA Juma",
+              "en": "TA Juma",
+              "slug": "ta-juma-mw30806"
+            },
+            "code": {
+              "id": "MW30806",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30807",
+            "name": {
+              "local": "STA Sunganinzeru",
+              "en": "STA Sunganinzeru",
+              "slug": "sta-sunganinzeru-mw30807"
+            },
+            "code": {
+              "id": "MW30807",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30808",
+            "name": {
+              "local": "STA Tombondiya",
+              "en": "STA Tombondiya",
+              "slug": "sta-tombondiya-mw30808"
+            },
+            "code": {
+              "id": "MW30808",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30809",
+            "name": {
+              "local": "Mulanje Mountain Reserve",
+              "en": "Mulanje Mountain Reserve",
+              "slug": "mulanje-mountain-reserve-mw30809"
+            },
+            "code": {
+              "id": "MW30809",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30820",
+            "name": {
+              "local": "Mulanje Boma",
+              "en": "Mulanje Boma",
+              "slug": "mulanje-boma-mw30820"
+            },
+            "code": {
+              "id": "MW30820",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "MW309",
+        "name": {
+          "local": "Phalombe",
+          "en": "Phalombe",
+          "slug": "phalombe-mw309"
+        },
+        "code": {
+          "id": "MW309",
+          "iso": null
+        },
+        "ta": [
+          {
+            "id": "MW30901",
+            "name": {
+              "local": "TA Mkhumba",
+              "en": "TA Mkhumba",
+              "slug": "ta-mkhumba-mw30901"
+            },
+            "code": {
+              "id": "MW30901",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30902",
+            "name": {
+              "local": "TA Nazombe",
+              "en": "TA Nazombe",
+              "slug": "ta-nazombe-mw30902"
+            },
+            "code": {
+              "id": "MW30902",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30903",
+            "name": {
+              "local": "TA Chiwalo",
+              "en": "TA Chiwalo",
+              "slug": "ta-chiwalo-mw30903"
+            },
+            "code": {
+              "id": "MW30903",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30904",
+            "name": {
+              "local": "TA Nkhulambe",
+              "en": "TA Nkhulambe",
+              "slug": "ta-nkhulambe-mw30904"
+            },
+            "code": {
+              "id": "MW30904",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30905",
+            "name": {
+              "local": "TA Jenala",
+              "en": "TA Jenala",
+              "slug": "ta-jenala-mw30905"
+            },
+            "code": {
+              "id": "MW30905",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30906",
+            "name": {
+              "local": "TA Kaduya",
+              "en": "TA Kaduya",
+              "slug": "ta-kaduya-mw30906"
+            },
+            "code": {
+              "id": "MW30906",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW30920",
+            "name": {
+              "local": "Phalombe Boma",
+              "en": "Phalombe Boma",
+              "slug": "phalombe-boma-mw30920"
+            },
+            "code": {
+              "id": "MW30920",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "MW310",
+        "name": {
+          "local": "Chikwawa",
+          "en": "Chikwawa",
+          "slug": "chikwawa-mw310"
+        },
+        "code": {
+          "id": "MW310",
+          "iso": null
+        },
+        "ta": [
+          {
+            "id": "MW31001",
+            "name": {
+              "local": "TA Ngabu",
+              "en": "TA Ngabu",
+              "slug": "ta-ngabu-mw31001"
+            },
+            "code": {
+              "id": "MW31001",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW31002",
+            "name": {
+              "local": "TA Lundu",
+              "en": "TA Lundu",
+              "slug": "ta-lundu-mw31002"
+            },
+            "code": {
+              "id": "MW31002",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW31003",
+            "name": {
+              "local": "TA Chapananga",
+              "en": "TA Chapananga",
+              "slug": "ta-chapananga-mw31003"
+            },
+            "code": {
+              "id": "MW31003",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW31004",
+            "name": {
+              "local": "TA Maseya",
+              "en": "TA Maseya",
+              "slug": "ta-maseya-mw31004"
+            },
+            "code": {
+              "id": "MW31004",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW31005",
+            "name": {
+              "local": "TA Katunga",
+              "en": "TA Katunga",
+              "slug": "ta-katunga-mw31005"
+            },
+            "code": {
+              "id": "MW31005",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW31006",
+            "name": {
+              "local": "TA Kasisi",
+              "en": "TA Kasisi",
+              "slug": "ta-kasisi-mw31006"
+            },
+            "code": {
+              "id": "MW31006",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW31007",
+            "name": {
+              "local": "TA Makhwira",
+              "en": "TA Makhwira",
+              "slug": "ta-makhwira-mw31007"
+            },
+            "code": {
+              "id": "MW31007",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW31008",
+            "name": {
+              "local": "STA Ndakwela",
+              "en": "STA Ndakwela",
+              "slug": "sta-ndakwela-mw31008"
+            },
+            "code": {
+              "id": "MW31008",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW31009",
+            "name": {
+              "local": "TA Mlilima",
+              "en": "TA Mlilima",
+              "slug": "ta-mlilima-mw31009"
+            },
+            "code": {
+              "id": "MW31009",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW31010",
+            "name": {
+              "local": "STA Masache",
+              "en": "STA Masache",
+              "slug": "sta-masache-mw31010"
+            },
+            "code": {
+              "id": "MW31010",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW31011",
+            "name": {
+              "local": "TA Ngowe",
+              "en": "TA Ngowe",
+              "slug": "ta-ngowe-mw31011"
+            },
+            "code": {
+              "id": "MW31011",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW31012",
+            "name": {
+              "local": "Lengwe National Park",
+              "en": "Lengwe National Park",
+              "slug": "lengwe-national-park-mw31012"
+            },
+            "code": {
+              "id": "MW31012",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW31013",
+            "name": {
+              "local": "Majete Game Reserve - Chikwawa",
+              "en": "Majete Game Reserve - Chikwawa",
+              "slug": "majete-game-reserve-chikwawa-mw31013"
+            },
+            "code": {
+              "id": "MW31013",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW31020",
+            "name": {
+              "local": "Chikwawa Boma",
+              "en": "Chikwawa Boma",
+              "slug": "chikwawa-boma-mw31020"
+            },
+            "code": {
+              "id": "MW31020",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW31021",
+            "name": {
+              "local": "Ngabu Urban",
+              "en": "Ngabu Urban",
+              "slug": "ngabu-urban-mw31021"
+            },
+            "code": {
+              "id": "MW31021",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "MW311",
+        "name": {
+          "local": "Nsanje",
+          "en": "Nsanje",
+          "slug": "nsanje-mw311"
+        },
+        "code": {
+          "id": "MW311",
+          "iso": null
+        },
+        "ta": [
+          {
+            "id": "MW31101",
+            "name": {
+              "local": "TA Ndamera",
+              "en": "TA Ndamera",
+              "slug": "ta-ndamera-mw31101"
+            },
+            "code": {
+              "id": "MW31101",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW31102",
+            "name": {
+              "local": "TA Chimombo",
+              "en": "TA Chimombo",
+              "slug": "ta-chimombo-mw31102"
+            },
+            "code": {
+              "id": "MW31102",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW31103",
+            "name": {
+              "local": "TA Nyachikadza",
+              "en": "TA Nyachikadza",
+              "slug": "ta-nyachikadza-mw31103"
+            },
+            "code": {
+              "id": "MW31103",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW31104",
+            "name": {
+              "local": "TA Mlolo",
+              "en": "TA Mlolo",
+              "slug": "ta-mlolo-mw31104"
+            },
+            "code": {
+              "id": "MW31104",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW31105",
+            "name": {
+              "local": "TA Tengani",
+              "en": "TA Tengani",
+              "slug": "ta-tengani-mw31105"
+            },
+            "code": {
+              "id": "MW31105",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW31106",
+            "name": {
+              "local": "TA Malemia",
+              "en": "TA Malemia",
+              "slug": "ta-malemia-mw31106"
+            },
+            "code": {
+              "id": "MW31106",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW31107",
+            "name": {
+              "local": "TA Mbenje",
+              "en": "TA Mbenje",
+              "slug": "ta-mbenje-mw31107"
+            },
+            "code": {
+              "id": "MW31107",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW31108",
+            "name": {
+              "local": "TA Ngabu",
+              "en": "TA Ngabu",
+              "slug": "ta-ngabu-mw31108"
+            },
+            "code": {
+              "id": "MW31108",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW31109",
+            "name": {
+              "local": "TA Makoko",
+              "en": "TA Makoko",
+              "slug": "ta-makoko-mw31109"
+            },
+            "code": {
+              "id": "MW31109",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW31110",
+            "name": {
+              "local": "Mwabvi Game Reserve",
+              "en": "Mwabvi Game Reserve",
+              "slug": "mwabvi-game-reserve-mw31110"
+            },
+            "code": {
+              "id": "MW31110",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW31120",
+            "name": {
+              "local": "Nsanje Boma",
+              "en": "Nsanje Boma",
+              "slug": "nsanje-boma-mw31120"
+            },
+            "code": {
+              "id": "MW31120",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "MW312",
+        "name": {
+          "local": "Balaka",
+          "en": "Balaka",
+          "slug": "balaka-mw312"
+        },
+        "code": {
+          "id": "MW312",
+          "iso": null
+        },
+        "ta": [
+          {
+            "id": "MW31201",
+            "name": {
+              "local": "TA Msamala",
+              "en": "TA Msamala",
+              "slug": "ta-msamala-mw31201"
+            },
+            "code": {
+              "id": "MW31201",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW31202",
+            "name": {
+              "local": "TA Kalembo",
+              "en": "TA Kalembo",
+              "slug": "ta-kalembo-mw31202"
+            },
+            "code": {
+              "id": "MW31202",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW31203",
+            "name": {
+              "local": "STA Kachenga",
+              "en": "STA Kachenga",
+              "slug": "sta-kachenga-mw31203"
+            },
+            "code": {
+              "id": "MW31203",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW31204",
+            "name": {
+              "local": "TA Amidu",
+              "en": "TA Amidu",
+              "slug": "ta-amidu-mw31204"
+            },
+            "code": {
+              "id": "MW31204",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW31205",
+            "name": {
+              "local": "TA Nkaya",
+              "en": "TA Nkaya",
+              "slug": "ta-nkaya-mw31205"
+            },
+            "code": {
+              "id": "MW31205",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW31206",
+            "name": {
+              "local": "STA Phalula",
+              "en": "STA Phalula",
+              "slug": "sta-phalula-mw31206"
+            },
+            "code": {
+              "id": "MW31206",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW31207",
+            "name": {
+              "local": "TA Chanthunya",
+              "en": "TA Chanthunya",
+              "slug": "ta-chanthunya-mw31207"
+            },
+            "code": {
+              "id": "MW31207",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW31208",
+            "name": {
+              "local": "TA Sawali",
+              "en": "TA Sawali",
+              "slug": "ta-sawali-mw31208"
+            },
+            "code": {
+              "id": "MW31208",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW31209",
+            "name": {
+              "local": "STA Matola",
+              "en": "STA Matola",
+              "slug": "sta-matola-mw31209"
+            },
+            "code": {
+              "id": "MW31209",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW31210",
+            "name": {
+              "local": "STA Toleza",
+              "en": "STA Toleza",
+              "slug": "sta-toleza-mw31210"
+            },
+            "code": {
+              "id": "MW31210",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW31220",
+            "name": {
+              "local": "Balaka Town",
+              "en": "Balaka Town",
+              "slug": "balaka-town-mw31220"
+            },
+            "code": {
+              "id": "MW31220",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW31221",
+            "name": {
+              "local": "Liwonde Town",
+              "en": "Liwonde Town",
+              "slug": "liwonde-town-mw31221"
+            },
+            "code": {
+              "id": "MW31221",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "MW313",
+        "name": {
+          "local": "Neno",
+          "en": "Neno",
+          "slug": "neno-mw313"
+        },
+        "code": {
+          "id": "MW313",
+          "iso": null
+        },
+        "ta": [
+          {
+            "id": "MW31301",
+            "name": {
+              "local": "TA Dambe",
+              "en": "TA Dambe",
+              "slug": "ta-dambe-mw31301"
+            },
+            "code": {
+              "id": "MW31301",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW31302",
+            "name": {
+              "local": "TA Mlauli",
+              "en": "TA Mlauli",
+              "slug": "ta-mlauli-mw31302"
+            },
+            "code": {
+              "id": "MW31302",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW31303",
+            "name": {
+              "local": "TA Symon Likongwe",
+              "en": "TA Symon Likongwe",
+              "slug": "ta-symon-likongwe-mw31303"
+            },
+            "code": {
+              "id": "MW31303",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW31304",
+            "name": {
+              "local": "TA Chekucheku",
+              "en": "TA Chekucheku",
+              "slug": "ta-chekucheku-mw31304"
+            },
+            "code": {
+              "id": "MW31304",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW31320",
+            "name": {
+              "local": "Neno Boma",
+              "en": "Neno Boma",
+              "slug": "neno-boma-mw31320"
+            },
+            "code": {
+              "id": "MW31320",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "MW314",
+        "name": {
+          "local": "Zomba City",
+          "en": "Zomba City",
+          "slug": "zomba-city-mw314"
+        },
+        "code": {
+          "id": "MW314",
+          "iso": null
+        },
+        "ta": [
+          {
+            "id": "MW31431",
+            "name": {
+              "local": "Mpira Ward",
+              "en": "Mpira Ward",
+              "slug": "mpira-ward-mw31431"
+            },
+            "code": {
+              "id": "MW31431",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW31432",
+            "name": {
+              "local": "Mbedza Ward",
+              "en": "Mbedza Ward",
+              "slug": "mbedza-ward-mw31432"
+            },
+            "code": {
+              "id": "MW31432",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW31433",
+            "name": {
+              "local": "Chinamwali Ward",
+              "en": "Chinamwali Ward",
+              "slug": "chinamwali-ward-mw31433"
+            },
+            "code": {
+              "id": "MW31433",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW31434",
+            "name": {
+              "local": "Chirunga Ward",
+              "en": "Chirunga Ward",
+              "slug": "chirunga-ward-mw31434"
+            },
+            "code": {
+              "id": "MW31434",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW31435",
+            "name": {
+              "local": "Mtiya Ward",
+              "en": "Mtiya Ward",
+              "slug": "mtiya-ward-mw31435"
+            },
+            "code": {
+              "id": "MW31435",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW31436",
+            "name": {
+              "local": "Masongola Ward",
+              "en": "Masongola Ward",
+              "slug": "masongola-ward-mw31436"
+            },
+            "code": {
+              "id": "MW31436",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW31437",
+            "name": {
+              "local": "Zomba Central Ward",
+              "en": "Zomba Central Ward",
+              "slug": "zomba-central-ward-mw31437"
+            },
+            "code": {
+              "id": "MW31437",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW31438",
+            "name": {
+              "local": "Likangala Ward",
+              "en": "Likangala Ward",
+              "slug": "likangala-ward-mw31438"
+            },
+            "code": {
+              "id": "MW31438",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW31439",
+            "name": {
+              "local": "Chambo Ward",
+              "en": "Chambo Ward",
+              "slug": "chambo-ward-mw31439"
+            },
+            "code": {
+              "id": "MW31439",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW31440",
+            "name": {
+              "local": "Sadzi Ward",
+              "en": "Sadzi Ward",
+              "slug": "sadzi-ward-mw31440"
+            },
+            "code": {
+              "id": "MW31440",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "MW315",
+        "name": {
+          "local": "Blantyre City",
+          "en": "Blantyre City",
+          "slug": "blantyre-city-mw315"
+        },
+        "code": {
+          "id": "MW315",
+          "iso": null
+        },
+        "ta": [
+          {
+            "id": "MW31531",
+            "name": {
+              "local": "Michiru Ward",
+              "en": "Michiru Ward",
+              "slug": "michiru-ward-mw31531"
+            },
+            "code": {
+              "id": "MW31531",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW31532",
+            "name": {
+              "local": "South Lunzu Ward",
+              "en": "South Lunzu Ward",
+              "slug": "south-lunzu-ward-mw31532"
+            },
+            "code": {
+              "id": "MW31532",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW31533",
+            "name": {
+              "local": "Mapanga Ward",
+              "en": "Mapanga Ward",
+              "slug": "mapanga-ward-mw31533"
+            },
+            "code": {
+              "id": "MW31533",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW31534",
+            "name": {
+              "local": "Nkolokoti Ward",
+              "en": "Nkolokoti Ward",
+              "slug": "nkolokoti-ward-mw31534"
+            },
+            "code": {
+              "id": "MW31534",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW31535",
+            "name": {
+              "local": "Ndirande Matope Ward",
+              "en": "Ndirande Matope Ward",
+              "slug": "ndirande-matope-ward-mw31535"
+            },
+            "code": {
+              "id": "MW31535",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW31536",
+            "name": {
+              "local": "Ndirande Makata Ward",
+              "en": "Ndirande Makata Ward",
+              "slug": "ndirande-makata-ward-mw31536"
+            },
+            "code": {
+              "id": "MW31536",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW31537",
+            "name": {
+              "local": "Ndirande Gamulani Ward",
+              "en": "Ndirande Gamulani Ward",
+              "slug": "ndirande-gamulani-ward-mw31537"
+            },
+            "code": {
+              "id": "MW31537",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW31538",
+            "name": {
+              "local": "Nyambadwe Ward",
+              "en": "Nyambadwe Ward",
+              "slug": "nyambadwe-ward-mw31538"
+            },
+            "code": {
+              "id": "MW31538",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW31539",
+            "name": {
+              "local": "Mbayani Ward",
+              "en": "Mbayani Ward",
+              "slug": "mbayani-ward-mw31539"
+            },
+            "code": {
+              "id": "MW31539",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW31540",
+            "name": {
+              "local": "Chilomoni Ward",
+              "en": "Chilomoni Ward",
+              "slug": "chilomoni-ward-mw31540"
+            },
+            "code": {
+              "id": "MW31540",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW31541",
+            "name": {
+              "local": "Blantyre City Centre Ward",
+              "en": "Blantyre City Centre Ward",
+              "slug": "blantyre-city-centre-ward-mw31541"
+            },
+            "code": {
+              "id": "MW31541",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW31542",
+            "name": {
+              "local": "Namalimwe Ward",
+              "en": "Namalimwe Ward",
+              "slug": "namalimwe-ward-mw31542"
+            },
+            "code": {
+              "id": "MW31542",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW31543",
+            "name": {
+              "local": "Limbe Central Ward",
+              "en": "Limbe Central Ward",
+              "slug": "limbe-central-ward-mw31543"
+            },
+            "code": {
+              "id": "MW31543",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW31544",
+            "name": {
+              "local": "Mzedi Ward",
+              "en": "Mzedi Ward",
+              "slug": "mzedi-ward-mw31544"
+            },
+            "code": {
+              "id": "MW31544",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW31545",
+            "name": {
+              "local": "Bangwe Ward",
+              "en": "Bangwe Ward",
+              "slug": "bangwe-ward-mw31545"
+            },
+            "code": {
+              "id": "MW31545",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW31546",
+            "name": {
+              "local": "Bangwe Mthandizi Ward",
+              "en": "Bangwe Mthandizi Ward",
+              "slug": "bangwe-mthandizi-ward-mw31546"
+            },
+            "code": {
+              "id": "MW31546",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW31547",
+            "name": {
+              "local": "Soche East Ward",
+              "en": "Soche East Ward",
+              "slug": "soche-east-ward-mw31547"
+            },
+            "code": {
+              "id": "MW31547",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW31548",
+            "name": {
+              "local": "Blantyre South Ward",
+              "en": "Blantyre South Ward",
+              "slug": "blantyre-south-ward-mw31548"
+            },
+            "code": {
+              "id": "MW31548",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW31549",
+            "name": {
+              "local": "Green Corner Ward",
+              "en": "Green Corner Ward",
+              "slug": "green-corner-ward-mw31549"
+            },
+            "code": {
+              "id": "MW31549",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW31550",
+            "name": {
+              "local": "Soche West Ward",
+              "en": "Soche West Ward",
+              "slug": "soche-west-ward-mw31550"
+            },
+            "code": {
+              "id": "MW31550",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW31551",
+            "name": {
+              "local": "Namiyango Ward",
+              "en": "Namiyango Ward",
+              "slug": "namiyango-ward-mw31551"
+            },
+            "code": {
+              "id": "MW31551",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW31552",
+            "name": {
+              "local": "Chigumula Ward",
+              "en": "Chigumula Ward",
+              "slug": "chigumula-ward-mw31552"
+            },
+            "code": {
+              "id": "MW31552",
+              "iso": null
+            }
+          },
+          {
+            "id": "MW31553",
+            "name": {
+              "local": "Misesa Ward",
+              "en": "Misesa Ward",
+              "slug": "misesa-ward-mw31553"
+            },
+            "code": {
+              "id": "MW31553",
+              "iso": null
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

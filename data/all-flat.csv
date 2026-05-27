@@ -1,0 +1,36 @@
+id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.region,children_count.district,children_count.ta,zip_codes,geo.lat,geo.lon
+MW1,1,Region,Region,Northern,Northern,northern-mw1,MW1,,,,,,7,76,,-11.054,33.774
+MW101,2,District,District,Chitipa,Chitipa,chitipa-mw101,MW101,,MW1,Northern,Northern,,,11,,-9.974,33.412
+MW102,2,District,District,Karonga,Karonga,karonga-mw102,MW102,,MW1,Northern,Northern,,,7,,-10.085,33.866
+MW103,2,District,District,Nkhatabay,Nkhatabay,nkhatabay-mw103,MW103,,MW1,Northern,Northern,,,14,,-11.62,34.04
+MW104,2,District,District,Rumphi,Rumphi,rumphi-mw104,MW104,,MW1,Northern,Northern,,,14,,-10.805,33.838
+MW105,2,District,District,Mzimba,Mzimba,mzimba-mw105,MW105,,MW1,Northern,Northern,,,13,,-11.851,33.58
+MW106,2,District,District,Likoma,Likoma,likoma-mw106,MW106,,MW1,Northern,Northern,,,2,,-12.066,34.732
+MW107,2,District,District,Mzuzu City,Mzuzu City,mzuzu-city-mw107,MW107,,MW1,Northern,Northern,,,15,,-11.434,34.005
+MW2,1,Region,Region,Central,Central,central-mw2,MW2,,,,,,10,178,,-13.744,33.705
+MW201,2,District,District,Kasungu,Kasungu,kasungu-mw201,MW201,,MW2,Central,Central,,,28,,-12.998,33.471
+MW202,2,District,District,Nkhotakota,Nkhotakota,nkhotakota-mw202,MW202,,MW2,Central,Central,,,9,,-12.832,34.052
+MW203,2,District,District,Ntchisi,Ntchisi,ntchisi-mw203,MW203,,MW2,Central,Central,,,8,,-13.277,33.899
+MW204,2,District,District,Dowa,Dowa,dowa-mw204,MW204,,MW2,Central,Central,,,9,,-13.523,33.741
+MW205,2,District,District,Salima,Salima,salima-mw205,MW205,,MW2,Central,Central,,,13,,-13.767,34.454
+MW206,2,District,District,Lilongwe,Lilongwe,lilongwe-mw206,MW206,,MW2,Central,Central,,,18,,-14.045,33.499
+MW207,2,District,District,Mchinji,Mchinji,mchinji-mw207,MW207,,MW2,Central,Central,,,14,,-13.782,33.025
+MW208,2,District,District,Dedza,Dedza,dedza-mw208,MW208,,MW2,Central,Central,,,9,,-14.239,34.318
+MW209,2,District,District,Ntcheu,Ntcheu,ntcheu-mw209,MW209,,MW2,Central,Central,,,12,,-14.822,34.768
+MW210,2,District,District,Lilongwe City,Lilongwe City,lilongwe-city-mw210,MW210,,MW2,Central,Central,,,58,,-13.909,33.785
+MW3,1,Region,Region,Southern,Southern,southern-mw3,MW3,,,,,,15,179,,-15.306,35.179
+MW301,2,District,District,Mangochi,Mangochi,mangochi-mw301,MW301,,MW3,Southern,Southern,,,17,,-14.397,34.987
+MW302,2,District,District,Machinga,Machinga,machinga-mw302,MW302,,MW3,Southern,Southern,,,19,,-14.908,35.518
+MW303,2,District,District,Zomba,Zomba,zomba-mw303,MW303,,MW3,Southern,Southern,,,11,,-15.441,35.34
+MW304,2,District,District,Chiradzulu,Chiradzulu,chiradzulu-mw304,MW304,,MW3,Southern,Southern,,,10,,-15.765,35.208
+MW305,2,District,District,Blantyre,Blantyre,blantyre-mw305,MW305,,MW3,Southern,Southern,,,8,,-15.686,34.929
+MW306,2,District,District,Mwanza,Mwanza,mwanza-mw306,MW306,,MW3,Southern,Southern,,,5,,-15.615,34.51
+MW307,2,District,District,Thyolo,Thyolo,thyolo-mw307,MW307,,MW3,Southern,Southern,,,16,,-16.132,35.145
+MW308,2,District,District,Mulanje,Mulanje,mulanje-mw308,MW308,,MW3,Southern,Southern,,,10,,-15.908,35.544
+MW309,2,District,District,Phalombe,Phalombe,phalombe-mw309,MW309,,MW3,Southern,Southern,,,7,,-15.7,35.672
+MW310,2,District,District,Chikwawa,Chikwawa,chikwawa-mw310,MW310,,MW3,Southern,Southern,,,15,,-16.217,34.674
+MW311,2,District,District,Nsanje,Nsanje,nsanje-mw311,MW311,,MW3,Southern,Southern,,,11,,-16.786,35.139
+MW312,2,District,District,Balaka,Balaka,balaka-mw312,MW312,,MW3,Southern,Southern,,,12,,-15.034,35.061
+MW313,2,District,District,Neno,Neno,neno-mw313,MW313,,MW3,Southern,Southern,,,5,,-15.497,34.682
+MW314,2,District,District,Zomba City,Zomba City,zomba-city-mw314,MW314,,MW3,Southern,Southern,,,10,,-15.395,35.321
+MW315,2,District,District,Blantyre City,Blantyre City,blantyre-city-mw315,MW315,,MW3,Southern,Southern,,,23,,-15.796,35.051

@@ -1,0 +1,596 @@
+[
+  {
+    "id": "MW30310",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "STA Ngwelero",
+      "en": "STA Ngwelero",
+      "slug": "sta-ngwelero-mw30310"
+    },
+    "code": {
+      "id": "MW30310",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW303",
+      "level": 2,
+      "name": {
+        "local": "Zomba",
+        "en": "Zomba",
+        "slug": "zomba-mw303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW303",
+        "level": 2,
+        "name": {
+          "local": "Zomba",
+          "en": "Zomba",
+          "slug": "zomba-mw303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.614",
+      "lon": "35.44"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30308",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "STA Nkagula",
+      "en": "STA Nkagula",
+      "slug": "sta-nkagula-mw30308"
+    },
+    "code": {
+      "id": "MW30308",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW303",
+      "level": 2,
+      "name": {
+        "local": "Zomba",
+        "en": "Zomba",
+        "slug": "zomba-mw303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW303",
+        "level": 2,
+        "name": {
+          "local": "Zomba",
+          "en": "Zomba",
+          "slug": "zomba-mw303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.356",
+      "lon": "35.464"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30311",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "STA Nkapita",
+      "en": "STA Nkapita",
+      "slug": "sta-nkapita-mw30311"
+    },
+    "code": {
+      "id": "MW30311",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW303",
+      "level": 2,
+      "name": {
+        "local": "Zomba",
+        "en": "Zomba",
+        "slug": "zomba-mw303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW303",
+        "level": 2,
+        "name": {
+          "local": "Zomba",
+          "en": "Zomba",
+          "slug": "zomba-mw303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.284",
+      "lon": "35.187"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30309",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "STA Ntholowa",
+      "en": "STA Ntholowa",
+      "slug": "sta-ntholowa-mw30309"
+    },
+    "code": {
+      "id": "MW30309",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW303",
+      "level": 2,
+      "name": {
+        "local": "Zomba",
+        "en": "Zomba",
+        "slug": "zomba-mw303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW303",
+        "level": 2,
+        "name": {
+          "local": "Zomba",
+          "en": "Zomba",
+          "slug": "zomba-mw303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.571",
+      "lon": "35.265"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30304",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Chikowi",
+      "en": "TA Chikowi",
+      "slug": "ta-chikowi-mw30304"
+    },
+    "code": {
+      "id": "MW30304",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW303",
+      "level": 2,
+      "name": {
+        "local": "Zomba",
+        "en": "Zomba",
+        "slug": "zomba-mw303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW303",
+        "level": 2,
+        "name": {
+          "local": "Zomba",
+          "en": "Zomba",
+          "slug": "zomba-mw303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.492",
+      "lon": "35.328"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30301",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Kuntumanji",
+      "en": "TA Kuntumanji",
+      "slug": "ta-kuntumanji-mw30301"
+    },
+    "code": {
+      "id": "MW30301",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW303",
+      "level": 2,
+      "name": {
+        "local": "Zomba",
+        "en": "Zomba",
+        "slug": "zomba-mw303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW303",
+        "level": 2,
+        "name": {
+          "local": "Zomba",
+          "en": "Zomba",
+          "slug": "zomba-mw303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.276",
+      "lon": "35.479"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30306",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Malemia",
+      "en": "TA Malemia",
+      "slug": "ta-malemia-mw30306"
+    },
+    "code": {
+      "id": "MW30306",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW303",
+      "level": 2,
+      "name": {
+        "local": "Zomba",
+        "en": "Zomba",
+        "slug": "zomba-mw303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW303",
+        "level": 2,
+        "name": {
+          "local": "Zomba",
+          "en": "Zomba",
+          "slug": "zomba-mw303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.287",
+      "lon": "35.341"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30305",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Mbiza",
+      "en": "TA Mbiza",
+      "slug": "ta-mbiza-mw30305"
+    },
+    "code": {
+      "id": "MW30305",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW303",
+      "level": 2,
+      "name": {
+        "local": "Zomba",
+        "en": "Zomba",
+        "slug": "zomba-mw303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW303",
+        "level": 2,
+        "name": {
+          "local": "Zomba",
+          "en": "Zomba",
+          "slug": "zomba-mw303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.6",
+      "lon": "35.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30303",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Mkumbira",
+      "en": "TA Mkumbira",
+      "slug": "ta-mkumbira-mw30303"
+    },
+    "code": {
+      "id": "MW30303",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW303",
+      "level": 2,
+      "name": {
+        "local": "Zomba",
+        "en": "Zomba",
+        "slug": "zomba-mw303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW303",
+        "level": 2,
+        "name": {
+          "local": "Zomba",
+          "en": "Zomba",
+          "slug": "zomba-mw303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.335",
+      "lon": "35.614"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30307",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Mlumbe",
+      "en": "TA Mlumbe",
+      "slug": "ta-mlumbe-mw30307"
+    },
+    "code": {
+      "id": "MW30307",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW303",
+      "level": 2,
+      "name": {
+        "local": "Zomba",
+        "en": "Zomba",
+        "slug": "zomba-mw303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW303",
+        "level": 2,
+        "name": {
+          "local": "Zomba",
+          "en": "Zomba",
+          "slug": "zomba-mw303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.425",
+      "lon": "35.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30302",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Mwambo",
+      "en": "TA Mwambo",
+      "slug": "ta-mwambo-mw30302"
+    },
+    "code": {
+      "id": "MW30302",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW303",
+      "level": 2,
+      "name": {
+        "local": "Zomba",
+        "en": "Zomba",
+        "slug": "zomba-mw303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW303",
+        "level": 2,
+        "name": {
+          "local": "Zomba",
+          "en": "Zomba",
+          "slug": "zomba-mw303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.468",
+      "lon": "35.527"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

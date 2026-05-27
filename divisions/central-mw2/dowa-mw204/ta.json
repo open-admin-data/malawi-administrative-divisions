@@ -1,0 +1,488 @@
+[
+  {
+    "id": "MW20420",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Dowa Boma",
+      "en": "Dowa Boma",
+      "slug": "dowa-boma-mw20420"
+    },
+    "code": {
+      "id": "MW20420",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW204",
+      "level": 2,
+      "name": {
+        "local": "Dowa",
+        "en": "Dowa",
+        "slug": "dowa-mw204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW204",
+        "level": 2,
+        "name": {
+          "local": "Dowa",
+          "en": "Dowa",
+          "slug": "dowa-mw204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.652",
+      "lon": "33.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20421",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Mponela Urban",
+      "en": "Mponela Urban",
+      "slug": "mponela-urban-mw20421"
+    },
+    "code": {
+      "id": "MW20421",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW204",
+      "level": 2,
+      "name": {
+        "local": "Dowa",
+        "en": "Dowa",
+        "slug": "dowa-mw204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW204",
+        "level": 2,
+        "name": {
+          "local": "Dowa",
+          "en": "Dowa",
+          "slug": "dowa-mw204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.539",
+      "lon": "33.741"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20402",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Chakhaza",
+      "en": "TA Chakhaza",
+      "slug": "ta-chakhaza-mw20402"
+    },
+    "code": {
+      "id": "MW20402",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW204",
+      "level": 2,
+      "name": {
+        "local": "Dowa",
+        "en": "Dowa",
+        "slug": "dowa-mw204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW204",
+        "level": 2,
+        "name": {
+          "local": "Dowa",
+          "en": "Dowa",
+          "slug": "dowa-mw204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.375",
+      "lon": "33.605"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20404",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Chiwere",
+      "en": "TA Chiwere",
+      "slug": "ta-chiwere-mw20404"
+    },
+    "code": {
+      "id": "MW20404",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW204",
+      "level": 2,
+      "name": {
+        "local": "Dowa",
+        "en": "Dowa",
+        "slug": "dowa-mw204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW204",
+        "level": 2,
+        "name": {
+          "local": "Dowa",
+          "en": "Dowa",
+          "slug": "dowa-mw204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.7",
+      "lon": "34.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20401",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Dzoole",
+      "en": "TA Dzoole",
+      "slug": "ta-dzoole-mw20401"
+    },
+    "code": {
+      "id": "MW20401",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW204",
+      "level": 2,
+      "name": {
+        "local": "Dowa",
+        "en": "Dowa",
+        "slug": "dowa-mw204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW204",
+        "level": 2,
+        "name": {
+          "local": "Dowa",
+          "en": "Dowa",
+          "slug": "dowa-mw204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.476",
+      "lon": "33.741"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20403",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Kayembe",
+      "en": "TA Kayembe",
+      "slug": "ta-kayembe-mw20403"
+    },
+    "code": {
+      "id": "MW20403",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW204",
+      "level": 2,
+      "name": {
+        "local": "Dowa",
+        "en": "Dowa",
+        "slug": "dowa-mw204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW204",
+        "level": 2,
+        "name": {
+          "local": "Dowa",
+          "en": "Dowa",
+          "slug": "dowa-mw204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.578",
+      "lon": "33.537"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20405",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Mkukula",
+      "en": "TA Mkukula",
+      "slug": "ta-mkukula-mw20405"
+    },
+    "code": {
+      "id": "MW20405",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW204",
+      "level": 2,
+      "name": {
+        "local": "Dowa",
+        "en": "Dowa",
+        "slug": "dowa-mw204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW204",
+        "level": 2,
+        "name": {
+          "local": "Dowa",
+          "en": "Dowa",
+          "slug": "dowa-mw204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.752",
+      "lon": "33.937"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20407",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Mponela",
+      "en": "TA Mponela",
+      "slug": "ta-mponela-mw20407"
+    },
+    "code": {
+      "id": "MW20407",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW204",
+      "level": 2,
+      "name": {
+        "local": "Dowa",
+        "en": "Dowa",
+        "slug": "dowa-mw204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW204",
+        "level": 2,
+        "name": {
+          "local": "Dowa",
+          "en": "Dowa",
+          "slug": "dowa-mw204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.567",
+      "lon": "33.778"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20406",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Msakambewa",
+      "en": "TA Msakambewa",
+      "slug": "ta-msakambewa-mw20406"
+    },
+    "code": {
+      "id": "MW20406",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW204",
+      "level": 2,
+      "name": {
+        "local": "Dowa",
+        "en": "Dowa",
+        "slug": "dowa-mw204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW204",
+        "level": 2,
+        "name": {
+          "local": "Dowa",
+          "en": "Dowa",
+          "slug": "dowa-mw204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.574",
+      "lon": "33.975"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

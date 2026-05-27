@@ -1,0 +1,380 @@
+[
+  {
+    "id": "MW10220",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Karonga Town",
+      "en": "Karonga Town",
+      "slug": "karonga-town-mw10220"
+    },
+    "code": {
+      "id": "MW10220",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW102",
+      "level": 2,
+      "name": {
+        "local": "Karonga",
+        "en": "Karonga",
+        "slug": "karonga-mw102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      },
+      {
+        "id": "MW102",
+        "level": 2,
+        "name": {
+          "local": "Karonga",
+          "en": "Karonga",
+          "slug": "karonga-mw102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.949",
+      "lon": "33.908"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW10206",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Nyika National Park-Karonga",
+      "en": "Nyika National Park-Karonga",
+      "slug": "nyika-national-park-karonga-mw10206"
+    },
+    "code": {
+      "id": "MW10206",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW102",
+      "level": 2,
+      "name": {
+        "local": "Karonga",
+        "en": "Karonga",
+        "slug": "karonga-mw102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      },
+      {
+        "id": "MW102",
+        "level": 2,
+        "name": {
+          "local": "Karonga",
+          "en": "Karonga",
+          "slug": "karonga-mw102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.365",
+      "lon": "33.988"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW10201",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Kilupula",
+      "en": "TA Kilupula",
+      "slug": "ta-kilupula-mw10201"
+    },
+    "code": {
+      "id": "MW10201",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW102",
+      "level": 2,
+      "name": {
+        "local": "Karonga",
+        "en": "Karonga",
+        "slug": "karonga-mw102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      },
+      {
+        "id": "MW102",
+        "level": 2,
+        "name": {
+          "local": "Karonga",
+          "en": "Karonga",
+          "slug": "karonga-mw102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.77",
+      "lon": "33.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW10203",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Kyungu",
+      "en": "TA Kyungu",
+      "slug": "ta-kyungu-mw10203"
+    },
+    "code": {
+      "id": "MW10203",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW102",
+      "level": 2,
+      "name": {
+        "local": "Karonga",
+        "en": "Karonga",
+        "slug": "karonga-mw102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      },
+      {
+        "id": "MW102",
+        "level": 2,
+        "name": {
+          "local": "Karonga",
+          "en": "Karonga",
+          "slug": "karonga-mw102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.027",
+      "lon": "33.781"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW10202",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Mwakaboko",
+      "en": "TA Mwakaboko",
+      "slug": "ta-mwakaboko-mw10202"
+    },
+    "code": {
+      "id": "MW10202",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW102",
+      "level": 2,
+      "name": {
+        "local": "Karonga",
+        "en": "Karonga",
+        "slug": "karonga-mw102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      },
+      {
+        "id": "MW102",
+        "level": 2,
+        "name": {
+          "local": "Karonga",
+          "en": "Karonga",
+          "slug": "karonga-mw102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.651",
+      "lon": "33.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW10205",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Mwirang'ombe",
+      "en": "TA Mwirang'ombe",
+      "slug": "ta-mwirangombe-mw10205"
+    },
+    "code": {
+      "id": "MW10205",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW102",
+      "level": 2,
+      "name": {
+        "local": "Karonga",
+        "en": "Karonga",
+        "slug": "karonga-mw102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      },
+      {
+        "id": "MW102",
+        "level": 2,
+        "name": {
+          "local": "Karonga",
+          "en": "Karonga",
+          "slug": "karonga-mw102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.321",
+      "lon": "34.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW10204",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Wasambo",
+      "en": "TA Wasambo",
+      "slug": "ta-wasambo-mw10204"
+    },
+    "code": {
+      "id": "MW10204",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW102",
+      "level": 2,
+      "name": {
+        "local": "Karonga",
+        "en": "Karonga",
+        "slug": "karonga-mw102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      },
+      {
+        "id": "MW102",
+        "level": 2,
+        "name": {
+          "local": "Karonga",
+          "en": "Karonga",
+          "slug": "karonga-mw102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.448",
+      "lon": "34.165"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

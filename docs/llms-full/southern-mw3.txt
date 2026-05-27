@@ -1,0 +1,800 @@
+# Southern — Malawi Administrative Divisions
+
+> 15 districts, 179 traditional authoritys
+> Code: MW3
+> Coordinates: -15.306, 35.179
+> Last updated: 2026-05-27. License: CC-BY-4.0.
+
+## Districts
+
+### Balaka
+
+Code: MW312, Coordinates: -15.034, 35.061
+Traditional Authoritys: 12
+
+#### Balaka Town
+
+Code: MW31220, Coordinates: -14.988, 34.958
+
+#### Liwonde Town
+
+Code: MW31221, Coordinates: -15.059, 35.209
+
+#### STA Kachenga
+
+Code: MW31203, Coordinates: -14.863, 35.044
+
+#### STA Matola
+
+Code: MW31209, Coordinates: -14.916, 34.945
+
+#### STA Phalula
+
+Code: MW31206, Coordinates: -15.231, 34.877
+
+#### STA Toleza
+
+Code: MW31210, Coordinates: -14.895, 34.996
+
+#### TA Amidu
+
+Code: MW31204, Coordinates: -14.969, 35.189
+
+#### TA Chanthunya
+
+Code: MW31207, Coordinates: -15.131, 34.927
+
+#### TA Kalembo
+
+Code: MW31202, Coordinates: -14.839, 35.186
+
+#### TA Msamala
+
+Code: MW31201, Coordinates: -15.057, 35.073
+
+#### TA Nkaya
+
+Code: MW31205, Coordinates: -15.2, 35.066
+
+#### TA Sawali
+
+Code: MW31208, Coordinates: -14.969, 35.058
+
+### Blantyre
+
+Code: MW305, Coordinates: -15.686, 34.929
+Traditional Authoritys: 8
+
+#### TA Chigaru
+
+Code: MW30503, Coordinates: -15.443, 34.943
+
+#### TA Kapeni
+
+Code: MW30501, Coordinates: -15.607, 35.025
+
+#### TA Kuntaja
+
+Code: MW30506, Coordinates: -15.658, 34.943
+
+#### TA Kunthembwe
+
+Code: MW30504, Coordinates: -15.675, 34.839
+
+#### TA Lundu
+
+Code: MW30502, Coordinates: -15.466, 35.054
+
+#### TA Machinjiri
+
+Code: MW30507, Coordinates: -15.681, 35.079
+
+#### TA Makata
+
+Code: MW30505, Coordinates: -15.594, 35.085
+
+#### TA Somba
+
+Code: MW30508, Coordinates: -15.914, 34.935
+
+### Blantyre City
+
+Code: MW315, Coordinates: -15.796, 35.051
+Traditional Authoritys: 23
+
+#### Bangwe Mthandizi Ward
+
+Code: MW31546, Coordinates: -15.821, 35.069
+
+#### Bangwe Ward
+
+Code: MW31545, Coordinates: -15.827, 35.089
+
+#### Blantyre City Centre Ward
+
+Code: MW31541, Coordinates: -15.799, 35.012
+
+#### Blantyre South Ward
+
+Code: MW31548, Coordinates: -15.806, 34.997
+
+#### Chigumula Ward
+
+Code: MW31552, Coordinates: -15.869, 35.078
+
+#### Chilomoni Ward
+
+Code: MW31540, Coordinates: -15.765, 34.98
+
+#### Green Corner Ward
+
+Code: MW31549, Coordinates: -15.836, 34.991
+
+#### Limbe Central Ward
+
+Code: MW31543, Coordinates: -15.81, 35.055
+
+#### Mapanga Ward
+
+Code: MW31533, Coordinates: -15.757, 35.094
+
+#### Mbayani Ward
+
+Code: MW31539, Coordinates: -15.77, 35.003
+
+#### Michiru Ward
+
+Code: MW31531, Coordinates: -15.733, 35.01
+
+#### Misesa Ward
+
+Code: MW31553, Coordinates: -15.842, 35.048
+
+#### Mzedi Ward
+
+Code: MW31544, Coordinates: -15.812, 35.101
+
+#### Namalimwe Ward
+
+Code: MW31542, Coordinates: -15.789, 35.025
+
+#### Namiyango Ward
+
+Code: MW31551, Coordinates: -15.838, 35.085
+
+#### Ndirande Gamulani Ward
+
+Code: MW31537, Coordinates: -15.757, 35.04
+
+#### Ndirande Makata Ward
+
+Code: MW31536, Coordinates: -15.767, 35.044
+
+#### Ndirande Matope Ward
+
+Code: MW31535, Coordinates: -15.775, 35.049
+
+#### Nkolokoti Ward
+
+Code: MW31534, Coordinates: -15.779, 35.071
+
+#### Nyambadwe Ward
+
+Code: MW31538, Coordinates: -15.767, 35.02
+
+#### Soche East Ward
+
+Code: MW31547, Coordinates: -15.81, 35.022
+
+#### Soche West Ward
+
+Code: MW31550, Coordinates: -15.831, 35.023
+
+#### South Lunzu Ward
+
+Code: MW31532, Coordinates: -15.733, 35.044
+
+### Chikwawa
+
+Code: MW310, Coordinates: -16.217, 34.674
+Traditional Authoritys: 15
+
+#### Chikwawa Boma
+
+Code: MW31020, Coordinates: -16.023, 34.789
+
+#### Lengwe National Park
+
+Code: MW31012, Coordinates: -16.216, 34.539
+
+#### Majete Game Reserve - Chikwawa
+
+Code: MW31013, Coordinates: -15.956, 34.585
+
+#### Ngabu Urban
+
+Code: MW31021, Coordinates: -16.463, 34.857
+
+#### STA Masache
+
+Code: MW31010, Coordinates: -16.604, 34.922
+
+#### STA Ndakwela
+
+Code: MW31008, Coordinates: -16.187, 34.706
+
+#### TA Chapananga
+
+Code: MW31003, Coordinates: -15.946, 34.392
+
+#### TA Kasisi
+
+Code: MW31006, Coordinates: -15.912, 34.811
+
+#### TA Katunga
+
+Code: MW31005, Coordinates: -16.1, 34.731
+
+#### TA Lundu
+
+Code: MW31002, Coordinates: -16.224, 34.873
+
+#### TA Makhwira
+
+Code: MW31007, Coordinates: -16.28, 35.008
+
+#### TA Maseya
+
+Code: MW31004, Coordinates: -16.131, 34.834
+
+#### TA Mlilima
+
+Code: MW31009, Coordinates: -15.986, 34.858
+
+#### TA Ngabu
+
+Code: MW31001, Coordinates: -16.443, 34.863
+
+#### TA Ngowe
+
+Code: MW31011, Coordinates: -16.495, 35.002
+
+### Chiradzulu
+
+Code: MW304, Coordinates: -15.765, 35.208
+Traditional Authoritys: 10
+
+#### Chiradzulu Boma
+
+Code: MW30420, Coordinates: -15.696, 35.188
+
+#### STA Mpunga
+
+Code: MW30407, Coordinates: -15.818, 35.264
+
+#### STA Onga
+
+Code: MW30409, Coordinates: -15.738, 35.191
+
+#### STA Sandareki
+
+Code: MW30408, Coordinates: -15.676, 35.278
+
+#### TA Chitera
+
+Code: MW30405, Coordinates: -15.61, 35.115
+
+#### TA Kadewere
+
+Code: MW30403, Coordinates: -15.705, 35.244
+
+#### TA Likoswe
+
+Code: MW30402, Coordinates: -15.805, 35.167
+
+#### TA Mpama
+
+Code: MW30401, Coordinates: -15.65, 35.158
+
+#### TA Nchema
+
+Code: MW30406, Coordinates: -15.606, 35.212
+
+#### TA Nkalo
+
+Code: MW30404, Coordinates: -15.917, 35.289
+
+### Machinga
+
+Code: MW302, Coordinates: -14.908, 35.518
+Traditional Authoritys: 19
+
+#### Liwonde National Park
+
+Code: MW30217, Coordinates: -14.878, 35.346
+
+#### Liwonde Town
+
+Code: MW30221, Coordinates: -15.059, 35.243
+
+#### Machinga Boma
+
+Code: MW30220, Coordinates: -15.176, 35.298
+
+#### STA Chesale
+
+Code: MW30216, Coordinates: -14.634, 35.764
+
+#### STA Nchinguza
+
+Code: MW30205, Coordinates: -14.954, 35.762
+
+#### STA Nsanama
+
+Code: MW30202, Coordinates: -15.036, 35.413
+
+#### TA Chamba
+
+Code: MW30208, Coordinates: -15.164, 35.414
+
+#### TA Chikweo
+
+Code: MW30211, Coordinates: -14.818, 35.735
+
+#### TA Chiwalo
+
+Code: MW30213, Coordinates: -14.762, 35.529
+
+#### TA Kapoloma
+
+Code: MW30214, Coordinates: -14.743, 35.575
+
+#### TA Kawinga
+
+Code: MW30206, Coordinates: -14.896, 35.586
+
+#### TA Liwonde
+
+Code: MW30201, Coordinates: -14.851, 35.471
+
+#### TA Mlomba
+
+Code: MW30210, Coordinates: -15.039, 35.491
+
+#### TA Mposa
+
+Code: MW30209, Coordinates: -15.165, 35.496
+
+#### TA Ngokwe
+
+Code: MW30212, Coordinates: -14.705, 35.797
+
+#### TA Nkoola
+
+Code: MW30207, Coordinates: -14.826, 35.617
+
+#### TA Nkula
+
+Code: MW30204, Coordinates: -15.204, 35.262
+
+#### TA Nyambi
+
+Code: MW30215, Coordinates: -14.663, 35.639
+
+#### TA Sitola
+
+Code: MW30203, Coordinates: -15.141, 35.277
+
+### Mangochi
+
+Code: MW301, Coordinates: -14.397, 34.987
+Traditional Authoritys: 17
+
+#### Lake Malawi National Park
+
+Code: MW30112, Coordinates: -14.059, 34.887
+
+#### Lake Malombe
+
+Code: MW30199, Coordinates: -14.537, 35.27
+
+#### Mangochi Town
+
+Code: MW30120, Coordinates: -14.481, 35.258
+
+#### Monkey Bay Urban
+
+Code: MW30121, Coordinates: -14.088, 34.914
+
+#### STA Chiunda
+
+Code: MW30114, Coordinates: -14.724, 35.426
+
+#### STA Lulanga
+
+Code: MW30110, Coordinates: -13.609, 34.912
+
+#### STA Ntonda
+
+Code: MW30113, Coordinates: -14.589, 34.893
+
+#### TA Chilipa
+
+Code: MW30103, Coordinates: -14.675, 34.958
+
+#### TA Chimwala
+
+Code: MW30102, Coordinates: -14.643, 35.101
+
+#### TA Chowe
+
+Code: MW30107, Coordinates: -14.579, 35.352
+
+#### TA Jalasi
+
+Code: MW30105, Coordinates: -14.386, 35.521
+
+#### TA Katuli
+
+Code: MW30108, Coordinates: -14.148, 35.429
+
+#### TA Makanjila
+
+Code: MW30109, Coordinates: -13.795, 35.12
+
+#### TA Mbwana Nyambi
+
+Code: MW30106, Coordinates: -14.56, 35.576
+
+#### TA Mponda
+
+Code: MW30101, Coordinates: -14.445, 35.088
+
+#### TA Namabvi
+
+Code: MW30111, Coordinates: -14.132, 35.224
+
+#### TA Nankumba
+
+Code: MW30104, Coordinates: -14.328, 34.901
+
+### Mulanje
+
+Code: MW308, Coordinates: -15.908, 35.544
+Traditional Authoritys: 10
+
+#### Mulanje Boma
+
+Code: MW30820, Coordinates: -16.013, 35.499
+
+#### Mulanje Mountain Reserve
+
+Code: MW30809, Coordinates: -15.937, 35.641
+
+#### STA Sunganinzeru
+
+Code: MW30807, Coordinates: -16.051, 35.616
+
+#### STA Tombondiya
+
+Code: MW30808, Coordinates: -16.161, 35.332
+
+#### TA Chikumbu
+
+Code: MW30803, Coordinates: -16.04, 35.44
+
+#### TA Juma
+
+Code: MW30806, Coordinates: -15.763, 35.358
+
+#### TA Laston Njema
+
+Code: MW30802, Coordinates: -16.016, 35.689
+
+#### TA Mabuka
+
+Code: MW30801, Coordinates: -16.054, 35.523
+
+#### TA Nkanda
+
+Code: MW30805, Coordinates: -15.845, 35.481
+
+#### TA Nthiramanja
+
+Code: MW30804, Coordinates: -15.999, 35.348
+
+### Mwanza
+
+Code: MW306, Coordinates: -15.615, 34.51
+Traditional Authoritys: 5
+
+#### Majete Game Reserve - Mwanza
+
+Code: MW30604, Coordinates: -15.797, 34.659
+
+#### Mwanza Boma
+
+Code: MW30620, Coordinates: -15.598, 34.521
+
+#### STA Govati
+
+Code: MW30603, Coordinates: -15.731, 34.415
+
+#### TA Kanduku
+
+Code: MW30601, Coordinates: -15.611, 34.557
+
+#### TA Nthache
+
+Code: MW30602, Coordinates: -15.604, 34.474
+
+### Neno
+
+Code: MW313, Coordinates: -15.497, 34.682
+Traditional Authoritys: 5
+
+#### Neno Boma
+
+Code: MW31320, Coordinates: -15.394, 34.653
+
+#### TA Chekucheku
+
+Code: MW31304, Coordinates: -15.345, 34.701
+
+#### TA Dambe
+
+Code: MW31301, Coordinates: -15.334, 34.599
+
+#### TA Mlauli
+
+Code: MW31302, Coordinates: -15.608, 34.667
+
+#### TA Symon Likongwe
+
+Code: MW31303, Coordinates: -15.455, 34.792
+
+### Nsanje
+
+Code: MW311, Coordinates: -16.786, 35.139
+Traditional Authoritys: 11
+
+#### Mwabvi Game Reserve
+
+Code: MW31110, Coordinates: -16.715, 35.015
+
+#### Nsanje Boma
+
+Code: MW31120, Coordinates: -16.923, 35.257
+
+#### TA Chimombo
+
+Code: MW31102, Coordinates: -17.027, 35.213
+
+#### TA Makoko
+
+Code: MW31109, Coordinates: -17.006, 35.129
+
+#### TA Malemia
+
+Code: MW31106, Coordinates: -16.909, 35.201
+
+#### TA Mbenje
+
+Code: MW31107, Coordinates: -16.601, 35.074
+
+#### TA Mlolo
+
+Code: MW31104, Coordinates: -16.433, 35.174
+
+#### TA Ndamera
+
+Code: MW31101, Coordinates: -17.074, 35.176
+
+#### TA Ngabu
+
+Code: MW31108, Coordinates: -16.979, 35.216
+
+#### TA Nyachikadza
+
+Code: MW31103, Coordinates: -17.055, 35.272
+
+#### TA Tengani
+
+Code: MW31105, Coordinates: -16.754, 35.196
+
+### Phalombe
+
+Code: MW309, Coordinates: -15.7, 35.672
+Traditional Authoritys: 7
+
+#### Phalombe Boma
+
+Code: MW30920, Coordinates: -15.8, 35.651
+
+#### TA Chiwalo
+
+Code: MW30903, Coordinates: -15.578, 35.774
+
+#### TA Jenala
+
+Code: MW30905, Coordinates: -15.584, 35.621
+
+#### TA Kaduya
+
+Code: MW30906, Coordinates: -15.705, 35.709
+
+#### TA Mkhumba
+
+Code: MW30901, Coordinates: -15.76, 35.571
+
+#### TA Nazombe
+
+Code: MW30902, Coordinates: -15.736, 35.787
+
+#### TA Nkhulambe
+
+Code: MW30904, Coordinates: -15.868, 35.773
+
+### Thyolo
+
+Code: MW307, Coordinates: -16.132, 35.145
+Traditional Authoritys: 16
+
+#### Luchenza Town
+
+Code: MW30721, Coordinates: -16.007, 35.301
+
+#### STA Boyidi
+
+Code: MW30714, Coordinates: -15.973, 35.108
+
+#### STA Mbawela
+
+Code: MW30703, Coordinates: -16.245, 35.229
+
+#### STA Thukuta
+
+Code: MW30702, Coordinates: -16.364, 35.253
+
+#### TA Bvumbwe
+
+Code: MW30710, Coordinates: -15.961, 35.048
+
+#### TA Changata
+
+Code: MW30704, Coordinates: -16.233, 35.133
+
+#### TA Chimaliro
+
+Code: MW30709, Coordinates: -15.936, 35.206
+
+#### TA Kapichi
+
+Code: MW30707, Coordinates: -16.119, 35.279
+
+#### TA Kwethemule
+
+Code: MW30706, Coordinates: -16.178, 35.089
+
+#### TA Mphuka
+
+Code: MW30705, Coordinates: -16.107, 35.01
+
+#### TA Nanseta
+
+Code: MW30712, Coordinates: -16.019, 35.251
+
+#### TA Nchilamwela
+
+Code: MW30708, Coordinates: -16.09, 35.168
+
+#### TA Ngolongoliwa
+
+Code: MW30713, Coordinates: -15.992, 35.188
+
+#### TA Nsabwe
+
+Code: MW30701, Coordinates: -16.312, 35.222
+
+#### TA Thomas
+
+Code: MW30711, Coordinates: -16.02, 34.965
+
+#### Thyolo Boma
+
+Code: MW30720, Coordinates: -16.071, 35.144
+
+### Zomba
+
+Code: MW303, Coordinates: -15.441, 35.34
+Traditional Authoritys: 11
+
+#### STA Ngwelero
+
+Code: MW30310, Coordinates: -15.614, 35.44
+
+#### STA Nkagula
+
+Code: MW30308, Coordinates: -15.356, 35.464
+
+#### STA Nkapita
+
+Code: MW30311, Coordinates: -15.284, 35.187
+
+#### STA Ntholowa
+
+Code: MW30309, Coordinates: -15.571, 35.265
+
+#### TA Chikowi
+
+Code: MW30304, Coordinates: -15.492, 35.328
+
+#### TA Kuntumanji
+
+Code: MW30301, Coordinates: -15.276, 35.479
+
+#### TA Malemia
+
+Code: MW30306, Coordinates: -15.287, 35.341
+
+#### TA Mbiza
+
+Code: MW30305, Coordinates: -15.6, 35.359
+
+#### TA Mkumbira
+
+Code: MW30303, Coordinates: -15.335, 35.614
+
+#### TA Mlumbe
+
+Code: MW30307, Coordinates: -15.425, 35.178
+
+#### TA Mwambo
+
+Code: MW30302, Coordinates: -15.468, 35.527
+
+### Zomba City
+
+Code: MW314, Coordinates: -15.395, 35.321
+Traditional Authoritys: 10
+
+#### Chambo Ward
+
+Code: MW31439, Coordinates: -15.397, 35.318
+
+#### Chinamwali Ward
+
+Code: MW31433, Coordinates: -15.376, 35.359
+
+#### Chirunga Ward
+
+Code: MW31434, Coordinates: -15.393, 35.349
+
+#### Likangala Ward
+
+Code: MW31438, Coordinates: -15.395, 35.333
+
+#### Masongola Ward
+
+Code: MW31436, Coordinates: -15.372, 35.338
+
+#### Mbedza Ward
+
+Code: MW31432, Coordinates: -15.404, 35.306
+
+#### Mpira Ward
+
+Code: MW31431, Coordinates: -15.413, 35.336
+
+#### Mtiya Ward
+
+Code: MW31435, Coordinates: -15.385, 35.307
+
+#### Sadzi Ward
+
+Code: MW31440, Coordinates: -15.411, 35.314
+
+#### Zomba Central Ward
+
+Code: MW31437, Coordinates: -15.392, 35.326
+

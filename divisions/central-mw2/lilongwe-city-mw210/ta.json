@@ -1,0 +1,3134 @@
+[
+  {
+    "id": "MW21031",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Area 1",
+      "en": "Area 1",
+      "slug": "area-1-mw21031"
+    },
+    "code": {
+      "id": "MW21031",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW210",
+      "level": 2,
+      "name": {
+        "local": "Lilongwe City",
+        "en": "Lilongwe City",
+        "slug": "lilongwe-city-mw210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW210",
+        "level": 2,
+        "name": {
+          "local": "Lilongwe City",
+          "en": "Lilongwe City",
+          "slug": "lilongwe-city-mw210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.002",
+      "lon": "33.782"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW21040",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Area 10",
+      "en": "Area 10",
+      "slug": "area-10-mw21040"
+    },
+    "code": {
+      "id": "MW21040",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW210",
+      "level": 2,
+      "name": {
+        "local": "Lilongwe City",
+        "en": "Lilongwe City",
+        "slug": "lilongwe-city-mw210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW210",
+        "level": 2,
+        "name": {
+          "local": "Lilongwe City",
+          "en": "Lilongwe City",
+          "slug": "lilongwe-city-mw210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.94",
+      "lon": "33.803"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW21041",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Area 11",
+      "en": "Area 11",
+      "slug": "area-11-mw21041"
+    },
+    "code": {
+      "id": "MW21041",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW210",
+      "level": 2,
+      "name": {
+        "local": "Lilongwe City",
+        "en": "Lilongwe City",
+        "slug": "lilongwe-city-mw210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW210",
+        "level": 2,
+        "name": {
+          "local": "Lilongwe City",
+          "en": "Lilongwe City",
+          "slug": "lilongwe-city-mw210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.954",
+      "lon": "33.798"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW21042",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Area 12",
+      "en": "Area 12",
+      "slug": "area-12-mw21042"
+    },
+    "code": {
+      "id": "MW21042",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW210",
+      "level": 2,
+      "name": {
+        "local": "Lilongwe City",
+        "en": "Lilongwe City",
+        "slug": "lilongwe-city-mw210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW210",
+        "level": 2,
+        "name": {
+          "local": "Lilongwe City",
+          "en": "Lilongwe City",
+          "slug": "lilongwe-city-mw210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.955",
+      "lon": "33.81"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW21043",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Area 13",
+      "en": "Area 13",
+      "slug": "area-13-mw21043"
+    },
+    "code": {
+      "id": "MW21043",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW210",
+      "level": 2,
+      "name": {
+        "local": "Lilongwe City",
+        "en": "Lilongwe City",
+        "slug": "lilongwe-city-mw210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW210",
+        "level": 2,
+        "name": {
+          "local": "Lilongwe City",
+          "en": "Lilongwe City",
+          "slug": "lilongwe-city-mw210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.965",
+      "lon": "33.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW21044",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Area 14",
+      "en": "Area 14",
+      "slug": "area-14-mw21044"
+    },
+    "code": {
+      "id": "MW21044",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW210",
+      "level": 2,
+      "name": {
+        "local": "Lilongwe City",
+        "en": "Lilongwe City",
+        "slug": "lilongwe-city-mw210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW210",
+        "level": 2,
+        "name": {
+          "local": "Lilongwe City",
+          "en": "Lilongwe City",
+          "slug": "lilongwe-city-mw210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.95",
+      "lon": "33.781"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW21045",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Area 15",
+      "en": "Area 15",
+      "slug": "area-15-mw21045"
+    },
+    "code": {
+      "id": "MW21045",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW210",
+      "level": 2,
+      "name": {
+        "local": "Lilongwe City",
+        "en": "Lilongwe City",
+        "slug": "lilongwe-city-mw210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW210",
+        "level": 2,
+        "name": {
+          "local": "Lilongwe City",
+          "en": "Lilongwe City",
+          "slug": "lilongwe-city-mw210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.961",
+      "lon": "33.769"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW21046",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Area 16",
+      "en": "Area 16",
+      "slug": "area-16-mw21046"
+    },
+    "code": {
+      "id": "MW21046",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW210",
+      "level": 2,
+      "name": {
+        "local": "Lilongwe City",
+        "en": "Lilongwe City",
+        "slug": "lilongwe-city-mw210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW210",
+        "level": 2,
+        "name": {
+          "local": "Lilongwe City",
+          "en": "Lilongwe City",
+          "slug": "lilongwe-city-mw210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.965",
+      "lon": "33.79"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW21047",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Area 17",
+      "en": "Area 17",
+      "slug": "area-17-mw21047"
+    },
+    "code": {
+      "id": "MW21047",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW210",
+      "level": 2,
+      "name": {
+        "local": "Lilongwe City",
+        "en": "Lilongwe City",
+        "slug": "lilongwe-city-mw210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW210",
+        "level": 2,
+        "name": {
+          "local": "Lilongwe City",
+          "en": "Lilongwe City",
+          "slug": "lilongwe-city-mw210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.975",
+      "lon": "33.806"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW21048",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Area 18",
+      "en": "Area 18",
+      "slug": "area-18-mw21048"
+    },
+    "code": {
+      "id": "MW21048",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW210",
+      "level": 2,
+      "name": {
+        "local": "Lilongwe City",
+        "en": "Lilongwe City",
+        "slug": "lilongwe-city-mw210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW210",
+        "level": 2,
+        "name": {
+          "local": "Lilongwe City",
+          "en": "Lilongwe City",
+          "slug": "lilongwe-city-mw210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.941",
+      "lon": "33.773"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW21049",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Area 19",
+      "en": "Area 19",
+      "slug": "area-19-mw21049"
+    },
+    "code": {
+      "id": "MW21049",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW210",
+      "level": 2,
+      "name": {
+        "local": "Lilongwe City",
+        "en": "Lilongwe City",
+        "slug": "lilongwe-city-mw210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW210",
+        "level": 2,
+        "name": {
+          "local": "Lilongwe City",
+          "en": "Lilongwe City",
+          "slug": "lilongwe-city-mw210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.959",
+      "lon": "33.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW21032",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Area 2",
+      "en": "Area 2",
+      "slug": "area-2-mw21032"
+    },
+    "code": {
+      "id": "MW21032",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW210",
+      "level": 2,
+      "name": {
+        "local": "Lilongwe City",
+        "en": "Lilongwe City",
+        "slug": "lilongwe-city-mw210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW210",
+        "level": 2,
+        "name": {
+          "local": "Lilongwe City",
+          "en": "Lilongwe City",
+          "slug": "lilongwe-city-mw210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.987",
+      "lon": "33.779"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW21050",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Area 20",
+      "en": "Area 20",
+      "slug": "area-20-mw21050"
+    },
+    "code": {
+      "id": "MW21050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW210",
+      "level": 2,
+      "name": {
+        "local": "Lilongwe City",
+        "en": "Lilongwe City",
+        "slug": "lilongwe-city-mw210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW210",
+        "level": 2,
+        "name": {
+          "local": "Lilongwe City",
+          "en": "Lilongwe City",
+          "slug": "lilongwe-city-mw210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.943",
+      "lon": "33.789"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW21051",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Area 21",
+      "en": "Area 21",
+      "slug": "area-21-mw21051"
+    },
+    "code": {
+      "id": "MW21051",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW210",
+      "level": 2,
+      "name": {
+        "local": "Lilongwe City",
+        "en": "Lilongwe City",
+        "slug": "lilongwe-city-mw210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW210",
+        "level": 2,
+        "name": {
+          "local": "Lilongwe City",
+          "en": "Lilongwe City",
+          "slug": "lilongwe-city-mw210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.993",
+      "lon": "33.811"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW21052",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Area 22",
+      "en": "Area 22",
+      "slug": "area-22-mw21052"
+    },
+    "code": {
+      "id": "MW21052",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW210",
+      "level": 2,
+      "name": {
+        "local": "Lilongwe City",
+        "en": "Lilongwe City",
+        "slug": "lilongwe-city-mw210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW210",
+        "level": 2,
+        "name": {
+          "local": "Lilongwe City",
+          "en": "Lilongwe City",
+          "slug": "lilongwe-city-mw210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.008",
+      "lon": "33.799"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW21053",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Area 23",
+      "en": "Area 23",
+      "slug": "area-23-mw21053"
+    },
+    "code": {
+      "id": "MW21053",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW210",
+      "level": 2,
+      "name": {
+        "local": "Lilongwe City",
+        "en": "Lilongwe City",
+        "slug": "lilongwe-city-mw210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW210",
+        "level": 2,
+        "name": {
+          "local": "Lilongwe City",
+          "en": "Lilongwe City",
+          "slug": "lilongwe-city-mw210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.014",
+      "lon": "33.819"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW21054",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Area 24",
+      "en": "Area 24",
+      "slug": "area-24-mw21054"
+    },
+    "code": {
+      "id": "MW21054",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW210",
+      "level": 2,
+      "name": {
+        "local": "Lilongwe City",
+        "en": "Lilongwe City",
+        "slug": "lilongwe-city-mw210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW210",
+        "level": 2,
+        "name": {
+          "local": "Lilongwe City",
+          "en": "Lilongwe City",
+          "slug": "lilongwe-city-mw210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.027",
+      "lon": "33.808"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW21055",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Area 25",
+      "en": "Area 25",
+      "slug": "area-25-mw21055"
+    },
+    "code": {
+      "id": "MW21055",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW210",
+      "level": 2,
+      "name": {
+        "local": "Lilongwe City",
+        "en": "Lilongwe City",
+        "slug": "lilongwe-city-mw210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW210",
+        "level": 2,
+        "name": {
+          "local": "Lilongwe City",
+          "en": "Lilongwe City",
+          "slug": "lilongwe-city-mw210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.873",
+      "lon": "33.762"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW21056",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Area 26",
+      "en": "Area 26",
+      "slug": "area-26-mw21056"
+    },
+    "code": {
+      "id": "MW21056",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW210",
+      "level": 2,
+      "name": {
+        "local": "Lilongwe City",
+        "en": "Lilongwe City",
+        "slug": "lilongwe-city-mw210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW210",
+        "level": 2,
+        "name": {
+          "local": "Lilongwe City",
+          "en": "Lilongwe City",
+          "slug": "lilongwe-city-mw210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.87",
+      "lon": "33.793"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW21057",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Area 27",
+      "en": "Area 27",
+      "slug": "area-27-mw21057"
+    },
+    "code": {
+      "id": "MW21057",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW210",
+      "level": 2,
+      "name": {
+        "local": "Lilongwe City",
+        "en": "Lilongwe City",
+        "slug": "lilongwe-city-mw210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW210",
+        "level": 2,
+        "name": {
+          "local": "Lilongwe City",
+          "en": "Lilongwe City",
+          "slug": "lilongwe-city-mw210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.879",
+      "lon": "33.811"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW21058",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Area 28",
+      "en": "Area 28",
+      "slug": "area-28-mw21058"
+    },
+    "code": {
+      "id": "MW21058",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW210",
+      "level": 2,
+      "name": {
+        "local": "Lilongwe City",
+        "en": "Lilongwe City",
+        "slug": "lilongwe-city-mw210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW210",
+        "level": 2,
+        "name": {
+          "local": "Lilongwe City",
+          "en": "Lilongwe City",
+          "slug": "lilongwe-city-mw210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.91",
+      "lon": "33.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW21059",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Area 29",
+      "en": "Area 29",
+      "slug": "area-29-mw21059"
+    },
+    "code": {
+      "id": "MW21059",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW210",
+      "level": 2,
+      "name": {
+        "local": "Lilongwe City",
+        "en": "Lilongwe City",
+        "slug": "lilongwe-city-mw210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW210",
+        "level": 2,
+        "name": {
+          "local": "Lilongwe City",
+          "en": "Lilongwe City",
+          "slug": "lilongwe-city-mw210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.896",
+      "lon": "33.798"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW21033",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Area 3",
+      "en": "Area 3",
+      "slug": "area-3-mw21033"
+    },
+    "code": {
+      "id": "MW21033",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW210",
+      "level": 2,
+      "name": {
+        "local": "Lilongwe City",
+        "en": "Lilongwe City",
+        "slug": "lilongwe-city-mw210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW210",
+        "level": 2,
+        "name": {
+          "local": "Lilongwe City",
+          "en": "Lilongwe City",
+          "slug": "lilongwe-city-mw210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.996",
+      "lon": "33.758"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW21060",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Area 30",
+      "en": "Area 30",
+      "slug": "area-30-mw21060"
+    },
+    "code": {
+      "id": "MW21060",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW210",
+      "level": 2,
+      "name": {
+        "local": "Lilongwe City",
+        "en": "Lilongwe City",
+        "slug": "lilongwe-city-mw210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW210",
+        "level": 2,
+        "name": {
+          "local": "Lilongwe City",
+          "en": "Lilongwe City",
+          "slug": "lilongwe-city-mw210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.926",
+      "lon": "33.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW21061",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Area 31",
+      "en": "Area 31",
+      "slug": "area-31-mw21061"
+    },
+    "code": {
+      "id": "MW21061",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW210",
+      "level": 2,
+      "name": {
+        "local": "Lilongwe City",
+        "en": "Lilongwe City",
+        "slug": "lilongwe-city-mw210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW210",
+        "level": 2,
+        "name": {
+          "local": "Lilongwe City",
+          "en": "Lilongwe City",
+          "slug": "lilongwe-city-mw210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.953",
+      "lon": "33.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW21062",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Area 32",
+      "en": "Area 32",
+      "slug": "area-32-mw21062"
+    },
+    "code": {
+      "id": "MW21062",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW210",
+      "level": 2,
+      "name": {
+        "local": "Lilongwe City",
+        "en": "Lilongwe City",
+        "slug": "lilongwe-city-mw210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW210",
+        "level": 2,
+        "name": {
+          "local": "Lilongwe City",
+          "en": "Lilongwe City",
+          "slug": "lilongwe-city-mw210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.964",
+      "lon": "33.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW21063",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Area 33",
+      "en": "Area 33",
+      "slug": "area-33-mw21063"
+    },
+    "code": {
+      "id": "MW21063",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW210",
+      "level": 2,
+      "name": {
+        "local": "Lilongwe City",
+        "en": "Lilongwe City",
+        "slug": "lilongwe-city-mw210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW210",
+        "level": 2,
+        "name": {
+          "local": "Lilongwe City",
+          "en": "Lilongwe City",
+          "slug": "lilongwe-city-mw210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.976",
+      "lon": "33.788"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW21064",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Area 34",
+      "en": "Area 34",
+      "slug": "area-34-mw21064"
+    },
+    "code": {
+      "id": "MW21064",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW210",
+      "level": 2,
+      "name": {
+        "local": "Lilongwe City",
+        "en": "Lilongwe City",
+        "slug": "lilongwe-city-mw210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW210",
+        "level": 2,
+        "name": {
+          "local": "Lilongwe City",
+          "en": "Lilongwe City",
+          "slug": "lilongwe-city-mw210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.967",
+      "lon": "33.806"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW21065",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Area 35",
+      "en": "Area 35",
+      "slug": "area-35-mw21065"
+    },
+    "code": {
+      "id": "MW21065",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW210",
+      "level": 2,
+      "name": {
+        "local": "Lilongwe City",
+        "en": "Lilongwe City",
+        "slug": "lilongwe-city-mw210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW210",
+        "level": 2,
+        "name": {
+          "local": "Lilongwe City",
+          "en": "Lilongwe City",
+          "slug": "lilongwe-city-mw210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.982",
+      "lon": "33.823"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW21066",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Area 36",
+      "en": "Area 36",
+      "slug": "area-36-mw21066"
+    },
+    "code": {
+      "id": "MW21066",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW210",
+      "level": 2,
+      "name": {
+        "local": "Lilongwe City",
+        "en": "Lilongwe City",
+        "slug": "lilongwe-city-mw210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW210",
+        "level": 2,
+        "name": {
+          "local": "Lilongwe City",
+          "en": "Lilongwe City",
+          "slug": "lilongwe-city-mw210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.029",
+      "lon": "33.785"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW21067",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Area 37",
+      "en": "Area 37",
+      "slug": "area-37-mw21067"
+    },
+    "code": {
+      "id": "MW21067",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW210",
+      "level": 2,
+      "name": {
+        "local": "Lilongwe City",
+        "en": "Lilongwe City",
+        "slug": "lilongwe-city-mw210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW210",
+        "level": 2,
+        "name": {
+          "local": "Lilongwe City",
+          "en": "Lilongwe City",
+          "slug": "lilongwe-city-mw210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.003",
+      "lon": "33.772"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW21068",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Area 38",
+      "en": "Area 38",
+      "slug": "area-38-mw21068"
+    },
+    "code": {
+      "id": "MW21068",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW210",
+      "level": 2,
+      "name": {
+        "local": "Lilongwe City",
+        "en": "Lilongwe City",
+        "slug": "lilongwe-city-mw210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW210",
+        "level": 2,
+        "name": {
+          "local": "Lilongwe City",
+          "en": "Lilongwe City",
+          "slug": "lilongwe-city-mw210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.047",
+      "lon": "33.811"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW21069",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Area 39",
+      "en": "Area 39",
+      "slug": "area-39-mw21069"
+    },
+    "code": {
+      "id": "MW21069",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW210",
+      "level": 2,
+      "name": {
+        "local": "Lilongwe City",
+        "en": "Lilongwe City",
+        "slug": "lilongwe-city-mw210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW210",
+        "level": 2,
+        "name": {
+          "local": "Lilongwe City",
+          "en": "Lilongwe City",
+          "slug": "lilongwe-city-mw210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.9",
+      "lon": "33.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW21034",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Area 4",
+      "en": "Area 4",
+      "slug": "area-4-mw21034"
+    },
+    "code": {
+      "id": "MW21034",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW210",
+      "level": 2,
+      "name": {
+        "local": "Lilongwe City",
+        "en": "Lilongwe City",
+        "slug": "lilongwe-city-mw210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW210",
+        "level": 2,
+        "name": {
+          "local": "Lilongwe City",
+          "en": "Lilongwe City",
+          "slug": "lilongwe-city-mw210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.981",
+      "lon": "33.771"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW21070",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Area 40",
+      "en": "Area 40",
+      "slug": "area-40-mw21070"
+    },
+    "code": {
+      "id": "MW21070",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW210",
+      "level": 2,
+      "name": {
+        "local": "Lilongwe City",
+        "en": "Lilongwe City",
+        "slug": "lilongwe-city-mw210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW210",
+        "level": 2,
+        "name": {
+          "local": "Lilongwe City",
+          "en": "Lilongwe City",
+          "slug": "lilongwe-city-mw210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.961",
+      "lon": "33.787"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW21071",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Area 41",
+      "en": "Area 41",
+      "slug": "area-41-mw21071"
+    },
+    "code": {
+      "id": "MW21071",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW210",
+      "level": 2,
+      "name": {
+        "local": "Lilongwe City",
+        "en": "Lilongwe City",
+        "slug": "lilongwe-city-mw210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW210",
+        "level": 2,
+        "name": {
+          "local": "Lilongwe City",
+          "en": "Lilongwe City",
+          "slug": "lilongwe-city-mw210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.958",
+      "lon": "33.823"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW21072",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Area 42",
+      "en": "Area 42",
+      "slug": "area-42-mw21072"
+    },
+    "code": {
+      "id": "MW21072",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW210",
+      "level": 2,
+      "name": {
+        "local": "Lilongwe City",
+        "en": "Lilongwe City",
+        "slug": "lilongwe-city-mw210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW210",
+        "level": 2,
+        "name": {
+          "local": "Lilongwe City",
+          "en": "Lilongwe City",
+          "slug": "lilongwe-city-mw210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.949",
+      "lon": "33.799"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW21073",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Area 43",
+      "en": "Area 43",
+      "slug": "area-43-mw21073"
+    },
+    "code": {
+      "id": "MW21073",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW210",
+      "level": 2,
+      "name": {
+        "local": "Lilongwe City",
+        "en": "Lilongwe City",
+        "slug": "lilongwe-city-mw210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW210",
+        "level": 2,
+        "name": {
+          "local": "Lilongwe City",
+          "en": "Lilongwe City",
+          "slug": "lilongwe-city-mw210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.921",
+      "lon": "33.803"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW21074",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Area 44",
+      "en": "Area 44",
+      "slug": "area-44-mw21074"
+    },
+    "code": {
+      "id": "MW21074",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW210",
+      "level": 2,
+      "name": {
+        "local": "Lilongwe City",
+        "en": "Lilongwe City",
+        "slug": "lilongwe-city-mw210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW210",
+        "level": 2,
+        "name": {
+          "local": "Lilongwe City",
+          "en": "Lilongwe City",
+          "slug": "lilongwe-city-mw210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.944",
+      "lon": "33.838"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW21075",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Area 45",
+      "en": "Area 45",
+      "slug": "area-45-mw21075"
+    },
+    "code": {
+      "id": "MW21075",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW210",
+      "level": 2,
+      "name": {
+        "local": "Lilongwe City",
+        "en": "Lilongwe City",
+        "slug": "lilongwe-city-mw210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW210",
+        "level": 2,
+        "name": {
+          "local": "Lilongwe City",
+          "en": "Lilongwe City",
+          "slug": "lilongwe-city-mw210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.022",
+      "lon": "33.746"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW21076",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Area 46",
+      "en": "Area 46",
+      "slug": "area-46-mw21076"
+    },
+    "code": {
+      "id": "MW21076",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW210",
+      "level": 2,
+      "name": {
+        "local": "Lilongwe City",
+        "en": "Lilongwe City",
+        "slug": "lilongwe-city-mw210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW210",
+        "level": 2,
+        "name": {
+          "local": "Lilongwe City",
+          "en": "Lilongwe City",
+          "slug": "lilongwe-city-mw210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.995",
+      "lon": "33.734"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW21077",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Area 47",
+      "en": "Area 47",
+      "slug": "area-47-mw21077"
+    },
+    "code": {
+      "id": "MW21077",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW210",
+      "level": 2,
+      "name": {
+        "local": "Lilongwe City",
+        "en": "Lilongwe City",
+        "slug": "lilongwe-city-mw210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW210",
+        "level": 2,
+        "name": {
+          "local": "Lilongwe City",
+          "en": "Lilongwe City",
+          "slug": "lilongwe-city-mw210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.959",
+      "lon": "33.749"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW21078",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Area 48",
+      "en": "Area 48",
+      "slug": "area-48-mw21078"
+    },
+    "code": {
+      "id": "MW21078",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW210",
+      "level": 2,
+      "name": {
+        "local": "Lilongwe City",
+        "en": "Lilongwe City",
+        "slug": "lilongwe-city-mw210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW210",
+        "level": 2,
+        "name": {
+          "local": "Lilongwe City",
+          "en": "Lilongwe City",
+          "slug": "lilongwe-city-mw210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.946",
+      "lon": "33.753"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW21079",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Area 49",
+      "en": "Area 49",
+      "slug": "area-49-mw21079"
+    },
+    "code": {
+      "id": "MW21079",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW210",
+      "level": 2,
+      "name": {
+        "local": "Lilongwe City",
+        "en": "Lilongwe City",
+        "slug": "lilongwe-city-mw210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW210",
+        "level": 2,
+        "name": {
+          "local": "Lilongwe City",
+          "en": "Lilongwe City",
+          "slug": "lilongwe-city-mw210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.927",
+      "lon": "33.747"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW21035",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Area 5",
+      "en": "Area 5",
+      "slug": "area-5-mw21035"
+    },
+    "code": {
+      "id": "MW21035",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW210",
+      "level": 2,
+      "name": {
+        "local": "Lilongwe City",
+        "en": "Lilongwe City",
+        "slug": "lilongwe-city-mw210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW210",
+        "level": 2,
+        "name": {
+          "local": "Lilongwe City",
+          "en": "Lilongwe City",
+          "slug": "lilongwe-city-mw210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.978",
+      "lon": "33.765"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW21080",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Area 50",
+      "en": "Area 50",
+      "slug": "area-50-mw21080"
+    },
+    "code": {
+      "id": "MW21080",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW210",
+      "level": 2,
+      "name": {
+        "local": "Lilongwe City",
+        "en": "Lilongwe City",
+        "slug": "lilongwe-city-mw210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW210",
+        "level": 2,
+        "name": {
+          "local": "Lilongwe City",
+          "en": "Lilongwe City",
+          "slug": "lilongwe-city-mw210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.916",
+      "lon": "33.77"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW21081",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Area 51",
+      "en": "Area 51",
+      "slug": "area-51-mw21081"
+    },
+    "code": {
+      "id": "MW21081",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW210",
+      "level": 2,
+      "name": {
+        "local": "Lilongwe City",
+        "en": "Lilongwe City",
+        "slug": "lilongwe-city-mw210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW210",
+        "level": 2,
+        "name": {
+          "local": "Lilongwe City",
+          "en": "Lilongwe City",
+          "slug": "lilongwe-city-mw210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.9",
+      "lon": "33.781"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW21082",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Area 52",
+      "en": "Area 52",
+      "slug": "area-52-mw21082"
+    },
+    "code": {
+      "id": "MW21082",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW210",
+      "level": 2,
+      "name": {
+        "local": "Lilongwe City",
+        "en": "Lilongwe City",
+        "slug": "lilongwe-city-mw210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW210",
+        "level": 2,
+        "name": {
+          "local": "Lilongwe City",
+          "en": "Lilongwe City",
+          "slug": "lilongwe-city-mw210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.782",
+      "lon": "33.779"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW21083",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Area 53",
+      "en": "Area 53",
+      "slug": "area-53-mw21083"
+    },
+    "code": {
+      "id": "MW21083",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW210",
+      "level": 2,
+      "name": {
+        "local": "Lilongwe City",
+        "en": "Lilongwe City",
+        "slug": "lilongwe-city-mw210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW210",
+        "level": 2,
+        "name": {
+          "local": "Lilongwe City",
+          "en": "Lilongwe City",
+          "slug": "lilongwe-city-mw210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.78",
+      "lon": "33.823"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW21084",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Area 54",
+      "en": "Area 54",
+      "slug": "area-54-mw21084"
+    },
+    "code": {
+      "id": "MW21084",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW210",
+      "level": 2,
+      "name": {
+        "local": "Lilongwe City",
+        "en": "Lilongwe City",
+        "slug": "lilongwe-city-mw210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW210",
+        "level": 2,
+        "name": {
+          "local": "Lilongwe City",
+          "en": "Lilongwe City",
+          "slug": "lilongwe-city-mw210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.836",
+      "lon": "33.813"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW21085",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Area 55",
+      "en": "Area 55",
+      "slug": "area-55-mw21085"
+    },
+    "code": {
+      "id": "MW21085",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW210",
+      "level": 2,
+      "name": {
+        "local": "Lilongwe City",
+        "en": "Lilongwe City",
+        "slug": "lilongwe-city-mw210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW210",
+        "level": 2,
+        "name": {
+          "local": "Lilongwe City",
+          "en": "Lilongwe City",
+          "slug": "lilongwe-city-mw210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.833",
+      "lon": "33.761"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW21086",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Area 56",
+      "en": "Area 56",
+      "slug": "area-56-mw21086"
+    },
+    "code": {
+      "id": "MW21086",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW210",
+      "level": 2,
+      "name": {
+        "local": "Lilongwe City",
+        "en": "Lilongwe City",
+        "slug": "lilongwe-city-mw210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW210",
+        "level": 2,
+        "name": {
+          "local": "Lilongwe City",
+          "en": "Lilongwe City",
+          "slug": "lilongwe-city-mw210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.956",
+      "lon": "33.726"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW21087",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Area 57",
+      "en": "Area 57",
+      "slug": "area-57-mw21087"
+    },
+    "code": {
+      "id": "MW21087",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW210",
+      "level": 2,
+      "name": {
+        "local": "Lilongwe City",
+        "en": "Lilongwe City",
+        "slug": "lilongwe-city-mw210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW210",
+        "level": 2,
+        "name": {
+          "local": "Lilongwe City",
+          "en": "Lilongwe City",
+          "slug": "lilongwe-city-mw210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.009",
+      "lon": "33.718"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW21088",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Area 58",
+      "en": "Area 58",
+      "slug": "area-58-mw21088"
+    },
+    "code": {
+      "id": "MW21088",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW210",
+      "level": 2,
+      "name": {
+        "local": "Lilongwe City",
+        "en": "Lilongwe City",
+        "slug": "lilongwe-city-mw210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW210",
+        "level": 2,
+        "name": {
+          "local": "Lilongwe City",
+          "en": "Lilongwe City",
+          "slug": "lilongwe-city-mw210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.035",
+      "lon": "33.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW21036",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Area 6",
+      "en": "Area 6",
+      "slug": "area-6-mw21036"
+    },
+    "code": {
+      "id": "MW21036",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW210",
+      "level": 2,
+      "name": {
+        "local": "Lilongwe City",
+        "en": "Lilongwe City",
+        "slug": "lilongwe-city-mw210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW210",
+        "level": 2,
+        "name": {
+          "local": "Lilongwe City",
+          "en": "Lilongwe City",
+          "slug": "lilongwe-city-mw210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.969",
+      "lon": "33.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW21037",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Area 7",
+      "en": "Area 7",
+      "slug": "area-7-mw21037"
+    },
+    "code": {
+      "id": "MW21037",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW210",
+      "level": 2,
+      "name": {
+        "local": "Lilongwe City",
+        "en": "Lilongwe City",
+        "slug": "lilongwe-city-mw210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW210",
+        "level": 2,
+        "name": {
+          "local": "Lilongwe City",
+          "en": "Lilongwe City",
+          "slug": "lilongwe-city-mw210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.985",
+      "lon": "33.797"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW21038",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Area 8",
+      "en": "Area 8",
+      "slug": "area-8-mw21038"
+    },
+    "code": {
+      "id": "MW21038",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW210",
+      "level": 2,
+      "name": {
+        "local": "Lilongwe City",
+        "en": "Lilongwe City",
+        "slug": "lilongwe-city-mw210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW210",
+        "level": 2,
+        "name": {
+          "local": "Lilongwe City",
+          "en": "Lilongwe City",
+          "slug": "lilongwe-city-mw210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.998",
+      "lon": "33.79"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW21039",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Area 9",
+      "en": "Area 9",
+      "slug": "area-9-mw21039"
+    },
+    "code": {
+      "id": "MW21039",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW210",
+      "level": 2,
+      "name": {
+        "local": "Lilongwe City",
+        "en": "Lilongwe City",
+        "slug": "lilongwe-city-mw210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW210",
+        "level": 2,
+        "name": {
+          "local": "Lilongwe City",
+          "en": "Lilongwe City",
+          "slug": "lilongwe-city-mw210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.982",
+      "lon": "33.748"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

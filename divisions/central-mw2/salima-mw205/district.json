@@ -1,0 +1,47 @@
+{
+  "id": "MW205",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Salima",
+    "en": "Salima",
+    "slug": "salima-mw205"
+  },
+  "code": {
+    "id": "MW205",
+    "iso": null
+  },
+  "parent": {
+    "id": "MW2",
+    "level": 1,
+    "name": {
+      "local": "Central",
+      "en": "Central",
+      "slug": "central-mw2"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MW2",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-mw2"
+      }
+    }
+  ],
+  "children_count": {
+    "ta": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-13.767",
+    "lon": "34.454"
+  },
+  "metadata": {},
+  "source": {}
+}

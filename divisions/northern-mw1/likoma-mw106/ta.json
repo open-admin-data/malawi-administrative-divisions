@@ -1,0 +1,110 @@
+[
+  {
+    "id": "MW10620",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Likoma Boma",
+      "en": "Likoma Boma",
+      "slug": "likoma-boma-mw10620"
+    },
+    "code": {
+      "id": "MW10620",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW106",
+      "level": 2,
+      "name": {
+        "local": "Likoma",
+        "en": "Likoma",
+        "slug": "likoma-mw106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      },
+      {
+        "id": "MW106",
+        "level": 2,
+        "name": {
+          "local": "Likoma",
+          "en": "Likoma",
+          "slug": "likoma-mw106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.063",
+      "lon": "34.737"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW10601",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Mkumpha",
+      "en": "TA Mkumpha",
+      "slug": "ta-mkumpha-mw10601"
+    },
+    "code": {
+      "id": "MW10601",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW106",
+      "level": 2,
+      "name": {
+        "local": "Likoma",
+        "en": "Likoma",
+        "slug": "likoma-mw106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      },
+      {
+        "id": "MW106",
+        "level": 2,
+        "name": {
+          "local": "Likoma",
+          "en": "Likoma",
+          "slug": "likoma-mw106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.066",
+      "lon": "34.725"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

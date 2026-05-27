@@ -1,0 +1,47 @@
+{
+  "id": "MW312",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Balaka",
+    "en": "Balaka",
+    "slug": "balaka-mw312"
+  },
+  "code": {
+    "id": "MW312",
+    "iso": null
+  },
+  "parent": {
+    "id": "MW3",
+    "level": 1,
+    "name": {
+      "local": "Southern",
+      "en": "Southern",
+      "slug": "southern-mw3"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MW3",
+      "level": 1,
+      "name": {
+        "local": "Southern",
+        "en": "Southern",
+        "slug": "southern-mw3"
+      }
+    }
+  ],
+  "children_count": {
+    "ta": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-15.034",
+    "lon": "35.061"
+  },
+  "metadata": {},
+  "source": {}
+}

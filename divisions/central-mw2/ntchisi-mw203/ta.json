@@ -1,0 +1,434 @@
+[
+  {
+    "id": "MW20320",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Ntchisi Boma",
+      "en": "Ntchisi Boma",
+      "slug": "ntchisi-boma-mw20320"
+    },
+    "code": {
+      "id": "MW20320",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW203",
+      "level": 2,
+      "name": {
+        "local": "Ntchisi",
+        "en": "Ntchisi",
+        "slug": "ntchisi-mw203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW203",
+        "level": 2,
+        "name": {
+          "local": "Ntchisi",
+          "en": "Ntchisi",
+          "slug": "ntchisi-mw203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.349",
+      "lon": "33.919"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20302",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Chikho",
+      "en": "TA Chikho",
+      "slug": "ta-chikho-mw20302"
+    },
+    "code": {
+      "id": "MW20302",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW203",
+      "level": 2,
+      "name": {
+        "local": "Ntchisi",
+        "en": "Ntchisi",
+        "slug": "ntchisi-mw203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW203",
+        "level": 2,
+        "name": {
+          "local": "Ntchisi",
+          "en": "Ntchisi",
+          "slug": "ntchisi-mw203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.465",
+      "lon": "34.056"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20305",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Chilooko",
+      "en": "TA Chilooko",
+      "slug": "ta-chilooko-mw20305"
+    },
+    "code": {
+      "id": "MW20305",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW203",
+      "level": 2,
+      "name": {
+        "local": "Ntchisi",
+        "en": "Ntchisi",
+        "slug": "ntchisi-mw203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW203",
+        "level": 2,
+        "name": {
+          "local": "Ntchisi",
+          "en": "Ntchisi",
+          "slug": "ntchisi-mw203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.166",
+      "lon": "33.84"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20303",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Kalumo",
+      "en": "TA Kalumo",
+      "slug": "ta-kalumo-mw20303"
+    },
+    "code": {
+      "id": "MW20303",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW203",
+      "level": 2,
+      "name": {
+        "local": "Ntchisi",
+        "en": "Ntchisi",
+        "slug": "ntchisi-mw203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW203",
+        "level": 2,
+        "name": {
+          "local": "Ntchisi",
+          "en": "Ntchisi",
+          "slug": "ntchisi-mw203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.428",
+      "lon": "33.865"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20301",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Kasakula",
+      "en": "TA Kasakula",
+      "slug": "ta-kasakula-mw20301"
+    },
+    "code": {
+      "id": "MW20301",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW203",
+      "level": 2,
+      "name": {
+        "local": "Ntchisi",
+        "en": "Ntchisi",
+        "slug": "ntchisi-mw203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW203",
+        "level": 2,
+        "name": {
+          "local": "Ntchisi",
+          "en": "Ntchisi",
+          "slug": "ntchisi-mw203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.339",
+      "lon": "34.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20307",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Malenga",
+      "en": "TA Malenga",
+      "slug": "ta-malenga-mw20307"
+    },
+    "code": {
+      "id": "MW20307",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW203",
+      "level": 2,
+      "name": {
+        "local": "Ntchisi",
+        "en": "Ntchisi",
+        "slug": "ntchisi-mw203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW203",
+        "level": 2,
+        "name": {
+          "local": "Ntchisi",
+          "en": "Ntchisi",
+          "slug": "ntchisi-mw203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.282",
+      "lon": "33.788"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20304",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Nthondo",
+      "en": "TA Nthondo",
+      "slug": "ta-nthondo-mw20304"
+    },
+    "code": {
+      "id": "MW20304",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW203",
+      "level": 2,
+      "name": {
+        "local": "Ntchisi",
+        "en": "Ntchisi",
+        "slug": "ntchisi-mw203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW203",
+        "level": 2,
+        "name": {
+          "local": "Ntchisi",
+          "en": "Ntchisi",
+          "slug": "ntchisi-mw203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.246",
+      "lon": "34.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20306",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Vuso Jere",
+      "en": "TA Vuso Jere",
+      "slug": "ta-vuso-jere-mw20306"
+    },
+    "code": {
+      "id": "MW20306",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW203",
+      "level": 2,
+      "name": {
+        "local": "Ntchisi",
+        "en": "Ntchisi",
+        "slug": "ntchisi-mw203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW203",
+        "level": 2,
+        "name": {
+          "local": "Ntchisi",
+          "en": "Ntchisi",
+          "slug": "ntchisi-mw203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.445",
+      "lon": "33.97"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

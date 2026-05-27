@@ -1,0 +1,272 @@
+[
+  {
+    "id": "MW30604",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Majete Game Reserve - Mwanza",
+      "en": "Majete Game Reserve - Mwanza",
+      "slug": "majete-game-reserve-mwanza-mw30604"
+    },
+    "code": {
+      "id": "MW30604",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW306",
+      "level": 2,
+      "name": {
+        "local": "Mwanza",
+        "en": "Mwanza",
+        "slug": "mwanza-mw306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW306",
+        "level": 2,
+        "name": {
+          "local": "Mwanza",
+          "en": "Mwanza",
+          "slug": "mwanza-mw306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.797",
+      "lon": "34.659"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30620",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Mwanza Boma",
+      "en": "Mwanza Boma",
+      "slug": "mwanza-boma-mw30620"
+    },
+    "code": {
+      "id": "MW30620",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW306",
+      "level": 2,
+      "name": {
+        "local": "Mwanza",
+        "en": "Mwanza",
+        "slug": "mwanza-mw306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW306",
+        "level": 2,
+        "name": {
+          "local": "Mwanza",
+          "en": "Mwanza",
+          "slug": "mwanza-mw306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.598",
+      "lon": "34.521"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30603",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "STA Govati",
+      "en": "STA Govati",
+      "slug": "sta-govati-mw30603"
+    },
+    "code": {
+      "id": "MW30603",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW306",
+      "level": 2,
+      "name": {
+        "local": "Mwanza",
+        "en": "Mwanza",
+        "slug": "mwanza-mw306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW306",
+        "level": 2,
+        "name": {
+          "local": "Mwanza",
+          "en": "Mwanza",
+          "slug": "mwanza-mw306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.731",
+      "lon": "34.415"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30601",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Kanduku",
+      "en": "TA Kanduku",
+      "slug": "ta-kanduku-mw30601"
+    },
+    "code": {
+      "id": "MW30601",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW306",
+      "level": 2,
+      "name": {
+        "local": "Mwanza",
+        "en": "Mwanza",
+        "slug": "mwanza-mw306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW306",
+        "level": 2,
+        "name": {
+          "local": "Mwanza",
+          "en": "Mwanza",
+          "slug": "mwanza-mw306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.611",
+      "lon": "34.557"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW30602",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Nthache",
+      "en": "TA Nthache",
+      "slug": "ta-nthache-mw30602"
+    },
+    "code": {
+      "id": "MW30602",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW306",
+      "level": 2,
+      "name": {
+        "local": "Mwanza",
+        "en": "Mwanza",
+        "slug": "mwanza-mw306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW3",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-mw3"
+        }
+      },
+      {
+        "id": "MW306",
+        "level": 2,
+        "name": {
+          "local": "Mwanza",
+          "en": "Mwanza",
+          "slug": "mwanza-mw306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.604",
+      "lon": "34.474"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

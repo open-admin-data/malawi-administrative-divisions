@@ -1,0 +1,758 @@
+[
+  {
+    "id": "MW10412",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Nyika National Park",
+      "en": "Nyika National Park",
+      "slug": "nyika-national-park-mw10412"
+    },
+    "code": {
+      "id": "MW10412",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW104",
+      "level": 2,
+      "name": {
+        "local": "Rumphi",
+        "en": "Rumphi",
+        "slug": "rumphi-mw104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      },
+      {
+        "id": "MW104",
+        "level": 2,
+        "name": {
+          "local": "Rumphi",
+          "en": "Rumphi",
+          "slug": "rumphi-mw104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.708",
+      "lon": "33.786"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW10420",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Rumphi Boma",
+      "en": "Rumphi Boma",
+      "slug": "rumphi-boma-mw10420"
+    },
+    "code": {
+      "id": "MW10420",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW104",
+      "level": 2,
+      "name": {
+        "local": "Rumphi",
+        "en": "Rumphi",
+        "slug": "rumphi-mw104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      },
+      {
+        "id": "MW104",
+        "level": 2,
+        "name": {
+          "local": "Rumphi",
+          "en": "Rumphi",
+          "slug": "rumphi-mw104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.02",
+      "lon": "33.857"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW10406",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "STA Chapinduka",
+      "en": "STA Chapinduka",
+      "slug": "sta-chapinduka-mw10406"
+    },
+    "code": {
+      "id": "MW10406",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW104",
+      "level": 2,
+      "name": {
+        "local": "Rumphi",
+        "en": "Rumphi",
+        "slug": "rumphi-mw104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      },
+      {
+        "id": "MW104",
+        "level": 2,
+        "name": {
+          "local": "Rumphi",
+          "en": "Rumphi",
+          "slug": "rumphi-mw104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.966",
+      "lon": "34.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW10410",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "STA Chisovya",
+      "en": "STA Chisovya",
+      "slug": "sta-chisovya-mw10410"
+    },
+    "code": {
+      "id": "MW10410",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW104",
+      "level": 2,
+      "name": {
+        "local": "Rumphi",
+        "en": "Rumphi",
+        "slug": "rumphi-mw104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      },
+      {
+        "id": "MW104",
+        "level": 2,
+        "name": {
+          "local": "Rumphi",
+          "en": "Rumphi",
+          "slug": "rumphi-mw104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.968",
+      "lon": "33.91"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW10405",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "STA Kachulu",
+      "en": "STA Kachulu",
+      "slug": "sta-kachulu-mw10405"
+    },
+    "code": {
+      "id": "MW10405",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW104",
+      "level": 2,
+      "name": {
+        "local": "Rumphi",
+        "en": "Rumphi",
+        "slug": "rumphi-mw104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      },
+      {
+        "id": "MW104",
+        "level": 2,
+        "name": {
+          "local": "Rumphi",
+          "en": "Rumphi",
+          "slug": "rumphi-mw104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.657",
+      "lon": "34.066"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW10411",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "STA Njikula",
+      "en": "STA Njikula",
+      "slug": "sta-njikula-mw10411"
+    },
+    "code": {
+      "id": "MW10411",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW104",
+      "level": 2,
+      "name": {
+        "local": "Rumphi",
+        "en": "Rumphi",
+        "slug": "rumphi-mw104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      },
+      {
+        "id": "MW104",
+        "level": 2,
+        "name": {
+          "local": "Rumphi",
+          "en": "Rumphi",
+          "slug": "rumphi-mw104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.763",
+      "lon": "34.159"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW10409",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "STA Zolokere",
+      "en": "STA Zolokere",
+      "slug": "sta-zolokere-mw10409"
+    },
+    "code": {
+      "id": "MW10409",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW104",
+      "level": 2,
+      "name": {
+        "local": "Rumphi",
+        "en": "Rumphi",
+        "slug": "rumphi-mw104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      },
+      {
+        "id": "MW104",
+        "level": 2,
+        "name": {
+          "local": "Rumphi",
+          "en": "Rumphi",
+          "slug": "rumphi-mw104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.85",
+      "lon": "33.489"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW10401",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Chikulamayembe",
+      "en": "TA Chikulamayembe",
+      "slug": "ta-chikulamayembe-mw10401"
+    },
+    "code": {
+      "id": "MW10401",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW104",
+      "level": 2,
+      "name": {
+        "local": "Rumphi",
+        "en": "Rumphi",
+        "slug": "rumphi-mw104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      },
+      {
+        "id": "MW104",
+        "level": 2,
+        "name": {
+          "local": "Rumphi",
+          "en": "Rumphi",
+          "slug": "rumphi-mw104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.968",
+      "lon": "33.707"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW10408",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Katumbi",
+      "en": "TA Katumbi",
+      "slug": "ta-katumbi-mw10408"
+    },
+    "code": {
+      "id": "MW10408",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW104",
+      "level": 2,
+      "name": {
+        "local": "Rumphi",
+        "en": "Rumphi",
+        "slug": "rumphi-mw104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      },
+      {
+        "id": "MW104",
+        "level": 2,
+        "name": {
+          "local": "Rumphi",
+          "en": "Rumphi",
+          "slug": "rumphi-mw104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.799",
+      "lon": "33.527"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW10403",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Mwahenga",
+      "en": "TA Mwahenga",
+      "slug": "ta-mwahenga-mw10403"
+    },
+    "code": {
+      "id": "MW10403",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW104",
+      "level": 2,
+      "name": {
+        "local": "Rumphi",
+        "en": "Rumphi",
+        "slug": "rumphi-mw104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      },
+      {
+        "id": "MW104",
+        "level": 2,
+        "name": {
+          "local": "Rumphi",
+          "en": "Rumphi",
+          "slug": "rumphi-mw104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.844",
+      "lon": "34.021"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW10404",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Mwalweni",
+      "en": "TA Mwalweni",
+      "slug": "ta-mwalweni-mw10404"
+    },
+    "code": {
+      "id": "MW10404",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW104",
+      "level": 2,
+      "name": {
+        "local": "Rumphi",
+        "en": "Rumphi",
+        "slug": "rumphi-mw104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      },
+      {
+        "id": "MW104",
+        "level": 2,
+        "name": {
+          "local": "Rumphi",
+          "en": "Rumphi",
+          "slug": "rumphi-mw104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.701",
+      "lon": "34.16"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW10402",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Mwamlowe",
+      "en": "TA Mwamlowe",
+      "slug": "ta-mwamlowe-mw10402"
+    },
+    "code": {
+      "id": "MW10402",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW104",
+      "level": 2,
+      "name": {
+        "local": "Rumphi",
+        "en": "Rumphi",
+        "slug": "rumphi-mw104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      },
+      {
+        "id": "MW104",
+        "level": 2,
+        "name": {
+          "local": "Rumphi",
+          "en": "Rumphi",
+          "slug": "rumphi-mw104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.827",
+      "lon": "34.17"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW10407",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Mwankhunikira",
+      "en": "TA Mwankhunikira",
+      "slug": "ta-mwankhunikira-mw10407"
+    },
+    "code": {
+      "id": "MW10407",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW104",
+      "level": 2,
+      "name": {
+        "local": "Rumphi",
+        "en": "Rumphi",
+        "slug": "rumphi-mw104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      },
+      {
+        "id": "MW104",
+        "level": 2,
+        "name": {
+          "local": "Rumphi",
+          "en": "Rumphi",
+          "slug": "rumphi-mw104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.931",
+      "lon": "34.056"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW10413",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Vwaza Marsh Reserve",
+      "en": "Vwaza Marsh Reserve",
+      "slug": "vwaza-marsh-reserve-mw10413"
+    },
+    "code": {
+      "id": "MW10413",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW104",
+      "level": 2,
+      "name": {
+        "local": "Rumphi",
+        "en": "Rumphi",
+        "slug": "rumphi-mw104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      },
+      {
+        "id": "MW104",
+        "level": 2,
+        "name": {
+          "local": "Rumphi",
+          "en": "Rumphi",
+          "slug": "rumphi-mw104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.98",
+      "lon": "33.422"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

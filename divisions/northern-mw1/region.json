@@ -1,0 +1,30 @@
+{
+  "id": "MW1",
+  "level": 1,
+  "level_name": {
+    "local": "Region",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Northern",
+    "en": "Northern",
+    "slug": "northern-mw1"
+  },
+  "code": {
+    "id": "MW1",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 7,
+    "ta": 76
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-11.054",
+    "lon": "33.774"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,758 @@
+[
+  {
+    "id": "MW10320",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Nkhatabay Boma",
+      "en": "Nkhatabay Boma",
+      "slug": "nkhatabay-boma-mw10320"
+    },
+    "code": {
+      "id": "MW10320",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW103",
+      "level": 2,
+      "name": {
+        "local": "Nkhatabay",
+        "en": "Nkhatabay",
+        "slug": "nkhatabay-mw103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      },
+      {
+        "id": "MW103",
+        "level": 2,
+        "name": {
+          "local": "Nkhatabay",
+          "en": "Nkhatabay",
+          "slug": "nkhatabay-mw103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.606",
+      "lon": "34.284"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW10311",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "STA Kondowe",
+      "en": "STA Kondowe",
+      "slug": "sta-kondowe-mw10311"
+    },
+    "code": {
+      "id": "MW10311",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW103",
+      "level": 2,
+      "name": {
+        "local": "Nkhatabay",
+        "en": "Nkhatabay",
+        "slug": "nkhatabay-mw103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      },
+      {
+        "id": "MW103",
+        "level": 2,
+        "name": {
+          "local": "Nkhatabay",
+          "en": "Nkhatabay",
+          "slug": "nkhatabay-mw103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.055",
+      "lon": "34.192"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW10310",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "STA Nyaluwanga",
+      "en": "STA Nyaluwanga",
+      "slug": "sta-nyaluwanga-mw10310"
+    },
+    "code": {
+      "id": "MW10310",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW103",
+      "level": 2,
+      "name": {
+        "local": "Nkhatabay",
+        "en": "Nkhatabay",
+        "slug": "nkhatabay-mw103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      },
+      {
+        "id": "MW103",
+        "level": 2,
+        "name": {
+          "local": "Nkhatabay",
+          "en": "Nkhatabay",
+          "slug": "nkhatabay-mw103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.354",
+      "lon": "34.109"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW10314",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Boghoyo",
+      "en": "TA Boghoyo",
+      "slug": "ta-boghoyo-mw10314"
+    },
+    "code": {
+      "id": "MW10314",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW103",
+      "level": 2,
+      "name": {
+        "local": "Nkhatabay",
+        "en": "Nkhatabay",
+        "slug": "nkhatabay-mw103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      },
+      {
+        "id": "MW103",
+        "level": 2,
+        "name": {
+          "local": "Nkhatabay",
+          "en": "Nkhatabay",
+          "slug": "nkhatabay-mw103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.117",
+      "lon": "34.176"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW10307",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Fukamalaza",
+      "en": "TA Fukamalaza",
+      "slug": "ta-fukamalaza-mw10307"
+    },
+    "code": {
+      "id": "MW10307",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW103",
+      "level": 2,
+      "name": {
+        "local": "Nkhatabay",
+        "en": "Nkhatabay",
+        "slug": "nkhatabay-mw103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      },
+      {
+        "id": "MW103",
+        "level": 2,
+        "name": {
+          "local": "Nkhatabay",
+          "en": "Nkhatabay",
+          "slug": "nkhatabay-mw103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.738",
+      "lon": "34.228"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW10302",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Fukamapiri",
+      "en": "TA Fukamapiri",
+      "slug": "ta-fukamapiri-mw10302"
+    },
+    "code": {
+      "id": "MW10302",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW103",
+      "level": 2,
+      "name": {
+        "local": "Nkhatabay",
+        "en": "Nkhatabay",
+        "slug": "nkhatabay-mw103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      },
+      {
+        "id": "MW103",
+        "level": 2,
+        "name": {
+          "local": "Nkhatabay",
+          "en": "Nkhatabay",
+          "slug": "nkhatabay-mw103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.962",
+      "lon": "34.048"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW10301",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Kabunduli",
+      "en": "TA Kabunduli",
+      "slug": "ta-kabunduli-mw10301"
+    },
+    "code": {
+      "id": "MW10301",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW103",
+      "level": 2,
+      "name": {
+        "local": "Nkhatabay",
+        "en": "Nkhatabay",
+        "slug": "nkhatabay-mw103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      },
+      {
+        "id": "MW103",
+        "level": 2,
+        "name": {
+          "local": "Nkhatabay",
+          "en": "Nkhatabay",
+          "slug": "nkhatabay-mw103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.757",
+      "lon": "33.946"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW10309",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA M'bwana",
+      "en": "TA M'bwana",
+      "slug": "ta-mbwana-mw10309"
+    },
+    "code": {
+      "id": "MW10309",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW103",
+      "level": 2,
+      "name": {
+        "local": "Nkhatabay",
+        "en": "Nkhatabay",
+        "slug": "nkhatabay-mw103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      },
+      {
+        "id": "MW103",
+        "level": 2,
+        "name": {
+          "local": "Nkhatabay",
+          "en": "Nkhatabay",
+          "slug": "nkhatabay-mw103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.255",
+      "lon": "34.114"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW10304",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Malanda",
+      "en": "TA Malanda",
+      "slug": "ta-malanda-mw10304"
+    },
+    "code": {
+      "id": "MW10304",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW103",
+      "level": 2,
+      "name": {
+        "local": "Nkhatabay",
+        "en": "Nkhatabay",
+        "slug": "nkhatabay-mw103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      },
+      {
+        "id": "MW103",
+        "level": 2,
+        "name": {
+          "local": "Nkhatabay",
+          "en": "Nkhatabay",
+          "slug": "nkhatabay-mw103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.811",
+      "lon": "34.135"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW10303",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Malenga Mzoma",
+      "en": "TA Malenga Mzoma",
+      "slug": "ta-malenga-mzoma-mw10303"
+    },
+    "code": {
+      "id": "MW10303",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW103",
+      "level": 2,
+      "name": {
+        "local": "Nkhatabay",
+        "en": "Nkhatabay",
+        "slug": "nkhatabay-mw103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      },
+      {
+        "id": "MW103",
+        "level": 2,
+        "name": {
+          "local": "Nkhatabay",
+          "en": "Nkhatabay",
+          "slug": "nkhatabay-mw103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.912",
+      "lon": "34.14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW10306",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Mankhambira",
+      "en": "TA Mankhambira",
+      "slug": "ta-mankhambira-mw10306"
+    },
+    "code": {
+      "id": "MW10306",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW103",
+      "level": 2,
+      "name": {
+        "local": "Nkhatabay",
+        "en": "Nkhatabay",
+        "slug": "nkhatabay-mw103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      },
+      {
+        "id": "MW103",
+        "level": 2,
+        "name": {
+          "local": "Nkhatabay",
+          "en": "Nkhatabay",
+          "slug": "nkhatabay-mw103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.682",
+      "lon": "34.271"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW10308",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Mkumbira",
+      "en": "TA Mkumbira",
+      "slug": "ta-mkumbira-mw10308"
+    },
+    "code": {
+      "id": "MW10308",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW103",
+      "level": 2,
+      "name": {
+        "local": "Nkhatabay",
+        "en": "Nkhatabay",
+        "slug": "nkhatabay-mw103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      },
+      {
+        "id": "MW103",
+        "level": 2,
+        "name": {
+          "local": "Nkhatabay",
+          "en": "Nkhatabay",
+          "slug": "nkhatabay-mw103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.593",
+      "lon": "34.261"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW10312",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Timbiri",
+      "en": "TA Timbiri",
+      "slug": "ta-timbiri-mw10312"
+    },
+    "code": {
+      "id": "MW10312",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW103",
+      "level": 2,
+      "name": {
+        "local": "Nkhatabay",
+        "en": "Nkhatabay",
+        "slug": "nkhatabay-mw103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      },
+      {
+        "id": "MW103",
+        "level": 2,
+        "name": {
+          "local": "Nkhatabay",
+          "en": "Nkhatabay",
+          "slug": "nkhatabay-mw103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.557",
+      "lon": "34.175"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW10305",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Zilakoma",
+      "en": "TA Zilakoma",
+      "slug": "ta-zilakoma-mw10305"
+    },
+    "code": {
+      "id": "MW10305",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW103",
+      "level": 2,
+      "name": {
+        "local": "Nkhatabay",
+        "en": "Nkhatabay",
+        "slug": "nkhatabay-mw103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW1",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-mw1"
+        }
+      },
+      {
+        "id": "MW103",
+        "level": 2,
+        "name": {
+          "local": "Nkhatabay",
+          "en": "Nkhatabay",
+          "slug": "nkhatabay-mw103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.13",
+      "lon": "33.919"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

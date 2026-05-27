@@ -1,0 +1,488 @@
+[
+  {
+    "id": "MW20220",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Nkhotakota Boma",
+      "en": "Nkhotakota Boma",
+      "slug": "nkhotakota-boma-mw20220"
+    },
+    "code": {
+      "id": "MW20220",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW202",
+      "level": 2,
+      "name": {
+        "local": "Nkhotakota",
+        "en": "Nkhotakota",
+        "slug": "nkhotakota-mw202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW202",
+        "level": 2,
+        "name": {
+          "local": "Nkhotakota",
+          "en": "Nkhotakota",
+          "slug": "nkhotakota-mw202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.925",
+      "lon": "34.288"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20208",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "Nkhotakota Game Reserve",
+      "en": "Nkhotakota Game Reserve",
+      "slug": "nkhotakota-game-reserve-mw20208"
+    },
+    "code": {
+      "id": "MW20208",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW202",
+      "level": 2,
+      "name": {
+        "local": "Nkhotakota",
+        "en": "Nkhotakota",
+        "slug": "nkhotakota-mw202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW202",
+        "level": 2,
+        "name": {
+          "local": "Nkhotakota",
+          "en": "Nkhotakota",
+          "slug": "nkhotakota-mw202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.878",
+      "lon": "34.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20203",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "STA Kalimanjira",
+      "en": "STA Kalimanjira",
+      "slug": "sta-kalimanjira-mw20203"
+    },
+    "code": {
+      "id": "MW20203",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW202",
+      "level": 2,
+      "name": {
+        "local": "Nkhotakota",
+        "en": "Nkhotakota",
+        "slug": "nkhotakota-mw202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW202",
+        "level": 2,
+        "name": {
+          "local": "Nkhotakota",
+          "en": "Nkhotakota",
+          "slug": "nkhotakota-mw202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.101",
+      "lon": "34.259"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20202",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Kafuzila",
+      "en": "TA Kafuzila",
+      "slug": "ta-kafuzila-mw20202"
+    },
+    "code": {
+      "id": "MW20202",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW202",
+      "level": 2,
+      "name": {
+        "local": "Nkhotakota",
+        "en": "Nkhotakota",
+        "slug": "nkhotakota-mw202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW202",
+        "level": 2,
+        "name": {
+          "local": "Nkhotakota",
+          "en": "Nkhotakota",
+          "slug": "nkhotakota-mw202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.324",
+      "lon": "33.955"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20201",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Kanyenda",
+      "en": "TA Kanyenda",
+      "slug": "ta-kanyenda-mw20201"
+    },
+    "code": {
+      "id": "MW20201",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW202",
+      "level": 2,
+      "name": {
+        "local": "Nkhotakota",
+        "en": "Nkhotakota",
+        "slug": "nkhotakota-mw202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW202",
+        "level": 2,
+        "name": {
+          "local": "Nkhotakota",
+          "en": "Nkhotakota",
+          "slug": "nkhotakota-mw202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.56",
+      "lon": "34.121"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20204",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Malenga Chanzi",
+      "en": "TA Malenga Chanzi",
+      "slug": "ta-malenga-chanzi-mw20204"
+    },
+    "code": {
+      "id": "MW20204",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW202",
+      "level": 2,
+      "name": {
+        "local": "Nkhotakota",
+        "en": "Nkhotakota",
+        "slug": "nkhotakota-mw202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW202",
+        "level": 2,
+        "name": {
+          "local": "Nkhotakota",
+          "en": "Nkhotakota",
+          "slug": "nkhotakota-mw202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.99",
+      "lon": "34.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20205",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Mphonde",
+      "en": "TA Mphonde",
+      "slug": "ta-mphonde-mw20205"
+    },
+    "code": {
+      "id": "MW20205",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW202",
+      "level": 2,
+      "name": {
+        "local": "Nkhotakota",
+        "en": "Nkhotakota",
+        "slug": "nkhotakota-mw202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW202",
+        "level": 2,
+        "name": {
+          "local": "Nkhotakota",
+          "en": "Nkhotakota",
+          "slug": "nkhotakota-mw202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.84",
+      "lon": "34.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20206",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Mwadzama",
+      "en": "TA Mwadzama",
+      "slug": "ta-mwadzama-mw20206"
+    },
+    "code": {
+      "id": "MW20206",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW202",
+      "level": 2,
+      "name": {
+        "local": "Nkhotakota",
+        "en": "Nkhotakota",
+        "slug": "nkhotakota-mw202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW202",
+        "level": 2,
+        "name": {
+          "local": "Nkhotakota",
+          "en": "Nkhotakota",
+          "slug": "nkhotakota-mw202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.31",
+      "lon": "34.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MW20207",
+    "level": 3,
+    "level_name": {
+      "local": "Traditional Authority",
+      "en": "Traditional Authority"
+    },
+    "name": {
+      "local": "TA Mwansambo",
+      "en": "TA Mwansambo",
+      "slug": "ta-mwansambo-mw20207"
+    },
+    "code": {
+      "id": "MW20207",
+      "iso": null
+    },
+    "parent": {
+      "id": "MW202",
+      "level": 2,
+      "name": {
+        "local": "Nkhotakota",
+        "en": "Nkhotakota",
+        "slug": "nkhotakota-mw202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MW2",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-mw2"
+        }
+      },
+      {
+        "id": "MW202",
+        "level": 2,
+        "name": {
+          "local": "Nkhotakota",
+          "en": "Nkhotakota",
+          "slug": "nkhotakota-mw202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.299",
+      "lon": "34.139"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

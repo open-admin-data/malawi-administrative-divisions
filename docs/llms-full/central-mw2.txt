@@ -1,0 +1,771 @@
+# Central — Malawi Administrative Divisions
+
+> 10 districts, 178 traditional authoritys
+> Code: MW2
+> Coordinates: -13.744, 33.705
+> Last updated: 2026-05-27. License: CC-BY-4.0.
+
+## Districts
+
+### Dedza
+
+Code: MW208, Coordinates: -14.239, 34.318
+Traditional Authoritys: 9
+
+#### Dedza Boma
+
+Code: MW20820, Coordinates: -14.382, 34.322
+
+#### TA Chauma
+
+Code: MW20805, Coordinates: -14.088, 34.162
+
+#### TA Chilikumwendo
+
+Code: MW20802, Coordinates: -14.304, 33.965
+
+#### TA Kachere
+
+Code: MW20801, Coordinates: -14.442, 33.928
+
+#### TA Kachindamoto
+
+Code: MW20807, Coordinates: -14.276, 34.582
+
+#### TA Kamenya Gwaza
+
+Code: MW20808, Coordinates: -14.317, 34.438
+
+#### TA Kaphuka
+
+Code: MW20803, Coordinates: -14.233, 34.128
+
+#### TA Kasumbu
+
+Code: MW20806, Coordinates: -14.179, 34.357
+
+#### TA Tambala
+
+Code: MW20804, Coordinates: -14.045, 34.257
+
+### Dowa
+
+Code: MW204, Coordinates: -13.523, 33.741
+Traditional Authoritys: 9
+
+#### Dowa Boma
+
+Code: MW20420, Coordinates: -13.652, 33.933
+
+#### Mponela Urban
+
+Code: MW20421, Coordinates: -13.539, 33.741
+
+#### TA Chakhaza
+
+Code: MW20402, Coordinates: -13.375, 33.605
+
+#### TA Chiwere
+
+Code: MW20404, Coordinates: -13.7, 34.077
+
+#### TA Dzoole
+
+Code: MW20401, Coordinates: -13.476, 33.741
+
+#### TA Kayembe
+
+Code: MW20403, Coordinates: -13.578, 33.537
+
+#### TA Mkukula
+
+Code: MW20405, Coordinates: -13.752, 33.937
+
+#### TA Mponela
+
+Code: MW20407, Coordinates: -13.567, 33.778
+
+#### TA Msakambewa
+
+Code: MW20406, Coordinates: -13.574, 33.975
+
+### Kasungu
+
+Code: MW201, Coordinates: -12.998, 33.471
+Traditional Authoritys: 28
+
+#### Kasungu Boma
+
+Code: MW20120, Coordinates: -13.037, 33.476
+
+#### Kasungu National Park
+
+Code: MW20128, Coordinates: -12.945, 33.184
+
+#### STA Chaima
+
+Code: MW20115, Coordinates: -13.411, 33.22
+
+#### STA Chambwe
+
+Code: MW20111, Coordinates: -13.185, 33.644
+
+#### STA Chisikwa
+
+Code: MW20105, Coordinates: -12.411, 33.539
+
+#### STA Chisinga
+
+Code: MW20113, Coordinates: -12.604, 33.337
+
+#### STA Kapichira
+
+Code: MW20125, Coordinates: -12.928, 33.968
+
+#### STA M&#39;nyanja
+
+Code: MW20104, Coordinates: -12.742, 33.473
+
+#### STA Mangwazu
+
+Code: MW20117, Coordinates: -13.026, 33.359
+
+#### STA Mawawa
+
+Code: MW20118, Coordinates: -13.057, 33.349
+
+#### STA Mdunga
+
+Code: MW20126, Coordinates: -12.998, 33.875
+
+#### STA Mphomwa
+
+Code: MW20114, Coordinates: -12.833, 33.431
+
+#### STA Nthunduwala
+
+Code: MW20108, Coordinates: -13.321, 33.07
+
+#### TA Chidzuma
+
+Code: MW20122, Coordinates: -13.372, 33.334
+
+#### TA Chilowamatambe
+
+Code: MW20110, Coordinates: -13.101, 33.664
+
+#### TA Chisemphere
+
+Code: MW20102, Coordinates: -12.644, 33.512
+
+#### TA Chulu
+
+Code: MW20112, Coordinates: -12.785, 33.338
+
+#### TA Kaluluma
+
+Code: MW20101, Coordinates: -12.516, 33.485
+
+#### TA Kaomba
+
+Code: MW20106, Coordinates: -13.026, 33.525
+
+#### TA Kapelula
+
+Code: MW20124, Coordinates: -12.904, 33.871
+
+#### TA Kaphaizi
+
+Code: MW20116, Coordinates: -12.96, 33.356
+
+#### TA Kawamba
+
+Code: MW20107, Coordinates: -13.247, 33.265
+
+#### TA Lukwa
+
+Code: MW20119, Coordinates: -13.119, 33.354
+
+#### TA Mwase
+
+Code: MW20127, Coordinates: -12.983, 33.421
+
+#### TA Njombwa
+
+Code: MW20109, Coordinates: -13.233, 33.513
+
+#### TA Santhe
+
+Code: MW20121, Coordinates: -13.485, 33.303
+
+#### TA Simlemba
+
+Code: MW20103, Coordinates: -12.765, 33.629
+
+#### TA Wimbe
+
+Code: MW20123, Coordinates: -12.903, 33.688
+
+### Lilongwe
+
+Code: MW206, Coordinates: -14.045, 33.499
+Traditional Authoritys: 18
+
+#### STA Chitekwele
+
+Code: MW20607, Coordinates: -13.915, 34.141
+
+#### STA Mbang&#39;ombe
+
+Code: MW20618, Coordinates: -13.727, 33.693
+
+#### TA Chadza
+
+Code: MW20601, Coordinates: -14.145, 33.842
+
+#### TA Chimutu
+
+Code: MW20609, Coordinates: -13.858, 33.952
+
+#### TA Chiseka
+
+Code: MW20605, Coordinates: -14.226, 33.735
+
+#### TA Chitukula
+
+Code: MW20610, Coordinates: -13.758, 33.732
+
+#### TA Kabudula
+
+Code: MW20617, Coordinates: -13.817, 33.507
+
+#### TA Kalolo
+
+Code: MW20602, Coordinates: -14.034, 33.417
+
+#### TA Kalumba
+
+Code: MW20614, Coordinates: -14.077, 33.808
+
+#### TA Kalumbu
+
+Code: MW20612, Coordinates: -14.158, 33.987
+
+#### TA Khongoni
+
+Code: MW20608, Coordinates: -13.699, 33.363
+
+#### TA Malili
+
+Code: MW20616, Coordinates: -14.025, 33.585
+
+#### TA Masula
+
+Code: MW20603, Coordinates: -14.381, 33.613
+
+#### TA Masumbankhunda
+
+Code: MW20604, Coordinates: -14.199, 33.504
+
+#### TA Mazengera
+
+Code: MW20606, Coordinates: -14.037, 34.026
+
+#### TA Mtema
+
+Code: MW20611, Coordinates: -13.81, 33.65
+
+#### TA Njewa
+
+Code: MW20615, Coordinates: -13.947, 33.649
+
+#### TA Tsabango
+
+Code: MW20613, Coordinates: -13.995, 33.875
+
+### Lilongwe City
+
+Code: MW210, Coordinates: -13.909, 33.785
+Traditional Authoritys: 58
+
+#### Area 1
+
+Code: MW21031, Coordinates: -14.002, 33.782
+
+#### Area 10
+
+Code: MW21040, Coordinates: -13.94, 33.803
+
+#### Area 11
+
+Code: MW21041, Coordinates: -13.954, 33.798
+
+#### Area 12
+
+Code: MW21042, Coordinates: -13.955, 33.81
+
+#### Area 13
+
+Code: MW21043, Coordinates: -13.965, 33.795
+
+#### Area 14
+
+Code: MW21044, Coordinates: -13.95, 33.781
+
+#### Area 15
+
+Code: MW21045, Coordinates: -13.961, 33.769
+
+#### Area 16
+
+Code: MW21046, Coordinates: -13.965, 33.79
+
+#### Area 17
+
+Code: MW21047, Coordinates: -13.975, 33.806
+
+#### Area 18
+
+Code: MW21048, Coordinates: -13.941, 33.773
+
+#### Area 19
+
+Code: MW21049, Coordinates: -13.959, 33.791
+
+#### Area 2
+
+Code: MW21032, Coordinates: -13.987, 33.779
+
+#### Area 20
+
+Code: MW21050, Coordinates: -13.943, 33.789
+
+#### Area 21
+
+Code: MW21051, Coordinates: -13.993, 33.811
+
+#### Area 22
+
+Code: MW21052, Coordinates: -14.008, 33.799
+
+#### Area 23
+
+Code: MW21053, Coordinates: -14.014, 33.819
+
+#### Area 24
+
+Code: MW21054, Coordinates: -14.027, 33.808
+
+#### Area 25
+
+Code: MW21055, Coordinates: -13.873, 33.762
+
+#### Area 26
+
+Code: MW21056, Coordinates: -13.87, 33.793
+
+#### Area 27
+
+Code: MW21057, Coordinates: -13.879, 33.811
+
+#### Area 28
+
+Code: MW21058, Coordinates: -13.91, 33.783
+
+#### Area 29
+
+Code: MW21059, Coordinates: -13.896, 33.798
+
+#### Area 3
+
+Code: MW21033, Coordinates: -13.996, 33.758
+
+#### Area 30
+
+Code: MW21060, Coordinates: -13.926, 33.78
+
+#### Area 31
+
+Code: MW21061, Coordinates: -13.953, 33.791
+
+#### Area 32
+
+Code: MW21062, Coordinates: -13.964, 33.78
+
+#### Area 33
+
+Code: MW21063, Coordinates: -13.976, 33.788
+
+#### Area 34
+
+Code: MW21064, Coordinates: -13.967, 33.806
+
+#### Area 35
+
+Code: MW21065, Coordinates: -13.982, 33.823
+
+#### Area 36
+
+Code: MW21066, Coordinates: -14.029, 33.785
+
+#### Area 37
+
+Code: MW21067, Coordinates: -14.003, 33.772
+
+#### Area 38
+
+Code: MW21068, Coordinates: -14.047, 33.811
+
+#### Area 39
+
+Code: MW21069, Coordinates: -13.9, 33.809
+
+#### Area 4
+
+Code: MW21034, Coordinates: -13.981, 33.771
+
+#### Area 40
+
+Code: MW21070, Coordinates: -13.961, 33.787
+
+#### Area 41
+
+Code: MW21071, Coordinates: -13.958, 33.823
+
+#### Area 42
+
+Code: MW21072, Coordinates: -13.949, 33.799
+
+#### Area 43
+
+Code: MW21073, Coordinates: -13.921, 33.803
+
+#### Area 44
+
+Code: MW21074, Coordinates: -13.944, 33.838
+
+#### Area 45
+
+Code: MW21075, Coordinates: -14.022, 33.746
+
+#### Area 46
+
+Code: MW21076, Coordinates: -13.995, 33.734
+
+#### Area 47
+
+Code: MW21077, Coordinates: -13.959, 33.749
+
+#### Area 48
+
+Code: MW21078, Coordinates: -13.946, 33.753
+
+#### Area 49
+
+Code: MW21079, Coordinates: -13.927, 33.747
+
+#### Area 5
+
+Code: MW21035, Coordinates: -13.978, 33.765
+
+#### Area 50
+
+Code: MW21080, Coordinates: -13.916, 33.77
+
+#### Area 51
+
+Code: MW21081, Coordinates: -13.9, 33.781
+
+#### Area 52
+
+Code: MW21082, Coordinates: -13.782, 33.779
+
+#### Area 53
+
+Code: MW21083, Coordinates: -13.78, 33.823
+
+#### Area 54
+
+Code: MW21084, Coordinates: -13.836, 33.813
+
+#### Area 55
+
+Code: MW21085, Coordinates: -13.833, 33.761
+
+#### Area 56
+
+Code: MW21086, Coordinates: -13.956, 33.726
+
+#### Area 57
+
+Code: MW21087, Coordinates: -14.009, 33.718
+
+#### Area 58
+
+Code: MW21088, Coordinates: -14.035, 33.69
+
+#### Area 6
+
+Code: MW21036, Coordinates: -13.969, 33.767
+
+#### Area 7
+
+Code: MW21037, Coordinates: -13.985, 33.797
+
+#### Area 8
+
+Code: MW21038, Coordinates: -13.998, 33.79
+
+#### Area 9
+
+Code: MW21039, Coordinates: -13.982, 33.748
+
+### Mchinji
+
+Code: MW207, Coordinates: -13.782, 33.025
+Traditional Authoritys: 14
+
+#### Mchinji Boma
+
+Code: MW20720, Coordinates: -13.797, 32.882
+
+#### STA Gumba
+
+Code: MW20708, Coordinates: -13.399, 33.064
+
+#### STA Kapunula
+
+Code: MW20710, Coordinates: -13.599, 32.751
+
+#### STA Nyoka
+
+Code: MW20706, Coordinates: -13.708, 32.952
+
+#### STA Pitala
+
+Code: MW20709, Coordinates: -13.524, 33.026
+
+#### TA Dambe
+
+Code: MW20712, Coordinates: -13.525, 33.127
+
+#### TA Kapondo
+
+Code: MW20713, Coordinates: -13.624, 33.069
+
+#### TA Kazyozyo
+
+Code: MW20711, Coordinates: -13.594, 32.856
+
+#### TA Mavwere
+
+Code: MW20702, Coordinates: -14.021, 33.307
+
+#### TA Mduwa
+
+Code: MW20705, Coordinates: -13.692, 33.165
+
+#### TA Mkanda
+
+Code: MW20707, Coordinates: -13.508, 32.929
+
+#### TA Mlonyeni
+
+Code: MW20701, Coordinates: -13.902, 33.015
+
+#### TA Simphasi
+
+Code: MW20704, Coordinates: -13.794, 33.163
+
+#### TA Zulu
+
+Code: MW20703, Coordinates: -13.835, 33.063
+
+### Nkhotakota
+
+Code: MW202, Coordinates: -12.832, 34.052
+Traditional Authoritys: 9
+
+#### Nkhotakota Boma
+
+Code: MW20220, Coordinates: -12.925, 34.288
+
+#### Nkhotakota Game Reserve
+
+Code: MW20208, Coordinates: -12.878, 34.054
+
+#### STA Kalimanjira
+
+Code: MW20203, Coordinates: -13.101, 34.259
+
+#### TA Kafuzila
+
+Code: MW20202, Coordinates: -12.324, 33.955
+
+#### TA Kanyenda
+
+Code: MW20201, Coordinates: -12.56, 34.121
+
+#### TA Malenga Chanzi
+
+Code: MW20204, Coordinates: -12.99, 34.247
+
+#### TA Mphonde
+
+Code: MW20205, Coordinates: -12.84, 34.217
+
+#### TA Mwadzama
+
+Code: MW20206, Coordinates: -13.31, 34.258
+
+#### TA Mwansambo
+
+Code: MW20207, Coordinates: -13.299, 34.139
+
+### Ntcheu
+
+Code: MW209, Coordinates: -14.822, 34.768
+Traditional Authoritys: 12
+
+#### Ntcheu Boma
+
+Code: MW20920, Coordinates: -14.814, 34.635
+
+#### STA Mkutumula
+
+Code: MW20906, Coordinates: -14.821, 34.916
+
+#### STA Tsikulamowa
+
+Code: MW20902, Coordinates: -15.153, 34.817
+
+#### TA Chakhumbira
+
+Code: MW20909, Coordinates: -14.512, 34.515
+
+#### TA Champiti
+
+Code: MW20907, Coordinates: -14.909, 34.738
+
+#### TA Goodson Ganya
+
+Code: MW20910, Coordinates: -14.595, 34.701
+
+#### TA Kwataine
+
+Code: MW20904, Coordinates: -14.826, 34.704
+
+#### TA Makwangwala
+
+Code: MW20905, Coordinates: -14.855, 34.813
+
+#### TA Masasa
+
+Code: MW20911, Coordinates: -14.4, 34.691
+
+#### TA Mpando
+
+Code: MW20903, Coordinates: -15.011, 34.65
+
+#### TA Njolomole
+
+Code: MW20908, Coordinates: -14.669, 34.582
+
+#### TA Phambala
+
+Code: MW20901, Coordinates: -15.09, 34.731
+
+### Ntchisi
+
+Code: MW203, Coordinates: -13.277, 33.899
+Traditional Authoritys: 8
+
+#### Ntchisi Boma
+
+Code: MW20320, Coordinates: -13.349, 33.919
+
+#### TA Chikho
+
+Code: MW20302, Coordinates: -13.465, 34.056
+
+#### TA Chilooko
+
+Code: MW20305, Coordinates: -13.166, 33.84
+
+#### TA Kalumo
+
+Code: MW20303, Coordinates: -13.428, 33.865
+
+#### TA Kasakula
+
+Code: MW20301, Coordinates: -13.339, 34.054
+
+#### TA Malenga
+
+Code: MW20307, Coordinates: -13.282, 33.788
+
+#### TA Nthondo
+
+Code: MW20304, Coordinates: -13.246, 34.043
+
+#### TA Vuso Jere
+
+Code: MW20306, Coordinates: -13.445, 33.97
+
+### Salima
+
+Code: MW205, Coordinates: -13.767, 34.454
+Traditional Authoritys: 13
+
+#### Chipoka Urban
+
+Code: MW20521, Coordinates: -13.998, 34.51
+
+#### Lake Malawi National Park
+
+Code: MW20511, Coordinates: -13.9, 34.626
+
+#### Salima Town
+
+Code: MW20520, Coordinates: -13.772, 34.446
+
+#### TA Kambalame
+
+Code: MW20506, Coordinates: -14.077, 34.501
+
+#### TA Kambwiri
+
+Code: MW20504, Coordinates: -13.881, 34.389
+
+#### TA Karonga
+
+Code: MW20502, Coordinates: -13.764, 34.36
+
+#### TA Khombedza
+
+Code: MW20507, Coordinates: -13.566, 34.326
+
+#### TA Kuluunda
+
+Code: MW20509, Coordinates: -13.664, 34.534
+
+#### TA Maganga
+
+Code: MW20501, Coordinates: -13.79, 34.542
+
+#### TA Msosa
+
+Code: MW20510, Coordinates: -13.509, 34.373
+
+#### TA Mwanza
+
+Code: MW20508, Coordinates: -13.617, 34.173
+
+#### TA Ndindi
+
+Code: MW20505, Coordinates: -13.987, 34.437
+
+#### TA Pemba
+
+Code: MW20503, Coordinates: -13.869, 34.519
+

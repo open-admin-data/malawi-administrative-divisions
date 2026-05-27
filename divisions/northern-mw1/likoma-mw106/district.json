@@ -1,0 +1,47 @@
+{
+  "id": "MW106",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Likoma",
+    "en": "Likoma",
+    "slug": "likoma-mw106"
+  },
+  "code": {
+    "id": "MW106",
+    "iso": null
+  },
+  "parent": {
+    "id": "MW1",
+    "level": 1,
+    "name": {
+      "local": "Northern",
+      "en": "Northern",
+      "slug": "northern-mw1"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MW1",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-mw1"
+      }
+    }
+  ],
+  "children_count": {
+    "ta": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-12.066",
+    "lon": "34.732"
+  },
+  "metadata": {},
+  "source": {}
+}

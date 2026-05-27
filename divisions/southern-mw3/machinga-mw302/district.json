@@ -1,0 +1,47 @@
+{
+  "id": "MW302",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Machinga",
+    "en": "Machinga",
+    "slug": "machinga-mw302"
+  },
+  "code": {
+    "id": "MW302",
+    "iso": null
+  },
+  "parent": {
+    "id": "MW3",
+    "level": 1,
+    "name": {
+      "local": "Southern",
+      "en": "Southern",
+      "slug": "southern-mw3"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MW3",
+      "level": 1,
+      "name": {
+        "local": "Southern",
+        "en": "Southern",
+        "slug": "southern-mw3"
+      }
+    }
+  ],
+  "children_count": {
+    "ta": 19
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-14.908",
+    "lon": "35.518"
+  },
+  "metadata": {},
+  "source": {}
+}

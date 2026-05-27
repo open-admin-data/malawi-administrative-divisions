@@ -1,0 +1,47 @@
+{
+  "id": "MW107",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mzuzu City",
+    "en": "Mzuzu City",
+    "slug": "mzuzu-city-mw107"
+  },
+  "code": {
+    "id": "MW107",
+    "iso": null
+  },
+  "parent": {
+    "id": "MW1",
+    "level": 1,
+    "name": {
+      "local": "Northern",
+      "en": "Northern",
+      "slug": "northern-mw1"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MW1",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-mw1"
+      }
+    }
+  ],
+  "children_count": {
+    "ta": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-11.434",
+    "lon": "34.005"
+  },
+  "metadata": {},
+  "source": {}
+}

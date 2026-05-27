@@ -1,0 +1,17 @@
+# Malawi Administrative Divisions — Full Reference
+
+> Last updated: 2026-05-27. License: CC-BY-4.0.
+
+## Per-Region Data Files
+
+- [Northern](https://github.com/open-admin-data/malawi-administrative-divisions/blob/main/docs/llms-full/northern-mw1.txt) — 7 districts, 76 traditional authoritys
+- [Central](https://github.com/open-admin-data/malawi-administrative-divisions/blob/main/docs/llms-full/central-mw2.txt) — 10 districts, 178 traditional authoritys
+- [Southern](https://github.com/open-admin-data/malawi-administrative-divisions/blob/main/docs/llms-full/southern-mw3.txt) — 15 districts, 179 traditional authoritys
+
+## Summary
+
+| Region | Districts | Traditional Authoritys | 
+|---|---|---|
+| Northern | 7 | 76 | 
+| Central | 10 | 178 | 
+| Southern | 15 | 179 | 

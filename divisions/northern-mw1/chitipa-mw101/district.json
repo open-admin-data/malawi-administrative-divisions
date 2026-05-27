@@ -1,0 +1,47 @@
+{
+  "id": "MW101",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Chitipa",
+    "en": "Chitipa",
+    "slug": "chitipa-mw101"
+  },
+  "code": {
+    "id": "MW101",
+    "iso": null
+  },
+  "parent": {
+    "id": "MW1",
+    "level": 1,
+    "name": {
+      "local": "Northern",
+      "en": "Northern",
+      "slug": "northern-mw1"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MW1",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-mw1"
+      }
+    }
+  ],
+  "children_count": {
+    "ta": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.974",
+    "lon": "33.412"
+  },
+  "metadata": {},
+  "source": {}
+}
